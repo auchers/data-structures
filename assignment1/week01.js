@@ -10,7 +10,7 @@ file.forEach (function(f,i) {
         console.log('past request for '+ f);
       if (!error && response.statusCode == 200) {
         console.log('writing file for '+ f);
-        fs.writeFileSync('/home/ubuntu/workspace/data/'+file[i]+'.txt', body);
+        fs.writeFileSync('/home/ubuntu/workspace/assignment1/data/'+file[i]+'.txt', body);
         console.log('done writing file '+ f);
       }
       else {console.error('request failed')}
