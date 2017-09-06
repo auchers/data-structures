@@ -2,27 +2,17 @@
 
 var fs = require('fs');
 var cheerio = require('cheerio');
-
-// load the thesis text file into a variable, `content`
 var content = fs.readFileSync('m04.txt');
 
-// load `content` into a cheerio object
-// common practice to use $ for selections, but can use whatever
 var $ = cheerio.load(content);
 
-// print names of thesis students
-// each requires function with iterator and element
-$('table').eq(2).find('tbody').find('tr').each(function(i, elem) {
+//select the third table and then iterate through its rows
+$('table').eq(2).find('tbody tr').each(function(i, elem) {
+    
+    //go to the first cell of each row and filter out the nodes that are text - pick the second
     var address = $(elem).find('td').eq(0).contents().filter(function(){ 
-        return this.nodeType == 3;}).eq(2).text()
-    console.log('this is element:' + i + ' and the element is:'+ address.trim() );
+        return this.nodeType == 3;}).eq(2).text().trim();
+        //nodeType == 3 is text
+        
+    console.log('this is element:' + i + ' and the element is:' + address);
 });
-
-// print project titles
-// looks first in class 'project' and then in class 'title'
-// $('.project .title').each(function(i, elem) {
-//     console.log($(elem).text());
-// });
-
-//helpful selectors in cheerio
-//.eq( i ) -- can find nth number in list, find, 
