@@ -9,10 +9,14 @@ var $ = cheerio.load(content);
 //select the third table and then iterate through its rows
 $('table').eq(2).find('tbody tr').each(function(i, elem) {
     
-    //go to the first cell of each row and filter out the nodes that are text - pick the second
-    var address = $(elem).find('td').eq(0).contents().filter(function(){ 
-        return this.nodeType == 3;}).eq(2).text().trim();
-        //nodeType == 3 is text
+    var address = $(elem).find('td')
+                        .eq(0) // first cell in each row
+                        .contents() //get all the cell contents
+                        .filter(function(){ return this.nodeType == 3;})  // filter out only text nodes
+                        .eq(2) //select the third one
+                        .text()
+                        .trim()
+                        .replace(/\n/g, ""); //remove line breaks
         
-    console.log('this is element:' + i + ' and the element is:' + address);
+    console.log('address # ' + i + ' is: ' + address);
 });
