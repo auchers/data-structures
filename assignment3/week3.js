@@ -15,29 +15,21 @@ var addresses = [];
 var meetingsData = [];
 
 scrapeAndCleanAddresses($);
-
 async.eachOfSeries(addresses, getAndPushGeos, saveMeetingsData);
 
 function scrapeAndCleanAddresses($){
     //select the third table and then iterate through its rows
     $('table').eq(2).find('tbody tr').each(function(i, elem) {
-
         var address = $(elem).find('td')
                             .eq(0) // first cell in each row
                             .contents() //get all the cell contents
                             .eq(6) //select the 6th one
-                            .text();
-        addresses.push(cleanAddress(address));
+                            .text()
+                            .split(',')[0]
+                            .split(' - ')[0] // removes all the room numbers
+                            .trim();
+        addresses.push(address  + ', New York, NY');
     });
-}
-
-// Cleans addresses and formats them adding 'New York, NY'
-function cleanAddress(str){
-    var cleanStr = str.split(',')[0] 
-                    .split(' - ')[0] // removes all the room numbers
-                    .trim();
-
-    return cleanStr + ', New York, NY';
 }
 
 function getAndPushGeos(address, i, callback){
@@ -45,13 +37,13 @@ function getAndPushGeos(address, i, callback){
     var apiRequest = 'https://maps.googleapis.com/maps/api/geocode/json?address=' + address.split(' ').join('+') + '&key=' + apiKey;
     var thisMeeting = new Object;
     thisMeeting.address = address;
-    
+
     request(apiRequest, function(err, resp, body) {
             if (err) {throw err;}
             thisMeeting.latLong = JSON.parse(body).results[0].geometry.location;
             meetingsData.push(thisMeeting);
     });
-    
+
     setTimeout(callback,2000);
 }
 
