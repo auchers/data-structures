@@ -49,5 +49,5 @@ function getAndPushGeos(address, i, callback){
 
 function saveMeetingsData(){
     // console.log(meetingsData.length);
-    fs.writeFileSync('/home/ubuntu/workspace/assignment3/meetingsData.txt',JSON.stringify(meetingsData, null, 2));
+    fs.writeFileSync('/home/ubuntu/workspace/assignment3/meetingsData.json',JSON.stringify(meetingsData, null, 2));
 }

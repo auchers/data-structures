@@ -12,11 +12,12 @@ $('table').eq(2).find('tbody tr').each(function(i, elem) {
     var address = $(elem).find('td')
                         .eq(0) // first cell in each row
                         .contents() //get all the cell contents
-                        .filter(function(){ return this.nodeType == 3;})  // filter out only text nodes
-                        .eq(2) //select the third one
+                        // .filter(function(){ return this.nodeType == 3;})  // filter out only text nodes
+                        .eq(6) //select the 6th one
                         .text()
                         .trim()
-                        .replace(/\n/g, ""); //remove line breaks
+                        .replace(/\n/g, "") //remove line break
+                        .replace(/\t/g, ""); 
         
     console.log('address # ' + i + ' is: ' + address);
 });
