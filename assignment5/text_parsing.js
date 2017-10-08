@@ -16,6 +16,8 @@ var meetingsData = [];
 scrapeAndCleanMeetingData($);
 async.eachOfSeries(meetingsData, getAndPushGeos, saveMeetingsData);
 
+// saveMeetingsData();// TODO: comment out after debugging
+
 function scrapeAndCleanMeetingData($){
     //select the third table and then iterate through its rows
     $('table').eq(2).find('tbody tr').each(function(i, elem) {
@@ -55,16 +57,30 @@ function scrapeAndCleanMeetingData($){
         // get meeting times
         var meetingTimesRaw = $(elem).find('td').eq(1).html().split('\n\t\t\t \t\t\t<br>\n                    \t<br>\n                    \t\n\t\t\t\t  \t');
         for (var m in meetingTimesRaw){
+            meetingTimesRaw[m] = meetingTimesRaw[m].replace(/(<([^>]+)>)/ig, '');
             var thisTime = new Object();
-            thisTime.time = meetingTimesRaw[m].split('Type')[0].trim();
+            var typeSplit = meetingTimesRaw[m].split('Type');
             
-            if (typeof meetingTimesRaw[m].split('Type')[1] != 'undefined'){
-                thisTime.type = meetingTimesRaw[m].split('Type')[1].split('Special Interest')[0].trim();
+            // get meeting days
+            thisTime.day = typeSplit[0].split('From')[0].trim();
             
-                if (typeof meetingTimesRaw[m].split('Type')[1].split('Special Interest')[1] != 'undefined'){
-                    thisTime.specialInterest = meetingTimesRaw[m].split('Type')[1].split('Special Interest')[1].trim();
+            // get meeting times
+            var times = typeSplit[0]
+                .split('From')[1]
+                .split('to')
+                .map(function(x){return x.replace('Meeting','').trim()});
+            thisTime.from = times[0];
+            thisTime.to = times[1];
+            
+            // get meeting misc.
+            if (typeof typeSplit[1] != 'undefined'){
+                thisTime.type = typeSplit[1].split('Special Interest')[0].trim();
+            
+                if (typeof typeSplit[1].split('Special Interest')[1] != 'undefined'){
+                    thisTime.specialInterest = typeSplit[1].split('Special Interest')[1].trim();
                 }
             }
+            // console.log(thisTime);
             meetingTimes.push(thisTime);
         }
 
@@ -82,11 +98,11 @@ function getAndPushGeos(meeting, i, callback){
     var address = meeting.address.streetAddress;
     console.log('address ' + i + ' is: ' + address);
     var apiRequest = 'https://maps.googleapis.com/maps/api/geocode/json?address=' + address.split(' ').join('+') + '&key=' + apiKey;
-    console.log(apiRequest);
+    // console.log(apiRequest);
 
     request(apiRequest, function(err, resp, body) {
             if (err) {throw err;}
-            console.log(JSON.parse(body).status);
+            // console.log(JSON.parse(body).status);
             
             // keep going if one comes back with status = 'UNKNOWN ERROR'
             if (JSON.parse(body).status == 'OK'){
@@ -99,5 +115,5 @@ function getAndPushGeos(meeting, i, callback){
 
 function saveMeetingsData(){
     console.log(meetingsData.length);
-    fs.writeFileSync('/home/ubuntu/workspace/assignment4/meetingsData.json',JSON.stringify(meetingsData, null, 1));
+    fs.writeFileSync('/home/ubuntu/workspace/assignment5/meetingsData.json',JSON.stringify(meetingsData, null, 1));
 }
