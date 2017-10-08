@@ -1,7 +1,7 @@
 var fs = require('fs');
 
-var dbName = 'citibike';
-var collName = 'stations';
+var dbName = 'aa';
+var collName = 'meetings';
 
 // Connection URL
 var url = 'mongodb://' + process.env.IP + ':27017/' + dbName;
@@ -16,8 +16,15 @@ MongoClient.connect(url, function(err, db) {
     
     // quick reference for mongo queries: https://docs.mongodb.com/manual/meta/aggregation-quick-reference/
     // aaron also mentioned 'unwind' as a way to get in embedded parts of documents (essentially it 'flattens' them)
-    
+    // GOAL : all meetings in your zone that begin on Tuesdays at or after 7:00pm
     var my_query = [// we ran multiple queries -- to test each on just uncomment the part with the '{'
+        
+        { $match : {"meetingTimes.day" : "Tuesdays"} },
+        { $unwind :  "$meetingTimes"},
+        { $match : {"meetingTimes.day" : "Tuesdays"} }, 
+        { $match : {"meetingTimes.from.0": { $gte : 19 } } }
+        // { $match : {"hour" : { $gte : 19 } } }
+        
     
         // QUERY 1
         // taken from https://docs.mongodb.com/manual/reference/operator/aggregation/match/#pipe._S_match
@@ -42,7 +49,6 @@ MongoClient.connect(url, function(err, db) {
         // QUERY 5 -- how do you find all the bikes that are east of 14th street?
         ];
     
-    // Select three Citibike stations
     collection.aggregate(my_query).toArray(function(err, docs) {
         if (err) {console.log(err)}
         

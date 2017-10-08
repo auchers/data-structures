@@ -3,6 +3,7 @@ var async = require('async');
 var fs = require('fs');
 var cheerio = require('cheerio');
 var content = fs.readFileSync('../assignment2/m04.txt');
+var moment = require('moment');
 
 // SETTING ENVIRONMENT VARIABLES (in Linux):
 // export NEW_VAR="Content of NEW_VAR variable"
@@ -50,6 +51,7 @@ function scrapeAndCleanMeetingData($){
         thisAddress.streetAddress = thisAddress.fullAddress
                                     .split(',')[0]
                                     .split(' - ')[0] // removes all the room numbers
+                                    .replace(/(<([^>]+)>)/ig, '')
                                     .trim();
 
         thisAddress.streetAddress  += ', New York, NY';
@@ -59,16 +61,25 @@ function scrapeAndCleanMeetingData($){
         for (var m in meetingTimesRaw){
             meetingTimesRaw[m] = meetingTimesRaw[m].replace(/(<([^>]+)>)/ig, '');
             var thisTime = new Object();
-            var typeSplit = meetingTimesRaw[m].split('Type');
+            var typeSplit = meetingTimesRaw[m].split('Meeting Type ');
             
             // get meeting days
-            thisTime.day = typeSplit[0].split('From')[0].trim();
+            thisTime.day = typeSplit[0].split(' From ')[0].trim();
             
             // get meeting times
             var times = typeSplit[0]
                 .split('From')[1]
                 .split('to')
-                .map(function(x){return x.replace('Meeting','').trim()});
+                .map(function(x){
+                    
+                    var t = x.trim().split(' '); // gets [HH:MM, AM]
+                    var time = t[0].split(':'); // [HH, MM]
+                    time[0] = +time[0]; // make it integer
+                    time[1] = +time[1];
+                    time[0] = (t[1] == 'PM' && time[0] < 12) ? time[0] + 12 : time[0]; // + in front turns to integer
+                    return time; // returns array where [0] is hour and [1] is minute
+                });
+                    
             thisTime.from = times[0];
             thisTime.to = times[1];
             

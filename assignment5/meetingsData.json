@@ -6,45 +6,87 @@
   "meetingTimes": [
    {
     "day": "Sundays",
-    "from": "4:00 PM",
-    "to": "5:00 PM",
+    "from": [
+     16,
+     0
+    ],
+    "to": [
+     17,
+     0
+    ],
     "type": "BB = Big Book meeting"
    },
    {
     "day": "Mondays",
-    "from": "4:00 PM",
-    "to": "5:00 PM",
+    "from": [
+     16,
+     0
+    ],
+    "to": [
+     17,
+     0
+    ],
     "type": "BB = Big Book meeting"
    },
    {
     "day": "Tuesdays",
-    "from": "4:00 PM",
-    "to": "5:00 PM",
+    "from": [
+     16,
+     0
+    ],
+    "to": [
+     17,
+     0
+    ],
     "type": "BB = Big Book meeting",
     "specialInterest": "Living Sober"
    },
    {
     "day": "Wednesdays",
-    "from": "4:00 PM",
-    "to": "5:00 PM",
+    "from": [
+     16,
+     0
+    ],
+    "to": [
+     17,
+     0
+    ],
     "type": "BB = Big Book meeting"
    },
    {
     "day": "Thursdays",
-    "from": "4:00 PM",
-    "to": "5:00 PM",
+    "from": [
+     16,
+     0
+    ],
+    "to": [
+     17,
+     0
+    ],
     "type": "BB = Big Book meeting"
    },
    {
     "day": "Fridays",
-    "from": "4:00 PM",
-    "to": "5:00 PM",
+    "from": [
+     16,
+     0
+    ],
+    "to": [
+     17,
+     0
+    ],
     "type": "BB = Big Book meeting"
    },
    {
     "day": "Saturdays",
-    "from": "4:00 PM",
-    "to": "5:00 PM",
+    "from": [
+     16,
+     0
+    ],
+    "to": [
+     17,
+     0
+    ],
     "type": "BB = Big Book meeting"
    }
   ],
@@ -64,46 +106,88 @@
   "meetingTimes": [
    {
     "day": "Mondays",
-    "from": "9:15 PM",
-    "to": "10:15 PM",
+    "from": [
+     21,
+     15
+    ],
+    "to": [
+     22,
+     15
+    ],
     "type": "BB = Big Book meeting"
    },
    {
     "day": "Wednesdays",
-    "from": "9:15 PM",
-    "to": "10:15 PM",
+    "from": [
+     21,
+     15
+    ],
+    "to": [
+     22,
+     15
+    ],
     "type": "C = Closed Discussion meeting",
     "specialInterest": "As Bill Sees It"
    },
    {
     "day": "Thursdays",
-    "from": "9:15 PM",
-    "to": "10:15 PM",
+    "from": [
+     21,
+     15
+    ],
+    "to": [
+     22,
+     15
+    ],
     "type": "S = Step meeting"
    },
    {
     "day": "Fridays",
-    "from": "9:15 PM",
-    "to": "10:15 PM",
+    "from": [
+     21,
+     15
+    ],
+    "to": [
+     22,
+     15
+    ],
     "type": "S = Step meeting"
    },
    {
     "day": "Saturdays",
-    "from": "9:15 PM",
-    "to": "10:15 PM",
+    "from": [
+     21,
+     15
+    ],
+    "to": [
+     22,
+     15
+    ],
     "type": "C = Closed Discussion meeting"
    },
    {
     "day": "Sundays",
-    "from": "9:15 PM",
-    "to": "10:15 PM",
+    "from": [
+     21,
+     15
+    ],
+    "to": [
+     22,
+     15
+    ],
     "type": "OD = Open Discussion meeting",
     "specialInterest": "Beginners Workshop"
    },
    {
     "day": "Tuesdays",
-    "from": "9:15 PM",
-    "to": "10:30 PM",
+    "from": [
+     21,
+     15
+    ],
+    "to": [
+     22,
+     30
+    ],
     "type": "S = Step meeting",
     "specialInterest": "Meditation"
    }
@@ -124,46 +208,88 @@
   "meetingTimes": [
    {
     "day": "Wednesdays",
-    "from": "8:00 AM",
-    "to": "9:00 AM",
+    "from": [
+     8,
+     0
+    ],
+    "to": [
+     9,
+     0
+    ],
     "type": "OD = Open Discussion meeting"
    },
    {
     "day": "Thursdays",
-    "from": "8:00 AM",
-    "to": "9:00 AM",
+    "from": [
+     8,
+     0
+    ],
+    "to": [
+     9,
+     0
+    ],
     "type": "C = Closed Discussion meeting",
     "specialInterest": "Daily Reflections"
    },
    {
     "day": "Fridays",
-    "from": "8:00 AM",
-    "to": "9:00 AM",
+    "from": [
+     8,
+     0
+    ],
+    "to": [
+     9,
+     0
+    ],
     "type": "T = Tradition meeting"
    },
    {
     "day": "Saturdays",
-    "from": "8:00 AM",
-    "to": "9:00 AM",
+    "from": [
+     8,
+     0
+    ],
+    "to": [
+     9,
+     0
+    ],
     "type": "OD = Open Discussion meeting",
     "specialInterest": "Living Sober"
    },
    {
     "day": "Sundays",
-    "from": "8:00 AM",
-    "to": "9:00 AM",
+    "from": [
+     8,
+     0
+    ],
+    "to": [
+     9,
+     0
+    ],
     "type": "S = Step meeting"
    },
    {
     "day": "Mondays",
-    "from": "8:00 AM",
-    "to": "9:00 AM",
+    "from": [
+     8,
+     0
+    ],
+    "to": [
+     9,
+     0
+    ],
     "type": "S = Step meeting"
    },
    {
     "day": "Tuesdays",
-    "from": "8:00 AM",
-    "to": "9:00 AM",
+    "from": [
+     8,
+     0
+    ],
+    "to": [
+     9,
+     0
+    ],
     "type": "BB = Big Book meeting"
    }
   ],
@@ -183,8 +309,14 @@
   "meetingTimes": [
    {
     "day": "Wednesdays",
-    "from": "8:00 PM",
-    "to": "9:00 PM",
+    "from": [
+     20,
+     0
+    ],
+    "to": [
+     21,
+     0
+    ],
     "type": "OD = Open Discussion meeting"
    }
   ],
@@ -205,8 +337,14 @@
   "meetingTimes": [
    {
     "day": "Fridays",
-    "from": "7:00 PM",
-    "to": "8:00 PM",
+    "from": [
+     19,
+     0
+    ],
+    "to": [
+     20,
+     0
+    ],
     "type": "O = Open meeting",
     "specialInterest": "Gay, Lesbian and Bisexual"
    }
@@ -227,165 +365,327 @@
   "meetingTimes": [
    {
     "day": "Mondays",
-    "from": "12:00 PM",
-    "to": "1:00 PM",
+    "from": [
+     12,
+     0
+    ],
+    "to": [
+     13,
+     0
+    ],
     "type": "C = Closed Discussion meeting"
    },
    {
     "day": "Thursdays",
-    "from": "12:00 PM",
-    "to": "1:00 PM",
+    "from": [
+     12,
+     0
+    ],
+    "to": [
+     13,
+     0
+    ],
     "type": "C = Closed Discussion meeting"
    },
    {
     "day": "Saturdays",
-    "from": "12:00 PM",
-    "to": "1:00 PM",
+    "from": [
+     12,
+     0
+    ],
+    "to": [
+     13,
+     0
+    ],
     "type": "B = Beginners meeting"
    },
    {
     "day": "Tuesdays",
-    "from": "12:00 PM",
-    "to": "1:00 PM",
+    "from": [
+     12,
+     0
+    ],
+    "to": [
+     13,
+     0
+    ],
     "type": "C = Closed Discussion meeting"
    },
    {
     "day": "Sundays",
-    "from": "12:00 PM",
-    "to": "1:00 PM",
+    "from": [
+     12,
+     0
+    ],
+    "to": [
+     13,
+     0
+    ],
     "type": "C = Closed Discussion meeting"
    },
    {
     "day": "Wednesdays",
-    "from": "12:00 PM",
-    "to": "1:00 PM",
+    "from": [
+     12,
+     0
+    ],
+    "to": [
+     13,
+     0
+    ],
     "type": "C = Closed Discussion meeting"
    },
    {
     "day": "Fridays",
-    "from": "12:00 PM",
-    "to": "1:00 PM",
+    "from": [
+     12,
+     0
+    ],
+    "to": [
+     13,
+     0
+    ],
     "type": "C = Closed Discussion meeting"
    },
    {
     "day": "Sundays",
-    "from": "2:00 PM",
-    "to": "3:00 PM",
+    "from": [
+     14,
+     0
+    ],
+    "to": [
+     15,
+     0
+    ],
     "type": "C = Closed Discussion meeting",
     "specialInterest": "Women"
    },
    {
     "day": "Mondays",
-    "from": "2:30 PM",
-    "to": "3:30 PM",
+    "from": [
+     14,
+     30
+    ],
+    "to": [
+     15,
+     30
+    ],
     "type": "C = Closed Discussion meeting"
    },
    {
     "day": "Saturdays",
-    "from": "2:30 PM",
-    "to": "3:30 PM",
+    "from": [
+     14,
+     30
+    ],
+    "to": [
+     15,
+     30
+    ],
     "type": "C = Closed Discussion meeting"
    },
    {
     "day": "Thursdays",
-    "from": "2:30 PM",
-    "to": "3:30 PM",
+    "from": [
+     14,
+     30
+    ],
+    "to": [
+     15,
+     30
+    ],
     "type": "C = Closed Discussion meeting"
    },
    {
     "day": "Tuesdays",
-    "from": "2:30 PM",
-    "to": "3:30 PM",
+    "from": [
+     14,
+     30
+    ],
+    "to": [
+     15,
+     30
+    ],
     "type": "C = Closed Discussion meeting"
    },
    {
     "day": "Wednesdays",
-    "from": "2:30 PM",
-    "to": "3:30 PM",
+    "from": [
+     14,
+     30
+    ],
+    "to": [
+     15,
+     30
+    ],
     "type": "C = Closed Discussion meeting"
    },
    {
     "day": "Fridays",
-    "from": "2:30 PM",
-    "to": "3:30 PM",
+    "from": [
+     14,
+     30
+    ],
+    "to": [
+     15,
+     30
+    ],
     "type": "C = Closed Discussion meeting"
    },
    {
     "day": "Mondays",
-    "from": "6:15 PM",
-    "to": "7:15 PM",
+    "from": [
+     18,
+     15
+    ],
+    "to": [
+     19,
+     15
+    ],
     "type": "C = Closed Discussion meeting"
    },
    {
     "day": "Saturdays",
-    "from": "6:15 PM",
-    "to": "7:15 PM",
+    "from": [
+     18,
+     15
+    ],
+    "to": [
+     19,
+     15
+    ],
     "type": "C = Closed Discussion meeting"
    },
    {
     "day": "Thursdays",
-    "from": "6:15 PM",
-    "to": "7:15 PM",
+    "from": [
+     18,
+     15
+    ],
+    "to": [
+     19,
+     15
+    ],
     "type": "S = Step meeting"
    },
    {
     "day": "Tuesdays",
-    "from": "6:15 PM",
-    "to": "7:15 PM",
+    "from": [
+     18,
+     15
+    ],
+    "to": [
+     19,
+     15
+    ],
     "type": "C = Closed Discussion meeting"
    },
    {
     "day": "Sundays",
-    "from": "6:15 PM",
-    "to": "7:15 PM",
+    "from": [
+     18,
+     15
+    ],
+    "to": [
+     19,
+     15
+    ],
     "type": "C = Closed Discussion meeting"
    },
    {
     "day": "Wednesdays",
-    "from": "6:15 PM",
-    "to": "7:15 PM",
+    "from": [
+     18,
+     15
+    ],
+    "to": [
+     19,
+     15
+    ],
     "type": "C = Closed Discussion meeting"
    },
    {
     "day": "Fridays",
-    "from": "6:15 PM",
-    "to": "7:15 PM",
+    "from": [
+     18,
+     15
+    ],
+    "to": [
+     19,
+     15
+    ],
     "type": "C = Closed Discussion meeting"
    },
    {
     "day": "Fridays",
-    "from": "8:00 PM",
-    "to": "9:00 PM",
+    "from": [
+     20,
+     0
+    ],
+    "to": [
+     21,
+     0
+    ],
     "type": "C = Closed Discussion meeting"
    },
    {
     "day": "Mondays",
-    "from": "8:00 PM",
-    "to": "9:00 PM",
+    "from": [
+     20,
+     0
+    ],
+    "to": [
+     21,
+     0
+    ],
     "type": "C = Closed Discussion meeting"
    },
    {
     "day": "Saturdays",
-    "from": "8:00 PM",
-    "to": "9:00 PM",
+    "from": [
+     20,
+     0
+    ],
+    "to": [
+     21,
+     0
+    ],
     "type": "C = Closed Discussion meeting"
    },
    {
     "day": "Thursdays",
-    "from": "8:00 PM",
-    "to": "9:00 PM",
+    "from": [
+     20,
+     0
+    ],
+    "to": [
+     21,
+     0
+    ],
     "type": "C = Closed Discussion meeting"
    },
    {
     "day": "Sundays",
-    "from": "8:00 PM",
-    "to": "9:00 PM",
+    "from": [
+     20,
+     0
+    ],
+    "to": [
+     21,
+     0
+    ],
     "type": "C = Closed Discussion meeting"
    },
    {
     "day": "Wednesdays",
-    "from": "8:00 PM",
-    "to": "9:00 PM",
+    "from": [
+     20,
+     0
+    ],
+    "to": [
+     21,
+     0
+    ],
     "type": "C = Closed Discussion meeting"
    }
   ],
@@ -406,32 +706,62 @@
   "meetingTimes": [
    {
     "day": "Mondays",
-    "from": "7:30 AM",
-    "to": "8:30 AM",
+    "from": [
+     7,
+     30
+    ],
+    "to": [
+     8,
+     30
+    ],
     "type": "C = Closed Discussion meeting"
    },
    {
     "day": "Tuesdays",
-    "from": "7:30 AM",
-    "to": "8:30 AM",
+    "from": [
+     7,
+     30
+    ],
+    "to": [
+     8,
+     30
+    ],
     "type": "C = Closed Discussion meeting"
    },
    {
     "day": "Wednesdays",
-    "from": "7:30 AM",
-    "to": "8:30 AM",
+    "from": [
+     7,
+     30
+    ],
+    "to": [
+     8,
+     30
+    ],
     "type": "C = Closed Discussion meeting"
    },
    {
     "day": "Thursdays",
-    "from": "7:30 AM",
-    "to": "8:30 AM",
+    "from": [
+     7,
+     30
+    ],
+    "to": [
+     8,
+     30
+    ],
     "type": "S = Step meeting"
    },
    {
     "day": "Fridays",
-    "from": "7:30 AM",
-    "to": "8:30 AM",
+    "from": [
+     7,
+     30
+    ],
+    "to": [
+     8,
+     30
+    ],
     "type": "C = Closed Discussion meeting"
    }
   ],
@@ -451,8 +781,14 @@
   "meetingTimes": [
    {
     "day": "Saturdays",
-    "from": "3:00 PM",
-    "to": "4:00 PM",
+    "from": [
+     15,
+     0
+    ],
+    "to": [
+     16,
+     0
+    ],
     "type": "OD = Open Discussion meeting"
    }
   ],
@@ -473,8 +809,14 @@
   "meetingTimes": [
    {
     "day": "Tuesdays",
-    "from": "8:00 PM",
-    "to": "9:00 PM",
+    "from": [
+     20,
+     0
+    ],
+    "to": [
+     21,
+     0
+    ],
     "type": "O = Open meeting",
     "specialInterest": "Gay, Lesbian and Bisexual"
    }
@@ -496,8 +838,14 @@
   "meetingTimes": [
    {
     "day": "Tuesdays",
-    "from": "9:15 PM",
-    "to": "10:15 PM",
+    "from": [
+     21,
+     15
+    ],
+    "to": [
+     22,
+     15
+    ],
     "type": "C = Closed Discussion meeting",
     "specialInterest": "Special Purpose Groups"
    }
@@ -519,43 +867,79 @@
   "meetingTimes": [
    {
     "day": "Mondays",
-    "from": "1:30 PM",
-    "to": "2:30 PM",
+    "from": [
+     13,
+     30
+    ],
+    "to": [
+     14,
+     30
+    ],
     "type": "B = Beginners meeting",
     "specialInterest": "Living Sober"
    },
    {
     "day": "Tuesdays",
-    "from": "1:30 PM",
-    "to": "2:30 PM",
+    "from": [
+     13,
+     30
+    ],
+    "to": [
+     14,
+     30
+    ],
     "type": "B = Beginners meeting",
     "specialInterest": "Living Sober"
    },
    {
     "day": "Wednesdays",
-    "from": "1:30 PM",
-    "to": "2:30 PM",
+    "from": [
+     13,
+     30
+    ],
+    "to": [
+     14,
+     30
+    ],
     "type": "B = Beginners meeting",
     "specialInterest": "Living Sober"
    },
    {
     "day": "Thursdays",
-    "from": "1:30 PM",
-    "to": "2:30 PM",
+    "from": [
+     13,
+     30
+    ],
+    "to": [
+     14,
+     30
+    ],
     "type": "B = Beginners meeting",
     "specialInterest": "Living Sober"
    },
    {
     "day": "Fridays",
-    "from": "1:30 PM",
-    "to": "2:30 PM",
+    "from": [
+     13,
+     30
+    ],
+    "to": [
+     14,
+     30
+    ],
     "type": "B = Beginners meeting",
     "specialInterest": "Living Sober"
    },
    {
     "day": "Saturdays",
-    "from": "1:30 PM",
-    "to": "2:30 PM",
+    "from": [
+     13,
+     30
+    ],
+    "to": [
+     14,
+     30
+    ],
     "type": "B = Beginners meeting",
     "specialInterest": "Living Sober"
    }
@@ -576,44 +960,86 @@
   "meetingTimes": [
    {
     "day": "Sundays",
-    "from": "2:45 PM",
-    "to": "3:45 PM",
+    "from": [
+     14,
+     45
+    ],
+    "to": [
+     15,
+     45
+    ],
     "type": "B = Beginners meeting"
    },
    {
     "day": "Mondays",
-    "from": "2:45 PM",
-    "to": "3:45 PM",
+    "from": [
+     14,
+     45
+    ],
+    "to": [
+     15,
+     45
+    ],
     "type": "B = Beginners meeting"
    },
    {
     "day": "Tuesdays",
-    "from": "2:45 PM",
-    "to": "3:45 PM",
+    "from": [
+     14,
+     45
+    ],
+    "to": [
+     15,
+     45
+    ],
     "type": "B = Beginners meeting"
    },
    {
     "day": "Wednesdays",
-    "from": "2:45 PM",
-    "to": "3:45 PM",
+    "from": [
+     14,
+     45
+    ],
+    "to": [
+     15,
+     45
+    ],
     "type": "B = Beginners meeting"
    },
    {
     "day": "Thursdays",
-    "from": "2:45 PM",
-    "to": "3:45 PM",
+    "from": [
+     14,
+     45
+    ],
+    "to": [
+     15,
+     45
+    ],
     "type": "B = Beginners meeting"
    },
    {
     "day": "Fridays",
-    "from": "2:45 PM",
-    "to": "3:45 PM",
+    "from": [
+     14,
+     45
+    ],
+    "to": [
+     15,
+     45
+    ],
     "type": "B = Beginners meeting"
    },
    {
     "day": "Saturdays",
-    "from": "2:45 PM",
-    "to": "3:45 PM",
+    "from": [
+     14,
+     45
+    ],
+    "to": [
+     15,
+     45
+    ],
     "type": "B = Beginners meeting"
    }
   ],
@@ -634,8 +1060,14 @@
   "meetingTimes": [
    {
     "day": "Wednesdays",
-    "from": "5:00 PM",
-    "to": "6:00 PM",
+    "from": [
+     17,
+     0
+    ],
+    "to": [
+     18,
+     0
+    ],
     "type": "C = Closed Discussion meeting"
    }
   ],
@@ -654,35 +1086,71 @@
   "meetingTimes": [
    {
     "day": "Fridays",
-    "from": "4:30 PM",
-    "to": "5:30 AM Special Interest Living Sober"
+    "from": [
+     16,
+     30
+    ],
+    "to": [
+     5,
+     30
+    ]
    },
    {
     "day": "Tuesdays",
-    "from": "4:30 PM",
-    "to": "4:30 PM",
+    "from": [
+     16,
+     30
+    ],
+    "to": [
+     16,
+     30
+    ],
     "type": "BB = Big Book meeting"
    },
    {
     "day": "Wednesdays",
-    "from": "4:30 PM",
-    "to": "5:30 PM Special Interest Meditation"
+    "from": [
+     16,
+     30
+    ],
+    "to": [
+     17,
+     30
+    ]
    },
    {
     "day": "Thursdays",
-    "from": "4:30 PM",
-    "to": "5:30 PM Special Interest As Bill Sees It"
+    "from": [
+     16,
+     30
+    ],
+    "to": [
+     17,
+     30
+    ]
    },
    {
     "day": "Saturdays",
-    "from": "4:30 PM",
-    "to": "5:30 PM",
+    "from": [
+     16,
+     30
+    ],
+    "to": [
+     17,
+     30
+    ],
     "type": "S = Step meeting"
    },
    {
     "day": "Mondays",
-    "from": "4:30 PM",
-    "to": "5:30 PM Special Interest Came To Believe"
+    "from": [
+     16,
+     30
+    ],
+    "to": [
+     17,
+     30
+    ]
    }
   ],
   "address": {
@@ -702,20 +1170,38 @@
   "meetingTimes": [
    {
     "day": "Mondays",
-    "from": "12:00 PM",
-    "to": "1:00 PM",
+    "from": [
+     12,
+     0
+    ],
+    "to": [
+     13,
+     0
+    ],
     "type": "C = Closed Discussion meeting"
    },
    {
     "day": "Wednesdays",
-    "from": "12:00 PM",
-    "to": "1:00 PM",
+    "from": [
+     12,
+     0
+    ],
+    "to": [
+     13,
+     0
+    ],
     "type": "C = Closed Discussion meeting"
    },
    {
     "day": "Fridays",
-    "from": "12:00 PM",
-    "to": "1:00 PM",
+    "from": [
+     12,
+     0
+    ],
+    "to": [
+     13,
+     0
+    ],
     "type": "C = Closed Discussion meeting"
    }
   ],
@@ -735,14 +1221,26 @@
   "meetingTimes": [
    {
     "day": "Sundays",
-    "from": "5:00 PM",
-    "to": "5:45 PM",
+    "from": [
+     17,
+     0
+    ],
+    "to": [
+     17,
+     45
+    ],
     "type": "B = Beginners meeting"
    },
    {
     "day": "Sundays",
-    "from": "6:00 PM",
-    "to": "7:00 PM",
+    "from": [
+     18,
+     0
+    ],
+    "to": [
+     19,
+     0
+    ],
     "type": "OD = Open Discussion meeting"
    }
   ],
@@ -762,14 +1260,26 @@
   "meetingTimes": [
    {
     "day": "Wednesdays",
-    "from": "6:00 PM",
-    "to": "7:00 PM",
+    "from": [
+     18,
+     0
+    ],
+    "to": [
+     19,
+     0
+    ],
     "type": "C = Closed Discussion meeting"
    },
    {
     "day": "Mondays",
-    "from": "6:00 PM",
-    "to": "7:00 PM",
+    "from": [
+     18,
+     0
+    ],
+    "to": [
+     19,
+     0
+    ],
     "type": "S = Step meeting"
    }
   ],
@@ -790,8 +1300,14 @@
   "meetingTimes": [
    {
     "day": "Saturdays",
-    "from": "12:00 PM",
-    "to": "1:00 PM",
+    "from": [
+     12,
+     0
+    ],
+    "to": [
+     13,
+     0
+    ],
     "type": "C = Closed Discussion meeting",
     "specialInterest": "Women"
    }
@@ -812,8 +1328,14 @@
   "meetingTimes": [
    {
     "day": "Saturdays",
-    "from": "10:00 AM",
-    "to": "11:00 AM",
+    "from": [
+     10,
+     0
+    ],
+    "to": [
+     11,
+     0
+    ],
     "type": "S = Step meeting"
    }
   ],
@@ -834,62 +1356,122 @@
   "meetingTimes": [
    {
     "day": "Wednesdays",
-    "from": "12:00 PM",
-    "to": "1:00 PM",
+    "from": [
+     12,
+     0
+    ],
+    "to": [
+     13,
+     0
+    ],
     "type": "B = Beginners meeting"
    },
    {
     "day": "Thursdays",
-    "from": "12:00 PM",
-    "to": "1:00 PM",
+    "from": [
+     12,
+     0
+    ],
+    "to": [
+     13,
+     0
+    ],
     "type": "B = Beginners meeting"
    },
    {
     "day": "Fridays",
-    "from": "12:00 PM",
-    "to": "1:00 PM",
+    "from": [
+     12,
+     0
+    ],
+    "to": [
+     13,
+     0
+    ],
     "type": "B = Beginners meeting"
    },
    {
     "day": "Mondays",
-    "from": "12:00 PM",
-    "to": "1:00 PM",
+    "from": [
+     12,
+     0
+    ],
+    "to": [
+     13,
+     0
+    ],
     "type": "B = Beginners meeting"
    },
    {
     "day": "Tuesdays",
-    "from": "12:00 PM",
-    "to": "1:00 PM",
+    "from": [
+     12,
+     0
+    ],
+    "to": [
+     13,
+     0
+    ],
     "type": "B = Beginners meeting"
    },
    {
     "day": "Wednesdays",
-    "from": "12:30 PM",
-    "to": "1:30 PM",
+    "from": [
+     12,
+     30
+    ],
+    "to": [
+     13,
+     30
+    ],
     "type": "BB = Big Book meeting"
    },
    {
     "day": "Thursdays",
-    "from": "12:30 PM",
-    "to": "1:30 PM",
+    "from": [
+     12,
+     30
+    ],
+    "to": [
+     13,
+     30
+    ],
     "type": "S = Step meeting"
    },
    {
     "day": "Fridays",
-    "from": "12:30 PM",
-    "to": "1:30 PM",
+    "from": [
+     12,
+     30
+    ],
+    "to": [
+     13,
+     30
+    ],
     "type": "OD = Open Discussion meeting"
    },
    {
     "day": "Mondays",
-    "from": "12:30 PM",
-    "to": "1:30 PM",
+    "from": [
+     12,
+     30
+    ],
+    "to": [
+     13,
+     30
+    ],
     "type": "OD = Open Discussion meeting"
    },
    {
     "day": "Tuesdays",
-    "from": "12:30 PM",
-    "to": "1:30 PM",
+    "from": [
+     12,
+     30
+    ],
+    "to": [
+     13,
+     30
+    ],
     "type": "OD = Open Discussion meeting"
    }
   ],
@@ -910,60 +1492,120 @@
   "meetingTimes": [
    {
     "day": "s",
-    "from": "12:00 AM",
-    "to": "12:00 AM"
+    "from": [
+     12,
+     0
+    ],
+    "to": [
+     12,
+     0
+    ]
    },
    {
     "day": "s",
-    "from": "12:00 AM",
-    "to": "12:00 AM"
+    "from": [
+     12,
+     0
+    ],
+    "to": [
+     12,
+     0
+    ]
    },
    {
     "day": "Wednesdays",
-    "from": "12:30 PM",
-    "to": "1:30 PM",
+    "from": [
+     12,
+     30
+    ],
+    "to": [
+     13,
+     30
+    ],
     "type": "B = Beginners meeting"
    },
    {
     "day": "Wednesdays",
-    "from": "12:30 PM",
-    "to": "1:30 PM",
+    "from": [
+     12,
+     30
+    ],
+    "to": [
+     13,
+     30
+    ],
     "type": "S = Step meeting"
    },
    {
     "day": "Thursdays",
-    "from": "12:30 PM",
-    "to": "1:30 PM",
+    "from": [
+     12,
+     30
+    ],
+    "to": [
+     13,
+     30
+    ],
     "type": "B = Beginners meeting"
    },
    {
     "day": "Thursdays",
-    "from": "12:30 PM",
-    "to": "1:30 PM",
+    "from": [
+     12,
+     30
+    ],
+    "to": [
+     13,
+     30
+    ],
     "type": "OD = Open Discussion meeting"
    },
    {
     "day": "Mondays",
-    "from": "12:30 PM",
-    "to": "1:30 PM",
+    "from": [
+     12,
+     30
+    ],
+    "to": [
+     13,
+     30
+    ],
     "type": "B = Beginners meeting"
    },
    {
     "day": "Mondays",
-    "from": "12:30 PM",
-    "to": "1:30 PM",
+    "from": [
+     12,
+     30
+    ],
+    "to": [
+     13,
+     30
+    ],
     "type": "OD = Open Discussion meeting"
    },
    {
     "day": "Tuesdays",
-    "from": "12:30 PM",
-    "to": "1:30 PM",
+    "from": [
+     12,
+     30
+    ],
+    "to": [
+     13,
+     30
+    ],
     "type": "B = Beginners meeting"
    },
    {
     "day": "Tuesdays",
-    "from": "12:30 PM",
-    "to": "1:30 PM",
+    "from": [
+     12,
+     30
+    ],
+    "to": [
+     13,
+     30
+    ],
     "type": "OD = Open Discussion meeting"
    }
   ],
@@ -983,44 +1625,86 @@
   "meetingTimes": [
    {
     "day": "Saturdays",
-    "from": "10:30 PM",
-    "to": "11:30 PM",
+    "from": [
+     22,
+     30
+    ],
+    "to": [
+     23,
+     30
+    ],
     "type": "C = Closed Discussion meeting"
    },
    {
     "day": "Sundays",
-    "from": "10:30 PM",
-    "to": "11:30 PM",
+    "from": [
+     22,
+     30
+    ],
+    "to": [
+     23,
+     30
+    ],
     "type": "C = Closed Discussion meeting"
    },
    {
     "day": "Mondays",
-    "from": "10:30 PM",
-    "to": "11:30 PM",
+    "from": [
+     22,
+     30
+    ],
+    "to": [
+     23,
+     30
+    ],
     "type": "C = Closed Discussion meeting"
    },
    {
     "day": "Tuesdays",
-    "from": "10:30 PM",
-    "to": "11:30 PM",
+    "from": [
+     22,
+     30
+    ],
+    "to": [
+     23,
+     30
+    ],
     "type": "C = Closed Discussion meeting"
    },
    {
     "day": "Wednesdays",
-    "from": "10:30 PM",
-    "to": "11:30 PM",
+    "from": [
+     22,
+     30
+    ],
+    "to": [
+     23,
+     30
+    ],
     "type": "C = Closed Discussion meeting"
    },
    {
     "day": "Thursdays",
-    "from": "10:30 PM",
-    "to": "11:30 PM",
+    "from": [
+     22,
+     30
+    ],
+    "to": [
+     23,
+     30
+    ],
     "type": "C = Closed Discussion meeting"
    },
    {
     "day": "Fridays",
-    "from": "10:30 PM",
-    "to": "11:30 PM",
+    "from": [
+     22,
+     30
+    ],
+    "to": [
+     23,
+     30
+    ],
     "type": "C = Closed Discussion meeting"
    }
   ],
@@ -1041,8 +1725,14 @@
   "meetingTimes": [
    {
     "day": "Thursdays",
-    "from": "5:30 PM",
-    "to": "6:30 PM",
+    "from": [
+     17,
+     30
+    ],
+    "to": [
+     18,
+     30
+    ],
     "type": "C = Closed Discussion meeting",
     "specialInterest": "Special Purpose Groups"
    }
@@ -1064,20 +1754,38 @@
   "meetingTimes": [
    {
     "day": "Mondays",
-    "from": "8:00 PM",
-    "to": "9:00 PM",
+    "from": [
+     20,
+     0
+    ],
+    "to": [
+     21,
+     0
+    ],
     "type": "Sp = Spanish speaking group"
    },
    {
     "day": "Wednesdays",
-    "from": "8:00 PM",
-    "to": "9:00 PM",
+    "from": [
+     20,
+     0
+    ],
+    "to": [
+     21,
+     0
+    ],
     "type": "Sp = Spanish speaking group"
    },
    {
     "day": "Fridays",
-    "from": "8:00 PM",
-    "to": "9:00 PM",
+    "from": [
+     20,
+     0
+    ],
+    "to": [
+     21,
+     0
+    ],
     "type": "Sp = Spanish speaking group"
    }
   ],
@@ -1098,14 +1806,26 @@
   "meetingTimes": [
    {
     "day": "Mondays",
-    "from": "7:30 PM",
-    "to": "8:30 PM",
+    "from": [
+     19,
+     30
+    ],
+    "to": [
+     20,
+     30
+    ],
     "type": "OD = Open Discussion meeting"
    },
    {
     "day": "Thursdays",
-    "from": "7:30 PM",
-    "to": "8:30 PM",
+    "from": [
+     19,
+     30
+    ],
+    "to": [
+     20,
+     30
+    ],
     "type": "C = Closed Discussion meeting"
    }
   ],
@@ -1124,8 +1844,14 @@
   "meetingTimes": [
    {
     "day": "Tuesdays",
-    "from": "7:30 PM",
-    "to": "8:30 PM",
+    "from": [
+     19,
+     30
+    ],
+    "to": [
+     20,
+     30
+    ],
     "type": "BB = Big Book meeting"
    }
   ],
@@ -1146,8 +1872,14 @@
   "meetingTimes": [
    {
     "day": "Mondays",
-    "from": "9:15 PM",
-    "to": "10:15 PM",
+    "from": [
+     21,
+     15
+    ],
+    "to": [
+     22,
+     15
+    ],
     "type": "B = Beginners meeting"
    }
   ],
@@ -1168,33 +1900,63 @@
   "meetingTimes": [
    {
     "day": "Wednesdays",
-    "from": "12:00 PM",
-    "to": "1:00 PM",
+    "from": [
+     12,
+     0
+    ],
+    "to": [
+     13,
+     0
+    ],
     "type": "S = Step meeting"
    },
    {
     "day": "Thursdays",
-    "from": "12:00 PM",
-    "to": "1:00 PM",
+    "from": [
+     12,
+     0
+    ],
+    "to": [
+     13,
+     0
+    ],
     "type": "C = Closed Discussion meeting",
     "specialInterest": "Promises"
    },
    {
     "day": "Fridays",
-    "from": "12:00 PM",
-    "to": "1:00 PM",
+    "from": [
+     12,
+     0
+    ],
+    "to": [
+     13,
+     0
+    ],
     "type": "OD = Open Discussion meeting"
    },
    {
     "day": "Mondays",
-    "from": "12:00 PM",
-    "to": "1:00 PM",
+    "from": [
+     12,
+     0
+    ],
+    "to": [
+     13,
+     0
+    ],
     "type": "B = Beginners meeting"
    },
    {
     "day": "Tuesdays",
-    "from": "12:00 PM",
-    "to": "1:00 PM",
+    "from": [
+     12,
+     0
+    ],
+    "to": [
+     13,
+     0
+    ],
     "type": "BB = Big Book meeting"
    }
   ],
@@ -1215,8 +1977,14 @@
   "meetingTimes": [
    {
     "day": "Wednesdays",
-    "from": "1:00 PM",
-    "to": "2:00 PM",
+    "from": [
+     13,
+     0
+    ],
+    "to": [
+     14,
+     0
+    ],
     "type": "BB = Big Book meeting"
    }
   ],
@@ -1236,45 +2004,87 @@
   "meetingTimes": [
    {
     "day": "Sundays",
-    "from": "12:00 AM",
-    "to": "1:00 AM",
+    "from": [
+     12,
+     0
+    ],
+    "to": [
+     1,
+     0
+    ],
     "type": "S = Step meeting"
    },
    {
     "day": "Mondays",
-    "from": "12:00 AM",
-    "to": "1:00 AM",
+    "from": [
+     12,
+     0
+    ],
+    "to": [
+     1,
+     0
+    ],
     "type": "C = Closed Discussion meeting"
    },
    {
     "day": "Tuesdays",
-    "from": "12:00 AM",
-    "to": "1:00 AM",
+    "from": [
+     12,
+     0
+    ],
+    "to": [
+     1,
+     0
+    ],
     "type": "BB = Big Book meeting"
    },
    {
     "day": "Wednesdays",
-    "from": "12:00 AM",
-    "to": "1:00 AM",
+    "from": [
+     12,
+     0
+    ],
+    "to": [
+     1,
+     0
+    ],
     "type": "C = Closed Discussion meeting",
     "specialInterest": "Living Sober"
    },
    {
     "day": "Thursdays",
-    "from": "12:00 AM",
-    "to": "1:00 AM",
+    "from": [
+     12,
+     0
+    ],
+    "to": [
+     1,
+     0
+    ],
     "type": "C = Closed Discussion meeting"
    },
    {
     "day": "Fridays",
-    "from": "12:00 AM",
-    "to": "1:00 AM",
+    "from": [
+     12,
+     0
+    ],
+    "to": [
+     1,
+     0
+    ],
     "type": "B = Beginners meeting"
    },
    {
     "day": "Saturdays",
-    "from": "12:00 AM",
-    "to": "1:00 AM",
+    "from": [
+     12,
+     0
+    ],
+    "to": [
+     1,
+     0
+    ],
     "type": "O = Open meeting",
     "specialInterest": "Eleventh Step"
    }
@@ -1296,8 +2106,14 @@
   "meetingTimes": [
    {
     "day": "Mondays",
-    "from": "7:00 PM",
-    "to": "8:00 PM",
+    "from": [
+     19,
+     0
+    ],
+    "to": [
+     20,
+     0
+    ],
     "type": "B = Beginners meeting"
    }
   ],
@@ -1317,14 +2133,26 @@
   "meetingTimes": [
    {
     "day": "Thursdays",
-    "from": "6:00 AM",
-    "to": "7:00 AM",
+    "from": [
+     6,
+     0
+    ],
+    "to": [
+     7,
+     0
+    ],
     "type": "B = Beginners meeting"
    },
    {
     "day": "Tuesdays",
-    "from": "6:00 AM",
-    "to": "7:00 AM",
+    "from": [
+     6,
+     0
+    ],
+    "to": [
+     7,
+     0
+    ],
     "type": "S = Step meeting"
    }
   ],
@@ -1345,137 +2173,269 @@
   "meetingTimes": [
    {
     "day": "Saturdays",
-    "from": "10:00 AM",
-    "to": "11:00 AM",
+    "from": [
+     10,
+     0
+    ],
+    "to": [
+     11,
+     0
+    ],
     "type": "C = Closed Discussion meeting"
    },
    {
     "day": "Mondays",
-    "from": "12:30 PM",
-    "to": "1:30 PM",
+    "from": [
+     12,
+     30
+    ],
+    "to": [
+     13,
+     30
+    ],
     "type": "B = Beginners meeting"
    },
    {
     "day": "Mondays",
-    "from": "12:30 PM",
-    "to": "1:30 PM",
+    "from": [
+     12,
+     30
+    ],
+    "to": [
+     13,
+     30
+    ],
     "type": "OD = Open Discussion meeting"
    },
    {
     "day": "Thursdays",
-    "from": "12:30 PM",
-    "to": "1:30 PM",
+    "from": [
+     12,
+     30
+    ],
+    "to": [
+     13,
+     30
+    ],
     "type": "S = Step meeting",
     "specialInterest": "Steps 1-2-3"
    },
    {
     "day": "Mondays",
-    "from": "12:30 PM",
-    "to": "1:30 PM",
+    "from": [
+     12,
+     30
+    ],
+    "to": [
+     13,
+     30
+    ],
     "type": "C = Closed Discussion meeting",
     "specialInterest": "Men"
    },
    {
     "day": "Thursdays",
-    "from": "12:30 PM",
-    "to": "1:30 PM",
+    "from": [
+     12,
+     30
+    ],
+    "to": [
+     13,
+     30
+    ],
     "type": "S = Step meeting"
    },
    {
     "day": "Tuesdays",
-    "from": "12:30 PM",
-    "to": "1:30 PM",
+    "from": [
+     12,
+     30
+    ],
+    "to": [
+     13,
+     30
+    ],
     "type": "B = Beginners meeting"
    },
    {
     "day": "Thursdays",
-    "from": "12:30 PM",
-    "to": "1:30 PM",
+    "from": [
+     12,
+     30
+    ],
+    "to": [
+     13,
+     30
+    ],
     "type": "S = Step meeting"
    },
    {
     "day": "Tuesdays",
-    "from": "12:30 PM",
-    "to": "1:30 PM",
+    "from": [
+     12,
+     30
+    ],
+    "to": [
+     13,
+     30
+    ],
     "type": "C = Closed Discussion meeting"
    },
    {
     "day": "Tuesdays",
-    "from": "12:30 PM",
-    "to": "1:30 PM",
+    "from": [
+     12,
+     30
+    ],
+    "to": [
+     13,
+     30
+    ],
     "type": "S = Step meeting"
    },
    {
     "day": "Fridays",
-    "from": "12:30 PM",
-    "to": "1:30 PM",
+    "from": [
+     12,
+     30
+    ],
+    "to": [
+     13,
+     30
+    ],
     "type": "B = Beginners meeting"
    },
    {
     "day": "Fridays",
-    "from": "12:30 PM",
-    "to": "1:30 PM",
+    "from": [
+     12,
+     30
+    ],
+    "to": [
+     13,
+     30
+    ],
     "type": "BB = Big Book meeting"
    },
    {
     "day": "Fridays",
-    "from": "12:30 PM",
-    "to": "1:30 PM",
+    "from": [
+     12,
+     30
+    ],
+    "to": [
+     13,
+     30
+    ],
     "type": "S = Step meeting"
    },
    {
     "day": "Wednesdays",
-    "from": "12:30 PM",
-    "to": "1:30 PM",
+    "from": [
+     12,
+     30
+    ],
+    "to": [
+     13,
+     30
+    ],
     "type": "B = Beginners meeting"
    },
    {
     "day": "Wednesdays",
-    "from": "12:30 PM",
-    "to": "1:30 PM",
+    "from": [
+     12,
+     30
+    ],
+    "to": [
+     13,
+     30
+    ],
     "type": "OD = Open Discussion meeting"
    },
    {
     "day": "Wednesdays",
-    "from": "12:30 PM",
-    "to": "1:30 PM",
+    "from": [
+     12,
+     30
+    ],
+    "to": [
+     13,
+     30
+    ],
     "type": "C = Closed Discussion meeting",
     "specialInterest": "Women"
    },
    {
     "day": "Sundays",
-    "from": "5:00 PM",
-    "to": "6:00 PM",
+    "from": [
+     17,
+     0
+    ],
+    "to": [
+     18,
+     0
+    ],
     "type": "C = Closed Discussion meeting"
    },
    {
     "day": "Wednesdays",
-    "from": "5:30 PM",
-    "to": "6:30 PM",
+    "from": [
+     17,
+     30
+    ],
+    "to": [
+     18,
+     30
+    ],
     "type": "C = Closed Discussion meeting"
    },
    {
     "day": "Mondays",
-    "from": "5:30 PM",
-    "to": "6:30 PM",
+    "from": [
+     17,
+     30
+    ],
+    "to": [
+     18,
+     30
+    ],
     "type": "B = Beginners meeting"
    },
    {
     "day": "Thursdays",
-    "from": "5:30 PM",
-    "to": "6:30 PM",
+    "from": [
+     17,
+     30
+    ],
+    "to": [
+     18,
+     30
+    ],
     "type": "S = Step meeting"
    },
    {
     "day": "Tuesdays",
-    "from": "5:30 PM",
-    "to": "6:30 PM",
+    "from": [
+     17,
+     30
+    ],
+    "to": [
+     18,
+     30
+    ],
     "type": "BB = Big Book meeting"
    },
    {
     "day": "Fridays",
-    "from": "5:30 PM",
-    "to": "6:30 PM",
+    "from": [
+     17,
+     30
+    ],
+    "to": [
+     18,
+     30
+    ],
     "type": "OD = Open Discussion meeting"
    }
   ],
@@ -1494,44 +2454,86 @@
   "meetingTimes": [
    {
     "day": "Sundays",
-    "from": "10:30 AM",
-    "to": "11:30 AM",
+    "from": [
+     10,
+     30
+    ],
+    "to": [
+     11,
+     30
+    ],
     "type": "C = Closed Discussion meeting"
    },
    {
     "day": "Mondays",
-    "from": "10:30 AM",
-    "to": "11:30 AM",
+    "from": [
+     10,
+     30
+    ],
+    "to": [
+     11,
+     30
+    ],
     "type": "C = Closed Discussion meeting"
    },
    {
     "day": "Tuesdays",
-    "from": "10:30 AM",
-    "to": "11:30 AM",
+    "from": [
+     10,
+     30
+    ],
+    "to": [
+     11,
+     30
+    ],
     "type": "C = Closed Discussion meeting"
    },
    {
     "day": "Wednesdays",
-    "from": "10:30 AM",
-    "to": "11:30 AM",
+    "from": [
+     10,
+     30
+    ],
+    "to": [
+     11,
+     30
+    ],
     "type": "C = Closed Discussion meeting"
    },
    {
     "day": "Thursdays",
-    "from": "10:30 AM",
-    "to": "11:30 AM",
+    "from": [
+     10,
+     30
+    ],
+    "to": [
+     11,
+     30
+    ],
     "type": "C = Closed Discussion meeting"
    },
    {
     "day": "Fridays",
-    "from": "10:30 AM",
-    "to": "11:30 AM",
+    "from": [
+     10,
+     30
+    ],
+    "to": [
+     11,
+     30
+    ],
     "type": "C = Closed Discussion meeting"
    },
    {
     "day": "Saturdays",
-    "from": "10:30 AM",
-    "to": "11:30 AM",
+    "from": [
+     10,
+     30
+    ],
+    "to": [
+     11,
+     30
+    ],
     "type": "C = Closed Discussion meeting"
    }
   ],
@@ -1552,39 +2554,75 @@
   "meetingTimes": [
    {
     "day": "Wednesdays",
-    "from": "6:15 PM",
-    "to": "7:15 PM",
+    "from": [
+     18,
+     15
+    ],
+    "to": [
+     19,
+     15
+    ],
     "type": "C = Closed Discussion meeting"
    },
    {
     "day": "Mondays",
-    "from": "6:15 PM",
-    "to": "7:15 PM",
+    "from": [
+     18,
+     15
+    ],
+    "to": [
+     19,
+     15
+    ],
     "type": "B = Beginners meeting"
    },
    {
     "day": "Wednesdays",
-    "from": "7:30 PM",
-    "to": "8:45 PM",
+    "from": [
+     19,
+     30
+    ],
+    "to": [
+     20,
+     45
+    ],
     "type": "S = Step meeting"
    },
    {
     "day": "Mondays",
-    "from": "7:45 PM",
-    "to": "8:45 PM",
+    "from": [
+     19,
+     45
+    ],
+    "to": [
+     20,
+     45
+    ],
     "type": "C = Closed Discussion meeting"
    },
    {
     "day": "Wednesdays",
-    "from": "9:00 PM",
-    "to": "10:00 PM",
+    "from": [
+     21,
+     0
+    ],
+    "to": [
+     22,
+     0
+    ],
     "type": "B = Beginners meeting",
     "specialInterest": "First Step Workshop"
    },
    {
     "day": "Mondays",
-    "from": "9:00 PM",
-    "to": "10:00 PM",
+    "from": [
+     21,
+     0
+    ],
+    "to": [
+     22,
+     0
+    ],
     "type": "O = Open meeting"
    }
   ],
@@ -1605,20 +2643,38 @@
   "meetingTimes": [
    {
     "day": "Sundays",
-    "from": "6:00 PM",
-    "to": "7:30 PM",
+    "from": [
+     18,
+     0
+    ],
+    "to": [
+     19,
+     30
+    ],
     "type": "S = Step meeting"
    },
    {
     "day": "Thursdays",
-    "from": "6:00 PM",
-    "to": "7:30 PM",
+    "from": [
+     18,
+     0
+    ],
+    "to": [
+     19,
+     30
+    ],
     "type": "OD = Open Discussion meeting"
    },
    {
     "day": "Saturdays",
-    "from": "6:00 PM",
-    "to": "7:30 PM",
+    "from": [
+     18,
+     0
+    ],
+    "to": [
+     19,
+     30
+    ],
     "type": "OD = Open Discussion meeting"
    }
   ],
@@ -1638,8 +2694,14 @@
   "meetingTimes": [
    {
     "day": "Tuesdays",
-    "from": "12:30 PM",
-    "to": "1:30 PM",
+    "from": [
+     12,
+     30
+    ],
+    "to": [
+     13,
+     30
+    ],
     "type": "OD = Open Discussion meeting"
    }
   ],
@@ -1660,33 +2722,63 @@
   "meetingTimes": [
    {
     "day": "Saturdays",
-    "from": "7:00 PM",
-    "to": "8:00 PM",
+    "from": [
+     19,
+     0
+    ],
+    "to": [
+     20,
+     0
+    ],
     "type": "C = Closed Discussion meeting",
     "specialInterest": "Promises"
    },
    {
     "day": "Mondays",
-    "from": "7:00 PM",
-    "to": "8:00 PM",
+    "from": [
+     19,
+     0
+    ],
+    "to": [
+     20,
+     0
+    ],
     "type": "BB = Big Book meeting"
    },
    {
     "day": "Tuesdays",
-    "from": "7:00 PM",
-    "to": "8:00 PM",
+    "from": [
+     19,
+     0
+    ],
+    "to": [
+     20,
+     0
+    ],
     "type": "S = Step meeting"
    },
    {
     "day": "Thursdays",
-    "from": "7:00 PM",
-    "to": "8:00 PM",
+    "from": [
+     19,
+     0
+    ],
+    "to": [
+     20,
+     0
+    ],
     "type": "B = Beginners meeting"
    },
    {
     "day": "Fridays",
-    "from": "7:00 PM",
-    "to": "8:00 PM",
+    "from": [
+     19,
+     0
+    ],
+    "to": [
+     20,
+     0
+    ],
     "type": "C = Closed Discussion meeting",
     "specialInterest": "Living Sober"
    }
@@ -1707,8 +2799,14 @@
   "meetingTimes": [
    {
     "day": "Fridays",
-    "from": "12:30 PM",
-    "to": "1:30 PM",
+    "from": [
+     12,
+     30
+    ],
+    "to": [
+     13,
+     30
+    ],
     "type": "OD = Open Discussion meeting"
    }
   ],
@@ -1728,8 +2826,14 @@
   "meetingTimes": [
    {
     "day": "Thursdays",
-    "from": "9:15 PM",
-    "to": "10:15 PM",
+    "from": [
+     21,
+     15
+    ],
+    "to": [
+     22,
+     15
+    ],
     "type": "S = Step meeting"
    }
   ],
@@ -1750,148 +2854,274 @@
   "meetingTimes": [
    {
     "day": "Saturdays",
-    "from": "5:30 PM",
-    "to": "6:30 PM",
+    "from": [
+     17,
+     30
+    ],
+    "to": [
+     18,
+     30
+    ],
     "type": "C = Closed Discussion meeting",
     "specialInterest": "Gay, Lesbian and Bisexual"
    },
    {
     "day": "Wednesdays",
-    "from": "5:30 PM",
-    "to": "6:30 PM",
+    "from": [
+     17,
+     30
+    ],
+    "to": [
+     18,
+     30
+    ],
     "type": "C = Closed Discussion meeting",
     "specialInterest": "Gay, Lesbian and Bisexual"
    },
    {
     "day": "Sundays",
-    "from": "5:30 PM",
-    "to": "6:30 PM",
+    "from": [
+     17,
+     30
+    ],
+    "to": [
+     18,
+     30
+    ],
     "type": "S = Step meeting",
     "specialInterest": "Gay, Lesbian and Bisexual"
    },
    {
     "day": "Thursdays",
-    "from": "5:30 PM",
-    "to": "6:30 PM",
+    "from": [
+     17,
+     30
+    ],
+    "to": [
+     18,
+     30
+    ],
     "type": "C = Closed Discussion meeting",
     "specialInterest": "Gay, Lesbian and Bisexual"
    },
    {
     "day": "Mondays",
-    "from": "5:30 PM",
-    "to": "6:30 PM",
+    "from": [
+     17,
+     30
+    ],
+    "to": [
+     18,
+     30
+    ],
     "type": "C = Closed Discussion meeting",
     "specialInterest": "Gay, Lesbian and Bisexual"
    },
    {
     "day": "Fridays",
-    "from": "5:30 PM",
-    "to": "6:30 PM",
+    "from": [
+     17,
+     30
+    ],
+    "to": [
+     18,
+     30
+    ],
     "type": "C = Closed Discussion meeting",
     "specialInterest": "Gay, Lesbian and Bisexual"
    },
    {
     "day": "Tuesdays",
-    "from": "5:30 PM",
-    "to": "6:30 PM",
+    "from": [
+     17,
+     30
+    ],
+    "to": [
+     18,
+     30
+    ],
     "type": "C = Closed Discussion meeting",
     "specialInterest": "Gay, Lesbian and Bisexual"
    },
    {
     "day": "Saturdays",
-    "from": "6:45 PM",
-    "to": "7:45 PM",
+    "from": [
+     18,
+     45
+    ],
+    "to": [
+     19,
+     45
+    ],
     "type": "B = Beginners meeting",
     "specialInterest": "Gay, Lesbian and Bisexual"
    },
    {
     "day": "Wednesdays",
-    "from": "6:45 PM",
-    "to": "7:45 PM",
+    "from": [
+     18,
+     45
+    ],
+    "to": [
+     19,
+     45
+    ],
     "type": "OD = Open Discussion meeting",
     "specialInterest": "Gay, Lesbian and Bisexual"
    },
    {
     "day": "Sundays",
-    "from": "6:45 PM",
-    "to": "7:45 PM",
+    "from": [
+     18,
+     45
+    ],
+    "to": [
+     19,
+     45
+    ],
     "type": "C = Closed Discussion meeting",
     "specialInterest": "Gay, Lesbian and Bisexual"
    },
    {
     "day": "Mondays",
-    "from": "6:45 PM",
-    "to": "7:45 PM",
+    "from": [
+     18,
+     45
+    ],
+    "to": [
+     19,
+     45
+    ],
     "type": "OD = Open Discussion meeting",
     "specialInterest": "Gay, Lesbian and Bisexual"
    },
    {
     "day": "Fridays",
-    "from": "6:45 PM",
-    "to": "7:45 PM",
+    "from": [
+     18,
+     45
+    ],
+    "to": [
+     19,
+     45
+    ],
     "type": "OD = Open Discussion meeting",
     "specialInterest": "Gay, Lesbian and Bisexual"
    },
    {
     "day": "Tuesdays",
-    "from": "6:45 PM",
-    "to": "7:45 PM",
+    "from": [
+     18,
+     45
+    ],
+    "to": [
+     19,
+     45
+    ],
     "type": "OD = Open Discussion meeting",
     "specialInterest": "Gay, Lesbian and Bisexual"
    },
    {
     "day": "Thursdays",
-    "from": "6:45 PM",
-    "to": "7:45 PM",
+    "from": [
+     18,
+     45
+    ],
+    "to": [
+     19,
+     45
+    ],
     "type": "OD = Open Discussion meeting",
     "specialInterest": "H.I.V Positive"
    },
    {
     "day": "Tuesdays",
-    "from": "8:00 PM",
-    "to": "9:00 PM",
+    "from": [
+     20,
+     0
+    ],
+    "to": [
+     21,
+     0
+    ],
     "type": "BB = Big Book meeting",
     "specialInterest": "Gay, Lesbian and Bisexual"
    },
    {
     "day": "Saturdays",
-    "from": "8:00 PM",
-    "to": "9:00 PM",
+    "from": [
+     20,
+     0
+    ],
+    "to": [
+     21,
+     0
+    ],
     "type": "O = Open meeting",
     "specialInterest": "Gay, Lesbian and Bisexual"
    },
    {
     "day": "Sundays",
-    "from": "8:00 PM",
-    "to": "9:00 PM",
+    "from": [
+     20,
+     0
+    ],
+    "to": [
+     21,
+     0
+    ],
     "type": "BB = Big Book meeting",
     "specialInterest": "Gay, Lesbian and Bisexual"
    },
    {
     "day": "Thursdays",
-    "from": "8:00 PM",
-    "to": "9:00 PM",
+    "from": [
+     20,
+     0
+    ],
+    "to": [
+     21,
+     0
+    ],
     "type": "O = Open meeting",
     "specialInterest": "Gay, Lesbian and Bisexual"
    },
    {
     "day": "Mondays",
-    "from": "8:00 PM",
-    "to": "9:00 PM",
+    "from": [
+     20,
+     0
+    ],
+    "to": [
+     21,
+     0
+    ],
     "type": "O = Open meeting",
     "specialInterest": "Gay, Lesbian and Bisexual"
    },
    {
     "day": "Fridays",
-    "from": "8:00 PM",
-    "to": "9:00 PM",
+    "from": [
+     20,
+     0
+    ],
+    "to": [
+     21,
+     0
+    ],
     "type": "S = Step meeting",
     "specialInterest": "Gay, Lesbian and Bisexual"
    },
    {
     "day": "Wednesdays",
-    "from": "8:00 PM",
-    "to": "9:00 PM",
+    "from": [
+     20,
+     0
+    ],
+    "to": [
+     21,
+     0
+    ],
     "type": "C = Closed Discussion meeting",
     "specialInterest": "Gay, Lesbian and Bisexual"
    }
@@ -1912,32 +3142,62 @@
   "meetingTimes": [
    {
     "day": "Mondays",
-    "from": "12:30 AM",
-    "to": "1:30 PM",
+    "from": [
+     12,
+     30
+    ],
+    "to": [
+     13,
+     30
+    ],
     "type": "C = Closed Discussion meeting"
    },
    {
     "day": "Tuesdays",
-    "from": "12:30 PM",
-    "to": "1:30 PM",
+    "from": [
+     12,
+     30
+    ],
+    "to": [
+     13,
+     30
+    ],
     "type": "C = Closed Discussion meeting"
    },
    {
     "day": "Wednesdays",
-    "from": "12:30 PM",
-    "to": "1:30 PM",
+    "from": [
+     12,
+     30
+    ],
+    "to": [
+     13,
+     30
+    ],
     "type": "S = Step meeting"
    },
    {
     "day": "Thursdays",
-    "from": "12:30 PM",
-    "to": "1:30 PM",
+    "from": [
+     12,
+     30
+    ],
+    "to": [
+     13,
+     30
+    ],
     "type": "B = Beginners meeting"
    },
    {
     "day": "Fridays",
-    "from": "12:30 PM",
-    "to": "1:30 PM",
+    "from": [
+     12,
+     30
+    ],
+    "to": [
+     13,
+     30
+    ],
     "type": "C = Closed Discussion meeting"
    }
   ],
@@ -1958,8 +3218,14 @@
   "meetingTimes": [
    {
     "day": "Saturdays",
-    "from": "9:15 PM",
-    "to": "10:15 PM",
+    "from": [
+     21,
+     15
+    ],
+    "to": [
+     22,
+     15
+    ],
     "type": "S = Step meeting"
    }
   ],
@@ -1980,8 +3246,14 @@
   "meetingTimes": [
    {
     "day": "Fridays",
-    "from": "6:30 PM",
-    "to": "7:30 PM",
+    "from": [
+     18,
+     30
+    ],
+    "to": [
+     19,
+     30
+    ],
     "type": "OD = Open Discussion meeting",
     "specialInterest": "Spiritual Workshop"
    }
@@ -2003,8 +3275,14 @@
   "meetingTimes": [
    {
     "day": "Tuesdays",
-    "from": "7:45 AM",
-    "to": "8:45 AM",
+    "from": [
+     7,
+     45
+    ],
+    "to": [
+     8,
+     45
+    ],
     "type": "C = Closed Discussion meeting"
    }
   ],
@@ -2025,14 +3303,26 @@
   "meetingTimes": [
    {
     "day": "Tuesdays",
-    "from": "12:00 PM",
-    "to": "1:00 PM",
+    "from": [
+     12,
+     0
+    ],
+    "to": [
+     13,
+     0
+    ],
     "type": "C = Closed Discussion meeting"
    },
    {
     "day": "Thursdays",
-    "from": "12:00 PM",
-    "to": "1:00 PM",
+    "from": [
+     12,
+     0
+    ],
+    "to": [
+     13,
+     0
+    ],
     "type": "C = Closed Discussion meeting"
    }
   ],
@@ -2053,8 +3343,14 @@
   "meetingTimes": [
    {
     "day": "Wednesdays",
-    "from": "7:00 PM",
-    "to": "8:15 PM",
+    "from": [
+     19,
+     0
+    ],
+    "to": [
+     20,
+     15
+    ],
     "type": "S = Step meeting"
    }
   ],
@@ -2074,8 +3370,14 @@
   "meetingTimes": [
    {
     "day": "Sundays",
-    "from": "9:15 PM",
-    "to": "10:15 PM",
+    "from": [
+     21,
+     15
+    ],
+    "to": [
+     22,
+     15
+    ],
     "type": "B = Beginners meeting"
    }
   ],
@@ -2095,8 +3397,14 @@
   "meetingTimes": [
    {
     "day": "Tuesdays",
-    "from": "6:00 PM",
-    "to": "7:00 PM",
+    "from": [
+     18,
+     0
+    ],
+    "to": [
+     19,
+     0
+    ],
     "type": "OD = Open Discussion meeting",
     "specialInterest": "Agnostic"
    }
@@ -2117,8 +3425,14 @@
   "meetingTimes": [
    {
     "day": "Fridays",
-    "from": "7:30 PM",
-    "to": "8:30 PM",
+    "from": [
+     19,
+     30
+    ],
+    "to": [
+     20,
+     30
+    ],
     "type": "S = Step meeting"
    }
   ],
@@ -2139,8 +3453,14 @@
   "meetingTimes": [
    {
     "day": "Fridays",
-    "from": "6:30 PM",
-    "to": "7:45 PM",
+    "from": [
+     18,
+     30
+    ],
+    "to": [
+     19,
+     45
+    ],
     "type": "C = Closed Discussion meeting",
     "specialInterest": "Women"
    }
@@ -2161,8 +3481,14 @@
   "meetingTimes": [
    {
     "day": "Sundays",
-    "from": "7:30 PM",
-    "to": "8:30 PM",
+    "from": [
+     19,
+     30
+    ],
+    "to": [
+     20,
+     30
+    ],
     "type": "BB = Big Book meeting"
    }
   ],
@@ -2183,8 +3509,14 @@
   "meetingTimes": [
    {
     "day": "Fridays",
-    "from": "9:15 PM",
-    "to": "10:15 PM",
+    "from": [
+     21,
+     15
+    ],
+    "to": [
+     22,
+     15
+    ],
     "type": "BB = Big Book meeting",
     "specialInterest": "Young People"
    }
