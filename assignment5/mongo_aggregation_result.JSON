@@ -1,46 +1,19 @@
 [
     {
-        "_id": "59daa37f5d43f31910accc2a",
-        "eventName": "POWERLESS - Powerless",
-        "locationName": "Manhattan Plaza Health Club",
-        "details": "Fri=Living Sober, Sat=Promises",
-        "hasWheelchairAccess": true,
-        "meetingTimes": {
-            "day": "Tuesdays",
-            "from": [
-                19,
-                0
-            ],
-            "to": [
-                20,
-                0
-            ],
-            "type": "S = Step meeting"
-        },
-        "address": {
-            "fullAddress": "484 West 43rd Street, 1st Floor,",
-            "streetAddress": "484 West 43rd Street, New York, NY",
-            "latLong": {
-                "lat": 40.759952,
-                "lng": -73.9947467
-            }
-        }
-    },
-    {
-        "_id": "59daa37f5d43f31910accc06",
+        "_id": "59dac16dd32dd751463f9899",
         "eventName": "42nd AT 9:00pm - ",
         "details": "Sat=A.A. Literature",
         "hasWheelchairAccess": false,
         "meetingTimes": {
             "day": "Tuesdays",
-            "from": [
-                21,
-                15
-            ],
-            "to": [
-                22,
-                30
-            ],
+            "from": {
+                "hour": 21,
+                "minute": 15
+            },
+            "to": {
+                "hour": 22,
+                "minute": 30
+            },
             "type": "S = Step meeting",
             "specialInterest": "Meditation"
         },
@@ -54,21 +27,21 @@
         }
     },
     {
-        "_id": "59daa37f5d43f31910accc0d",
+        "_id": "59dac16dd32dd751463f98a0",
         "eventName": "ANNEX    (:II) - Annex    (:II)",
         "locationName": "GMHC",
         "details": "Gay & Lesbian focus.  All are welcome.",
         "hasWheelchairAccess": true,
         "meetingTimes": {
             "day": "Tuesdays",
-            "from": [
-                20,
-                0
-            ],
-            "to": [
-                21,
-                0
-            ],
+            "from": {
+                "hour": 20,
+                "minute": 0
+            },
+            "to": {
+                "hour": 21,
+                "minute": 0
+            },
             "type": "O = Open meeting",
             "specialInterest": "Gay, Lesbian and Bisexual"
         },
@@ -82,21 +55,21 @@
         }
     },
     {
-        "_id": "59daa37f5d43f31910accc0e",
+        "_id": "59dac16dd32dd751463f98a1",
         "eventName": "ARTISTS IN RECOVERY - ",
         "locationName": "46th Street Clubhouse",
         "details": "All are welcome.",
         "hasWheelchairAccess": false,
         "meetingTimes": {
             "day": "Tuesdays",
-            "from": [
-                21,
-                15
-            ],
-            "to": [
-                22,
-                15
-            ],
+            "from": {
+                "hour": 21,
+                "minute": 15
+            },
+            "to": {
+                "hour": 22,
+                "minute": 15
+            },
             "type": "C = Closed Discussion meeting",
             "specialInterest": "Special Purpose Groups"
         },
@@ -110,20 +83,20 @@
         }
     },
     {
-        "_id": "59daa37f5d43f31910accc1a",
+        "_id": "59dac16dd32dd751463f98ad",
         "eventName": "FORTY-FIVE SOLUTIONS - Forty-Five Solutions",
         "locationName": "46th Street Club House",
         "hasWheelchairAccess": false,
         "meetingTimes": {
             "day": "Tuesdays",
-            "from": [
-                22,
-                30
-            ],
-            "to": [
-                23,
-                30
-            ],
+            "from": {
+                "hour": 22,
+                "minute": 30
+            },
+            "to": {
+                "hour": 23,
+                "minute": 30
+            },
             "type": "C = Closed Discussion meeting"
         },
         "address": {
@@ -136,19 +109,19 @@
         }
     },
     {
-        "_id": "59daa37f5d43f31910accc1e",
+        "_id": "59dac16dd32dd751463f98b1",
         "eventName": "HENRY HUDSON - Henry Hudson",
         "hasWheelchairAccess": false,
         "meetingTimes": {
             "day": "Tuesdays",
-            "from": [
-                19,
-                30
-            ],
-            "to": [
-                20,
-                30
-            ],
+            "from": {
+                "hour": 19,
+                "minute": 30
+            },
+            "to": {
+                "hour": 20,
+                "minute": 30
+            },
             "type": "BB = Big Book meeting"
         },
         "address": {
@@ -161,21 +134,48 @@
         }
     },
     {
-        "_id": "59daa37f5d43f31910accc2d",
+        "_id": "59dac16dd32dd751463f98bd",
+        "eventName": "POWERLESS - Powerless",
+        "locationName": "Manhattan Plaza Health Club",
+        "details": "Fri=Living Sober, Sat=Promises",
+        "hasWheelchairAccess": true,
+        "meetingTimes": {
+            "day": "Tuesdays",
+            "from": {
+                "hour": 19,
+                "minute": 0
+            },
+            "to": {
+                "hour": 20,
+                "minute": 0
+            },
+            "type": "S = Step meeting"
+        },
+        "address": {
+            "fullAddress": "484 West 43rd Street, 1st Floor,",
+            "streetAddress": "484 West 43rd Street, New York, NY",
+            "latLong": {
+                "lat": 40.759952,
+                "lng": -73.9947467
+            }
+        }
+    },
+    {
+        "_id": "59dac16dd32dd751463f98c0",
         "eventName": "RAINBOW ROOM - Rainbow Room",
         "locationName": "46th Street Club House",
         "details": "Gay, Lesbian, Bisexual & Transgender Focus.  All are welcome. *Last Saturday of month=\"Open Anniversary\"",
         "hasWheelchairAccess": false,
         "meetingTimes": {
             "day": "Tuesdays",
-            "from": [
-                20,
-                0
-            ],
-            "to": [
-                21,
-                0
-            ],
+            "from": {
+                "hour": 20,
+                "minute": 0
+            },
+            "to": {
+                "hour": 21,
+                "minute": 0
+            },
             "type": "BB = Big Book meeting",
             "specialInterest": "Gay, Lesbian and Bisexual"
         },

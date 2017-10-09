@@ -17,8 +17,6 @@ var meetingsData = [];
 scrapeAndCleanMeetingData($);
 async.eachOfSeries(meetingsData, getAndPushGeos, saveMeetingsData);
 
-// saveMeetingsData();// TODO: comment out after debugging
-
 function scrapeAndCleanMeetingData($){
     //select the third table and then iterate through its rows
     $('table').eq(2).find('tbody tr').each(function(i, elem) {
@@ -61,6 +59,7 @@ function scrapeAndCleanMeetingData($){
         for (var m in meetingTimesRaw){
             meetingTimesRaw[m] = meetingTimesRaw[m].replace(/(<([^>]+)>)/ig, '');
             var thisTime = new Object();
+            
             var typeSplit = meetingTimesRaw[m].split('Meeting Type ');
             
             // get meeting days
@@ -71,13 +70,13 @@ function scrapeAndCleanMeetingData($){
                 .split('From')[1]
                 .split('to')
                 .map(function(x){
-                    
                     var t = x.trim().split(' '); // gets [HH:MM, AM]
                     var time = t[0].split(':'); // [HH, MM]
-                    time[0] = +time[0]; // make it integer
-                    time[1] = +time[1];
-                    time[0] = (t[1] == 'PM' && time[0] < 12) ? time[0] + 12 : time[0]; // + in front turns to integer
-                    return time; // returns array where [0] is hour and [1] is minute
+                    var tObj = new Object();
+                    tObj.hour = +time[0]; // make it integer
+                    tObj.minute = +time[1];
+                    tObj.hour = (t[1] == 'PM' && tObj.hour < 12) ? tObj.hour + 12 : tObj.hour; // + in front turns to integer
+                    return tObj; // returns array where [0] is hour and [1] is minute
                 });
                     
             thisTime.from = times[0];

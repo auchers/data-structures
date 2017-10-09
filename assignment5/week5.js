@@ -19,12 +19,11 @@ MongoClient.connect(url, function(err, db) {
     // GOAL : all meetings in your zone that begin on Tuesdays at or after 7:00pm
     var my_query = [// we ran multiple queries -- to test each on just uncomment the part with the '{'
         
+        // first filter all the ones that have meetings on Tuesdays
         { $match : {"meetingTimes.day" : "Tuesdays"} },
-        { $unwind :  "$meetingTimes"},
+        { $unwind :  "$meetingTimes"}, // get each meeting time as a separate object
         { $match : {"meetingTimes.day" : "Tuesdays"} }, 
-        { $match : {"meetingTimes.from.0": { $gte : 19 } } }
-        // { $match : {"hour" : { $gte : 19 } } }
-        
+        { $match : {"meetingTimes.from.hour": { $gte : 19 } } }
     
         // QUERY 1
         // taken from https://docs.mongodb.com/manual/reference/operator/aggregation/match/#pipe._S_match
