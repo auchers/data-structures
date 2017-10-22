@@ -3,7 +3,6 @@ var async = require('async');
 var fs = require('fs');
 var cheerio = require('cheerio');
 var content = fs.readFileSync('../assignment2/m04.txt');
-var moment = require('moment');
 
 // SETTING ENVIRONMENT VARIABLES (in Linux):
 // export NEW_VAR="Content of NEW_VAR variable"
