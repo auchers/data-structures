@@ -1,0 +1,925 @@
+[
+ {
+  "eventName": "A NEW WAY OF LIVING - A New Way Of Living",
+  "locationName": "Columbia Presbyterian Hospital",
+  "details": "Check with Security for Room # T Last Thu, Living Sober & Anniv Last Fri. No meetings on public holidays",
+  "hasWheelchairAccess": true,
+  "address": {
+   "fullAddress": "701 West 168th Street @ Fort Washington Avenue,",
+   "streetAddress": "701 West 168th Street @ Fort Washington Avenue, New York, NY",
+   "latLong": {
+    "lat": 40.84213949999999,
+    "lng": -73.9422811
+   }
+  },
+  "meetingTimes": [
+   {
+    "full": "Thursdays From  12:00 PM to 1:00 PM",
+    "day": "Thursdays",
+    "from": {
+     "hour": 12,
+     "min": 0
+    },
+    "to": {
+     "hour": 13,
+     "min": 0
+    },
+    "meetingType": "S = Step meeting"
+   },
+   {
+    "full": "Fridays From  12:00 PM to 1:00 PM",
+    "day": "Fridays",
+    "from": {
+     "hour": 12,
+     "min": 0
+    },
+    "to": {
+     "hour": 13,
+     "min": 0
+    },
+    "meetingType": "C = Closed Discussion meeting",
+    "specialInterest": "Living Sober"
+   },
+   {
+    "full": "Mondays From  12:00 PM to 1:00 PM",
+    "day": "Mondays",
+    "from": {
+     "hour": 12,
+     "min": 0
+    },
+    "to": {
+     "hour": 13,
+     "min": 0
+    },
+    "meetingType": "BB = Big Book meeting"
+   },
+   {
+    "full": "Tuesdays From  12:00 PM to 1:00 PM",
+    "day": "Tuesdays",
+    "from": {
+     "hour": 12,
+     "min": 0
+    },
+    "to": {
+     "hour": 13,
+     "min": 0
+    },
+    "meetingType": "B = Beginners meeting"
+   },
+   {
+    "full": "Wednesdays From  12:00 PM to 1:00 PM",
+    "day": "Wednesdays",
+    "from": {
+     "hour": 12,
+     "min": 0
+    },
+    "to": {
+     "hour": 13,
+     "min": 0
+    },
+    "meetingType": "C = Closed Discussion meeting"
+   }
+  ]
+ },
+ {
+  "eventName": "BRIDGE TO SOBRIETY (:I) - Bridge To Sobriety",
+  "locationName": "Holy Rood Church",
+  "details": "Living Sober Last Tuesday, T Last Wednesday",
+  "hasWheelchairAccess": false,
+  "address": {
+   "fullAddress": "715 West 179th Street,",
+   "streetAddress": "715 West 179th Street, New York, NY",
+   "latLong": {
+    "lat": 40.849431,
+    "lng": -73.93840399999999
+   }
+  },
+  "meetingTimes": [
+   {
+    "full": "Mondays From  10:00 AM to 11:00 AM",
+    "day": "Mondays",
+    "from": {
+     "hour": 10,
+     "min": 0
+    },
+    "to": {
+     "hour": 11,
+     "min": 0
+    },
+    "meetingType": "OD = Open Discussion meeting"
+   },
+   {
+    "full": "Tuesdays From  10:00 AM to 11:00 AM",
+    "day": "Tuesdays",
+    "from": {
+     "hour": 10,
+     "min": 0
+    },
+    "to": {
+     "hour": 11,
+     "min": 0
+    },
+    "meetingType": "B = Beginners meeting",
+    "specialInterest": "Living Sober"
+   },
+   {
+    "full": "Wednesdays From  10:00 AM to 11:00 AM",
+    "day": "Wednesdays",
+    "from": {
+     "hour": 10,
+     "min": 0
+    },
+    "to": {
+     "hour": 11,
+     "min": 0
+    },
+    "meetingType": "BB = Big Book meeting"
+   },
+   {
+    "full": "Thursdays From  10:00 AM to 11:00 AM",
+    "day": "Thursdays",
+    "from": {
+     "hour": 10,
+     "min": 0
+    },
+    "to": {
+     "hour": 11,
+     "min": 0
+    },
+    "meetingType": "S = Step meeting"
+   },
+   {
+    "full": "Fridays From  10:00 AM to 11:00 AM",
+    "day": "Fridays",
+    "from": {
+     "hour": 10,
+     "min": 0
+    },
+    "to": {
+     "hour": 11,
+     "min": 0
+    },
+    "meetingType": "OD = Open Discussion meeting"
+   }
+  ]
+ },
+ {
+  "eventName": "BRIDGE TO SOBRIETY (:II) -",
+  "locationName": "Holy Rood Church",
+  "details": "10th Step",
+  "hasWheelchairAccess": true,
+  "address": {
+   "fullAddress": "715 West 179th Street,",
+   "streetAddress": "715 West 179th Street, New York, NY",
+   "latLong": {
+    "lat": 40.849431,
+    "lng": -73.93840399999999
+   }
+  },
+  "meetingTimes": [
+   {
+    "full": "Sundays From  10:00 AM to 11:00 AM",
+    "day": "Sundays",
+    "from": {
+     "hour": 10,
+     "min": 0
+    },
+    "to": {
+     "hour": 11,
+     "min": 0
+    },
+    "meetingType": "S = Step meeting"
+   }
+  ]
+ },
+ {
+  "eventName": "DYCKMAN - Dyckman",
+  "locationName": "St. Jude's School",
+  "details": "BB 1st & T Last Wed.",
+  "hasWheelchairAccess": false,
+  "address": {
+   "fullAddress": "431 West 204th Street, Basement,",
+   "streetAddress": "431 West 204th Street, New York, NY",
+   "latLong": {
+    "lat": 40.8621364,
+    "lng": -73.9189224
+   }
+  },
+  "meetingTimes": [
+   {
+    "full": "Sundays From  12:00 PM to 1:00 PM",
+    "day": "Sundays",
+    "from": {
+     "hour": 12,
+     "min": 0
+    },
+    "to": {
+     "hour": 13,
+     "min": 0
+    },
+    "meetingType": "O = Open meeting"
+   },
+   {
+    "full": "Wednesdays From  7:00 PM to 8:00 PM",
+    "day": "Wednesdays",
+    "from": {
+     "hour": 19,
+     "min": 0
+    },
+    "to": {
+     "hour": 20,
+     "min": 0
+    },
+    "meetingType": "S = Step meeting"
+   }
+  ]
+ },
+ {
+  "eventName": "FOUND-A-WAY - Found-A-Way",
+  "locationName": "Church of the Intercession",
+  "details": "Men's meeting & Gay men's focus. All are welcome. Anniversary last Sat., 1st Sat.=S followed by Bus. Mtg.",
+  "hasWheelchairAccess": false,
+  "address": {
+   "fullAddress": "550 West 155th Street, 2nd Floor Guild Room,",
+   "streetAddress": "550 West 155th Street, New York, NY",
+   "latLong": {
+    "lat": 40.83222900000001,
+    "lng": -73.94521859999999
+   }
+  },
+  "meetingTimes": [
+   {
+    "full": "Saturdays From  12:30 PM to 2:00 PM",
+    "day": "Saturdays",
+    "from": {
+     "hour": 12,
+     "min": 30
+    },
+    "to": {
+     "hour": 14,
+     "min": 0
+    },
+    "meetingType": "C = Closed Discussion meeting",
+    "specialInterest": "Gay Men"
+   }
+  ]
+ },
+ {
+  "eventName": "GRUPO DESPERTAR - Grupo Despertar",
+  "locationName": "Casita Esperanza",
+  "details": "Spanish Speaking Meetings.",
+  "hasWheelchairAccess": true,
+  "address": {
+   "fullAddress": "557 West 156th Street, \n\t\t\t\t\t\tNY 10032",
+   "streetAddress": "557 West 156th Street, New York, NY",
+   "latLong": {
+    "lat": 40.8332853,
+    "lng": -73.9446524
+   }
+  },
+  "meetingTimes": [
+   {
+    "full": "Wednesdays From  8:00 PM to 10:00 PM",
+    "day": "Wednesdays",
+    "from": {
+     "hour": 20,
+     "min": 0
+    },
+    "to": {
+     "hour": 22,
+     "min": 0
+    },
+    "meetingType": "C = Closed Discussion meeting"
+   },
+   {
+    "full": "Fridays From  8:00 PM to 10:00 PM",
+    "day": "Fridays",
+    "from": {
+     "hour": 20,
+     "min": 0
+    },
+    "to": {
+     "hour": 22,
+     "min": 0
+    },
+    "meetingType": "OD = Open Discussion meeting"
+   }
+  ]
+ },
+ {
+  "eventName": "GRUPO LA FLAMA PANAMERICANA - Grupo La Flama Panamericana",
+  "details": "Spanish speaking meetings.",
+  "hasWheelchairAccess": true,
+  "address": {
+   "fullAddress": "35 Thayer Street, Basement,",
+   "streetAddress": "35 Thayer Street, New York, NY",
+   "latLong": {
+    "lat": 40.8626118,
+    "lng": -73.92621030000001
+   }
+  },
+  "meetingTimes": [
+   {
+    "full": "Sundays From  5:00 PM to 7:00 PM",
+    "day": "Sundays",
+    "from": {
+     "hour": 17,
+     "min": 0
+    },
+    "to": {
+     "hour": 19,
+     "min": 0
+    },
+    "meetingType": "O = Open meeting"
+   },
+   {
+    "full": "Tuesdays From  8:00 PM to 10:00 PM",
+    "day": "Tuesdays",
+    "from": {
+     "hour": 20,
+     "min": 0
+    },
+    "to": {
+     "hour": 22,
+     "min": 0
+    },
+    "meetingType": "O = Open meeting"
+   },
+   {
+    "full": "Thursdays From  8:00 PM to 10:00 PM",
+    "day": "Thursdays",
+    "from": {
+     "hour": 20,
+     "min": 0
+    },
+    "to": {
+     "hour": 22,
+     "min": 0
+    },
+    "meetingType": "O = Open meeting"
+   },
+   {
+    "full": "Saturdays From  8:00 PM to 10:00 PM",
+    "day": "Saturdays",
+    "from": {
+     "hour": 20,
+     "min": 0
+    },
+    "to": {
+     "hour": 22,
+     "min": 0
+    },
+    "meetingType": "O = Open meeting"
+   }
+  ]
+ },
+ {
+  "eventName": "GRUPO LIBERTAD - Grupo Libertad",
+  "locationName": "Episcopal Holy Rood Church",
+  "details": "Spanish speaking meetings.",
+  "hasWheelchairAccess": true,
+  "address": {
+   "fullAddress": "715 West 179th Street, 1st Floor, \n\t\t\t\t\t\tNY 10033",
+   "streetAddress": "715 West 179th Street, New York, NY",
+   "latLong": {
+    "lat": 40.849431,
+    "lng": -73.93840399999999
+   }
+  },
+  "meetingTimes": [
+   {
+    "full": "Tuesdays From  7:30 PM to 8:30 PM",
+    "day": "Tuesdays",
+    "from": {
+     "hour": 19,
+     "min": 30
+    },
+    "to": {
+     "hour": 20,
+     "min": 30
+    },
+    "meetingType": "BB = Big Book meeting"
+   },
+   {
+    "full": "Thursdays From  7:30 PM to 8:30 PM",
+    "day": "Thursdays",
+    "from": {
+     "hour": 19,
+     "min": 30
+    },
+    "to": {
+     "hour": 20,
+     "min": 30
+    },
+    "meetingType": "BB = Big Book meeting"
+   },
+   {
+    "full": "Thursdays From  9:30 PM to 10:30 AM",
+    "day": "Thursdays",
+    "from": {
+     "hour": 21,
+     "min": 30
+    },
+    "to": {
+     "hour": 10,
+     "min": 30
+    },
+    "meetingType": "C = Closed Discussion meeting"
+   },
+   {
+    "full": "Tuesdays From  9:30 PM to 10:30 PM",
+    "day": "Tuesdays",
+    "from": {
+     "hour": 21,
+     "min": 30
+    },
+    "to": {
+     "hour": 22,
+     "min": 30
+    },
+    "meetingType": "C = Closed Discussion meeting"
+   }
+  ]
+ },
+ {
+  "eventName": "GRUPO RECUPERACION - Grupo Recuperacion",
+  "locationName": "Church Santa Rosa de Lima",
+  "details": "Spanish speaking meetings.",
+  "hasWheelchairAccess": false,
+  "address": {
+   "fullAddress": "502 West165th Street, Basement,",
+   "streetAddress": "502 West165th Street, New York, NY",
+   "latLong": {
+    "lat": 40.8380556,
+    "lng": -73.93891789999999
+   }
+  },
+  "meetingTimes": [
+   {
+    "full": "Sundays From  2:30 PM to 3:30 PM",
+    "day": "Sundays",
+    "from": {
+     "hour": 14,
+     "min": 30
+    },
+    "to": {
+     "hour": 15,
+     "min": 30
+    },
+    "meetingType": "O = Open meeting"
+   },
+   {
+    "full": "Tuesdays From  8:00 PM to 9:00 PM",
+    "day": "Tuesdays",
+    "from": {
+     "hour": 20,
+     "min": 0
+    },
+    "to": {
+     "hour": 21,
+     "min": 0
+    },
+    "meetingType": "C = Closed Discussion meeting"
+   },
+   {
+    "full": "Thursdays From  8:00 PM to 9:00 PM",
+    "day": "Thursdays",
+    "from": {
+     "hour": 20,
+     "min": 0
+    },
+    "to": {
+     "hour": 21,
+     "min": 0
+    },
+    "meetingType": "O = Open meeting"
+   }
+  ]
+ },
+ {
+  "eventName": "GRUPO UN NUEVO AMANECER - Grupo Un Nuevo Amanecer",
+  "locationName": "Our Lady Queen of Martyrs",
+  "details": "Spanish Speaking Meetings.",
+  "hasWheelchairAccess": false,
+  "address": {
+   "fullAddress": "91 Arden Street,",
+   "streetAddress": "91 Arden Street, New York, NY",
+   "latLong": {
+    "lat": 40.8638625,
+    "lng": -73.9280718
+   }
+  },
+  "meetingTimes": [
+   {
+    "full": "Mondays From  8:00 PM to 9:00 PM",
+    "day": "Mondays",
+    "from": {
+     "hour": 20,
+     "min": 0
+    },
+    "to": {
+     "hour": 21,
+     "min": 0
+    },
+    "meetingType": "C = Closed Discussion meeting"
+   },
+   {
+    "full": "Fridays From  8:00 PM to 9:00 PM",
+    "day": "Fridays",
+    "from": {
+     "hour": 20,
+     "min": 0
+    },
+    "to": {
+     "hour": 21,
+     "min": 0
+    },
+    "meetingType": "OD = Open Discussion meeting"
+   }
+  ]
+ },
+ {
+  "eventName": "HAPPY DESTINY -",
+  "locationName": "Holy Trinity Episcopal Church",
+  "details": "LGBT All welcome. Sun= As Bill See it; Wed=Steps1-3 Sun.meeting in Sanctuary; Wed meeting in Auditorium",
+  "hasWheelchairAccess": false,
+  "address": {
+   "fullAddress": "20 Cumming Street,",
+   "streetAddress": "20 Cumming Street, New York, NY",
+   "latLong": {
+    "lat": 40.8666437,
+    "lng": -73.9268712
+   }
+  },
+  "meetingTimes": [
+   {
+    "full": "Sundays From  7:30 PM to 8:30 PM",
+    "day": "Sundays",
+    "from": {
+     "hour": 19,
+     "min": 30
+    },
+    "to": {
+     "hour": 20,
+     "min": 30
+    },
+    "meetingType": "C = Closed Discussion meeting",
+    "specialInterest": "Gay, Lesbian and Bisexual"
+   },
+   {
+    "full": "Wednesdays From  7:30 PM to 8:30 PM",
+    "day": "Wednesdays",
+    "from": {
+     "hour": 19,
+     "min": 30
+    },
+    "to": {
+     "hour": 20,
+     "min": 30
+    },
+    "meetingType": "B = Beginners meeting",
+    "specialInterest": "Gay, Lesbian and Bisexual"
+   }
+  ]
+ },
+ {
+  "eventName": "INWOOD FORT TRYON - Inwood-Ft. Tryon",
+  "locationName": "Mount Washington Presbyterian Church",
+  "details": "Sat. Closed meeting rotating step/speaker/trad/anniversary In Dec. first two weeks will be Step meeting",
+  "hasWheelchairAccess": false,
+  "address": {
+   "fullAddress": "84 Vermilyea Avenue,",
+   "streetAddress": "84 Vermilyea Avenue, New York, NY",
+   "latLong": {
+    "lat": 40.8660417,
+    "lng": -73.9232711
+   }
+  },
+  "meetingTimes": [
+   {
+    "full": "Saturdays From  11:00 AM to 12:00 PM",
+    "day": "Saturdays",
+    "from": {
+     "hour": 11,
+     "min": 0
+    },
+    "to": {
+     "hour": 12,
+     "min": 0
+    },
+    "meetingType": "B = Beginners meeting"
+   },
+   {
+    "full": "Saturdays From  11:00 AM to 12:00 PM",
+    "day": "Saturdays",
+    "from": {
+     "hour": 11,
+     "min": 0
+    },
+    "to": {
+     "hour": 12,
+     "min": 0
+    },
+    "meetingType": "C = Closed Discussion meeting"
+   },
+   {
+    "full": "Tuesdays From  12:30 PM to 1:30 PM",
+    "day": "Tuesdays",
+    "from": {
+     "hour": 12,
+     "min": 30
+    },
+    "to": {
+     "hour": 13,
+     "min": 30
+    },
+    "meetingType": "C = Closed Discussion meeting"
+   }
+  ]
+ },
+ {
+  "eventName": "ISHAM PARK - Isham Park",
+  "locationName": "Church of the Good Shepherd",
+  "details": "Open Anniv. Last Mon.",
+  "hasWheelchairAccess": false,
+  "address": {
+   "fullAddress": "620 Isham Street,",
+   "streetAddress": "620 Isham Street, New York, NY",
+   "latLong": {
+    "lat": 40.8692105,
+    "lng": -73.9207583
+   }
+  },
+  "meetingTimes": [
+   {
+    "full": "Mondays From  8:00 PM to 9:00 PM",
+    "day": "Mondays",
+    "from": {
+     "hour": 20,
+     "min": 0
+    },
+    "to": {
+     "hour": 21,
+     "min": 0
+    },
+    "meetingType": "C = Closed Discussion meeting"
+   }
+  ]
+ },
+ {
+  "eventName": "PROGRESS NOT PERFECTION -",
+  "locationName": "COATHA Church on the Hill Senior Center",
+  "details": "Open Discussion 1st, 2nd, 4th,and 5th when applicable. OPEN meeting is 3rd Fridays",
+  "hasWheelchairAccess": true,
+  "address": {
+   "fullAddress": "2005 Amsterdam Avenue,",
+   "streetAddress": "2005 Amsterdam Avenue, New York, NY",
+   "latLong": {
+    "lat": 40.8342672,
+    "lng": -73.94078800000001
+   }
+  },
+  "meetingTimes": [
+   {
+    "full": "Fridays From  7:30 PM to 8:30 PM",
+    "day": "Fridays",
+    "from": {
+     "hour": 19,
+     "min": 30
+    },
+    "to": {
+     "hour": 20,
+     "min": 30
+    },
+    "meetingType": "OD = Open Discussion meeting"
+   }
+  ]
+ },
+ {
+  "eventName": "THE MEN UPSTAIRS -",
+  "locationName": "Our Saviour's Atonement Lutheran Church",
+  "details": "Men's Meeting",
+  "hasWheelchairAccess": false,
+  "address": {
+   "fullAddress": "178 Bennett Avenue, 2nd Floor (Lorenz Library),",
+   "streetAddress": "178 Bennett Avenue, New York, NY",
+   "latLong": {
+    "lat": 40.85596109999999,
+    "lng": -73.9344666
+   }
+  },
+  "meetingTimes": [
+   {
+    "full": "Mondays From  8:00 PM to 9:00 PM",
+    "day": "Mondays",
+    "from": {
+     "hour": 20,
+     "min": 0
+    },
+    "to": {
+     "hour": 21,
+     "min": 0
+    },
+    "meetingType": "C = Closed Discussion meeting",
+    "specialInterest": "Men"
+   }
+  ]
+ },
+ {
+  "eventName": "THE MISSING LINK - Missing Link",
+  "locationName": "Our Saviour's Atonement Church",
+  "details": "1st- Step, 2nd-OD, 3rd-Beg., 4th- BB, 5th- OD",
+  "hasWheelchairAccess": false,
+  "address": {
+   "fullAddress": "178 Bennett Avenue, 2nd Floor,",
+   "streetAddress": "178 Bennett Avenue, New York, NY",
+   "latLong": {
+    "lat": 40.85596109999999,
+    "lng": -73.9344666
+   }
+  },
+  "meetingTimes": [
+   {
+    "full": "Fridays From  7:00 PM to 8:00 PM",
+    "day": "Fridays",
+    "from": {
+     "hour": 19,
+     "min": 0
+    },
+    "to": {
+     "hour": 20,
+     "min": 0
+    },
+    "meetingType": "BB = Big Book meeting"
+   }
+  ]
+ },
+ {
+  "eventName": "UPPER MANHATTAN - Upper Manhattan",
+  "locationName": "Our Lady Queen of Martyrs",
+  "hasWheelchairAccess": false,
+  "address": {
+   "fullAddress": "91 Arden Street,",
+   "streetAddress": "91 Arden Street, New York, NY",
+   "latLong": {
+    "lat": 40.8638625,
+    "lng": -73.9280718
+   }
+  },
+  "meetingTimes": [
+   {
+    "full": "Thursdays From  7:30 PM to 8:30 PM",
+    "day": "Thursdays",
+    "from": {
+     "hour": 19,
+     "min": 30
+    },
+    "to": {
+     "hour": 20,
+     "min": 30
+    },
+    "meetingType": "OD = Open Discussion meeting"
+   }
+  ]
+ },
+ {
+  "eventName": "UPTOWN SATURDAY NIGHT - Uptown Saturday Night",
+  "locationName": "Holy Trinity Church",
+  "hasWheelchairAccess": false,
+  "address": {
+   "fullAddress": "20 Cummings Street,",
+   "streetAddress": "20 Cummings Street, New York, NY",
+   "latLong": {
+    "lat": 40.8664722,
+    "lng": -73.926452
+   }
+  },
+  "meetingTimes": [
+   {
+    "full": "Saturdays From  7:00 PM to 8:00 PM",
+    "day": "Saturdays",
+    "from": {
+     "hour": 19,
+     "min": 0
+    },
+    "to": {
+     "hour": 20,
+     "min": 0
+    },
+    "meetingType": "C = Closed Discussion meeting"
+   }
+  ]
+ },
+ {
+  "eventName": "WASHINGTON HEIGHTS                  (:I) - Washington Heights    (:I)",
+  "locationName": "Holy Rood Church",
+  "hasWheelchairAccess": true,
+  "address": {
+   "fullAddress": "715 West 179th Street,",
+   "streetAddress": "715 West 179th Street, New York, NY",
+   "latLong": {
+    "lat": 40.849431,
+    "lng": -73.93840399999999
+   }
+  },
+  "meetingTimes": [
+   {
+    "full": "Tuesdays From  7:30 PM to 8:30 PM",
+    "day": "Tuesdays",
+    "from": {
+     "hour": 19,
+     "min": 30
+    },
+    "to": {
+     "hour": 20,
+     "min": 30
+    },
+    "meetingType": "O = Open meeting"
+   }
+  ]
+ },
+ {
+  "eventName": "WASHINGTON HEIGHTS                 (:II) - Washington Heights    (:II)",
+  "locationName": "Cornerstone Center",
+  "hasWheelchairAccess": false,
+  "address": {
+   "fullAddress": "189th Street & Bennett Avenue, Kitchen,",
+   "streetAddress": "189th Street & Bennett Avenue, New York, NY",
+   "latLong": {
+    "lat": 33.8591324,
+    "lng": -118.3297683
+   }
+  },
+  "meetingTimes": [
+   {
+    "full": "Thursdays From  7:30 PM to 8:30 PM",
+    "day": "Thursdays",
+    "from": {
+     "hour": 19,
+     "min": 30
+    },
+    "to": {
+     "hour": 20,
+     "min": 30
+    },
+    "meetingType": "C = Closed Discussion meeting"
+   }
+  ]
+ },
+ {
+  "eventName": "WHAT WE ARE LIKE NOW -",
+  "locationName": "The Corner Stone Center",
+  "hasWheelchairAccess": false,
+  "address": {
+   "fullAddress": "178 Bennett Avenue, 2nd Floor,",
+   "streetAddress": "178 Bennett Avenue, New York, NY",
+   "latLong": {
+    "lat": 40.85596109999999,
+    "lng": -73.9344666
+   }
+  },
+  "meetingTimes": [
+   {
+    "full": "Sundays From  6:00 PM to 7:00 PM",
+    "day": "Sundays",
+    "from": {
+     "hour": 18,
+     "min": 0
+    },
+    "to": {
+     "hour": 19,
+     "min": 0
+    },
+    "meetingType": "C = Closed Discussion meeting"
+   }
+  ]
+ },
+ {
+  "eventName": "WOMEN'S NITE - Women's Nite",
+  "locationName": "Cornerstone Center",
+  "hasWheelchairAccess": false,
+  "address": {
+   "fullAddress": "178 Bennett Avenue, Kitchen,",
+   "streetAddress": "178 Bennett Avenue, New York, NY",
+   "latLong": {
+    "lat": 40.85596109999999,
+    "lng": -73.9344666
+   }
+  },
+  "meetingTimes": [
+   {
+    "full": "Mondays From  7:30 PM to 8:30 PM",
+    "day": "Mondays",
+    "from": {
+     "hour": 19,
+     "min": 30
+    },
+    "to": {
+     "hour": 20,
+     "min": 30
+    },
+    "meetingType": "BB = Big Book meeting"
+   }
+  ]
+ }
+]

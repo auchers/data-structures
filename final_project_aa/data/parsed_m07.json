@@ -1,0 +1,3008 @@
+[
+ {
+  "eventName": "A BAFFLED LOT -",
+  "locationName": "Jan Hus Church",
+  "details": "Topic Meeting",
+  "hasWheelchairAccess": false,
+  "address": {
+   "fullAddress": "351 East 74th Street,  2nd Floor,",
+   "streetAddress": "351 East 74th Street, New York, NY",
+   "latLong": {
+    "lat": 40.7695575,
+    "lng": -73.9555091
+   }
+  },
+  "meetingTimes": [
+   {
+    "full": "Saturdays From  7:30 AM to 8:30 AM",
+    "day": "Saturdays",
+    "from": {
+     "hour": 7,
+     "min": 30
+    },
+    "to": {
+     "hour": 8,
+     "min": 30
+    },
+    "meetingType": "OD = Open Discussion meeting"
+   }
+  ]
+ },
+ {
+  "eventName": "A.A. TRADITIONS AND HISTORY -",
+  "locationName": "Manhattan Church of Christ",
+  "details": "Traditions Meeting",
+  "hasWheelchairAccess": true,
+  "address": {
+   "fullAddress": "48 East 80th Street, 2nd Floor Library, Ring Bell Next to Sign.,",
+   "streetAddress": "48 East 80th Street, New York, NY",
+   "latLong": {
+    "lat": 40.7766859,
+    "lng": -73.9613107
+   }
+  },
+  "meetingTimes": [
+   {
+    "full": "Tuesdays From  7:00 PM to 8:00 PM",
+    "day": "Tuesdays",
+    "from": {
+     "hour": 19,
+     "min": 0
+    },
+    "to": {
+     "hour": 20,
+     "min": 0
+    },
+    "meetingType": "T = Tradition meeting"
+   }
+  ]
+ },
+ {
+  "eventName": "ACTIVE - Active",
+  "locationName": "St. Jean Baptiste Church",
+  "hasWheelchairAccess": true,
+  "address": {
+   "fullAddress": "184 East 76th Street, Basement,",
+   "streetAddress": "184 East 76th Street, New York, NY",
+   "latLong": {
+    "lat": 40.772485,
+    "lng": -73.95951409999999
+   }
+  },
+  "meetingTimes": [
+   {
+    "full": "Wednesdays From  6:00 PM to 7:00 PM",
+    "day": "Wednesdays",
+    "from": {
+     "hour": 18,
+     "min": 0
+    },
+    "to": {
+     "hour": 19,
+     "min": 0
+    },
+    "meetingType": "S = Step meeting"
+   }
+  ]
+ },
+ {
+  "eventName": "AFTERNOON AWAKENING -",
+  "locationName": "Jan Hus Church",
+  "details": "Mon=Living Sober, Thu=11 Step with meditation, Fri=3rd Step",
+  "hasWheelchairAccess": false,
+  "address": {
+   "fullAddress": "351 East 74th Street, 2nd Floor,",
+   "streetAddress": "351 East 74th Street, New York, NY",
+   "latLong": {
+    "lat": 40.7695575,
+    "lng": -73.9555091
+   }
+  },
+  "meetingTimes": [
+   {
+    "full": "Mondays From  2:30 PM to 3:30 PM",
+    "day": "Mondays",
+    "from": {
+     "hour": 14,
+     "min": 30
+    },
+    "to": {
+     "hour": 15,
+     "min": 30
+    },
+    "meetingType": "B = Beginners meeting",
+    "specialInterest": "Living Sober"
+   },
+   {
+    "full": "Tuesdays From  2:30 PM to 3:30 PM",
+    "day": "Tuesdays",
+    "from": {
+     "hour": 14,
+     "min": 30
+    },
+    "to": {
+     "hour": 15,
+     "min": 30
+    },
+    "meetingType": "S = Step meeting"
+   },
+   {
+    "full": "Wednesdays From  2:30 PM to 3:30 PM",
+    "day": "Wednesdays",
+    "from": {
+     "hour": 14,
+     "min": 30
+    },
+    "to": {
+     "hour": 15,
+     "min": 30
+    },
+    "meetingType": "BB = Big Book meeting"
+   },
+   {
+    "full": "Thursdays From  2:30 PM to 3:30 PM",
+    "day": "Thursdays",
+    "from": {
+     "hour": 14,
+     "min": 30
+    },
+    "to": {
+     "hour": 15,
+     "min": 30
+    },
+    "meetingType": "S = Step meeting"
+   },
+   {
+    "full": "Fridays From  2:30 PM to 3:30 PM",
+    "day": "Fridays",
+    "from": {
+     "hour": 14,
+     "min": 30
+    },
+    "to": {
+     "hour": 15,
+     "min": 30
+    },
+    "meetingType": "S = Step meeting"
+   }
+  ]
+ },
+ {
+  "eventName": "ATLANTIC ELEVENTH STEP MEDITATION -",
+  "locationName": "Church of the Epiphany",
+  "hasWheelchairAccess": false,
+  "address": {
+   "fullAddress": "1393 York Avenue,",
+   "streetAddress": "1393 York Avenue, New York, NY",
+   "latLong": {
+    "lat": 40.7685171,
+    "lng": -73.95299829999999
+   }
+  },
+  "meetingTimes": [
+   {
+    "full": "Mondays From  7:15 PM to 8:15 PM",
+    "day": "Mondays",
+    "from": {
+     "hour": 19,
+     "min": 15
+    },
+    "to": {
+     "hour": 20,
+     "min": 15
+    },
+    "meetingType": "S = Step meeting"
+   }
+  ]
+ },
+ {
+  "eventName": "ATLANTIC GROUP (:I) - Atlantic    (:I)",
+  "locationName": "Christ United Methodist Church",
+  "details": "Three speaker",
+  "hasWheelchairAccess": true,
+  "address": {
+   "fullAddress": "520 Park Avenue,",
+   "streetAddress": "520 Park Avenue, New York, NY",
+   "latLong": {
+    "lat": 40.7639511,
+    "lng": -73.9697422
+   }
+  },
+  "meetingTimes": [
+   {
+    "full": "Tuesdays From  7:00 PM to 8:00 PM",
+    "day": "Tuesdays",
+    "from": {
+     "hour": 19,
+     "min": 0
+    },
+    "to": {
+     "hour": 20,
+     "min": 0
+    },
+    "meetingType": "O = Open meeting"
+   }
+  ]
+ },
+ {
+  "eventName": "ATLANTIC GROUP (:II) -",
+  "locationName": "Archdiocian Cathedral of the Holy Trinity",
+  "details": "",
+  "hasWheelchairAccess": true,
+  "address": {
+   "fullAddress": "337 E. 74th St.,",
+   "streetAddress": "337 E. 74th St., New York, NY",
+   "latLong": {
+    "lat": 40.7696698,
+    "lng": -73.955969
+   }
+  },
+  "meetingTimes": [
+   {
+    "full": "Thursdays From  7:00 PM to 8:00 PM",
+    "day": "Thursdays",
+    "from": {
+     "hour": 19,
+     "min": 0
+    },
+    "to": {
+     "hour": 20,
+     "min": 0
+    },
+    "meetingType": "B = Beginners meeting"
+   }
+  ]
+ },
+ {
+  "eventName": "ATLANTIC GROUP (:III) -",
+  "locationName": "All Souls Church",
+  "details": "Two speaker",
+  "hasWheelchairAccess": true,
+  "address": {
+   "fullAddress": "1157 Lexington Avenue,",
+   "streetAddress": "1157 Lexington Avenue, New York, NY",
+   "latLong": {
+    "lat": 40.7753286,
+    "lng": -73.95819519999999
+   }
+  },
+  "meetingTimes": [
+   {
+    "full": "Saturdays From  6:00 PM to 7:00 PM",
+    "day": "Saturdays",
+    "from": {
+     "hour": 18,
+     "min": 0
+    },
+    "to": {
+     "hour": 19,
+     "min": 0
+    },
+    "meetingType": "O = Open meeting"
+   }
+  ]
+ },
+ {
+  "eventName": "BREAKING THROUGH - Breaking Through",
+  "locationName": "Gracie Square Hospital",
+  "details": "*Open Last Friday Check with front desk security for meeting room location.",
+  "hasWheelchairAccess": true,
+  "address": {
+   "fullAddress": "420 East 76th Street,",
+   "streetAddress": "420 East 76th Street, New York, NY",
+   "latLong": {
+    "lat": 40.7697328,
+    "lng": -73.9530611
+   }
+  },
+  "meetingTimes": [
+   {
+    "full": "Fridays From  6:30 PM to 7:30 PM",
+    "day": "Fridays",
+    "from": {
+     "hour": 18,
+     "min": 30
+    },
+    "to": {
+     "hour": 19,
+     "min": 30
+    },
+    "meetingType": "B = Beginners meeting"
+   }
+  ]
+ },
+ {
+  "eventName": "CAME TO BELIEVE - Came To Believe",
+  "locationName": "Our Lady of Good Counsel Church",
+  "details": "Anniv. Last Sunday; every other month.",
+  "hasWheelchairAccess": false,
+  "address": {
+   "fullAddress": "230 East 90th Street, Downstairs,",
+   "streetAddress": "230 East 90th Street, New York, NY",
+   "latLong": {
+    "lat": 40.7806053,
+    "lng": -73.9509988
+   }
+  },
+  "meetingTimes": [
+   {
+    "full": "Sundays From  3:30 PM to 4:30 PM",
+    "day": "Sundays",
+    "from": {
+     "hour": 15,
+     "min": 30
+    },
+    "to": {
+     "hour": 16,
+     "min": 30
+    },
+    "meetingType": "B = Beginners meeting"
+   }
+  ]
+ },
+ {
+  "eventName": "CARNEGIE HILL - Carnegie Hill",
+  "locationName": "St. Thomas More Church",
+  "hasWheelchairAccess": false,
+  "address": {
+   "fullAddress": "65 East 89th Street, Basement,",
+   "streetAddress": "65 East 89th Street, New York, NY",
+   "latLong": {
+    "lat": 40.7827268,
+    "lng": -73.9566929
+   }
+  },
+  "meetingTimes": [
+   {
+    "full": "Tuesdays From  6:15 PM to 7:15 PM",
+    "day": "Tuesdays",
+    "from": {
+     "hour": 18,
+     "min": 15
+    },
+    "to": {
+     "hour": 19,
+     "min": 15
+    },
+    "meetingType": "C = Closed Discussion meeting"
+   }
+  ]
+ },
+ {
+  "eventName": "CENTRAL - Central I",
+  "locationName": "St. James Episcopal Church",
+  "hasWheelchairAccess": false,
+  "address": {
+   "fullAddress": "865 Madison Avenue, Basement,",
+   "streetAddress": "865 Madison Avenue, New York, NY",
+   "latLong": {
+    "lat": 40.7710955,
+    "lng": -73.9653648
+   }
+  },
+  "meetingTimes": [
+   {
+    "full": "Sundays From  5:00 PM to 5:45 PM",
+    "day": "Sundays",
+    "from": {
+     "hour": 17,
+     "min": 0
+    },
+    "to": {
+     "hour": 17,
+     "min": 45
+    },
+    "meetingType": "O = Open meeting",
+    "specialInterest": "Meditation"
+   },
+   {
+    "full": "Sundays From  6:00 PM to 7:00 PM",
+    "day": "Sundays",
+    "from": {
+     "hour": 18,
+     "min": 0
+    },
+    "to": {
+     "hour": 19,
+     "min": 0
+    },
+    "meetingType": "S = Step meeting"
+   },
+   {
+    "full": "Sundays From  6:00 PM to 7:00 PM",
+    "day": "Sundays",
+    "from": {
+     "hour": 18,
+     "min": 0
+    },
+    "to": {
+     "hour": 19,
+     "min": 0
+    },
+    "meetingType": "OD = Open Discussion meeting"
+   },
+   {
+    "full": "Sundays From  7:15 PM to 8:15 PM",
+    "day": "Sundays",
+    "from": {
+     "hour": 19,
+     "min": 15
+    },
+    "to": {
+     "hour": 20,
+     "min": 15
+    },
+    "meetingType": "B = Beginners meeting"
+   }
+  ]
+ },
+ {
+  "eventName": "CHAPTER FIVE - Chapter Five     (:I)",
+  "locationName": "Immanuel Lutheran Church",
+  "details": "Fri.6:15=Women's Meeting",
+  "hasWheelchairAccess": false,
+  "address": {
+   "fullAddress": "1296 Lexington Avenue, Basement,",
+   "streetAddress": "1296 Lexington Avenue, New York, NY",
+   "latLong": {
+    "lat": 40.780699,
+    "lng": -73.954995
+   }
+  },
+  "meetingTimes": [
+   {
+    "full": "Mondays From  7:15 AM to 8:15 AM",
+    "day": "Mondays",
+    "from": {
+     "hour": 7,
+     "min": 15
+    },
+    "to": {
+     "hour": 8,
+     "min": 15
+    },
+    "meetingType": "BB = Big Book meeting"
+   },
+   {
+    "full": "Tuesdays From  7:15 AM to 8:15 AM",
+    "day": "Tuesdays",
+    "from": {
+     "hour": 7,
+     "min": 15
+    },
+    "to": {
+     "hour": 8,
+     "min": 15
+    },
+    "meetingType": "OD = Open Discussion meeting"
+   },
+   {
+    "full": "Wednesdays From  7:15 AM to 8:15 AM",
+    "day": "Wednesdays",
+    "from": {
+     "hour": 7,
+     "min": 15
+    },
+    "to": {
+     "hour": 8,
+     "min": 15
+    },
+    "meetingType": "S = Step meeting"
+   },
+   {
+    "full": "Thursdays From  7:15 AM to 8:15 AM",
+    "day": "Thursdays",
+    "from": {
+     "hour": 7,
+     "min": 15
+    },
+    "to": {
+     "hour": 8,
+     "min": 15
+    },
+    "meetingType": "OD = Open Discussion meeting"
+   },
+   {
+    "full": "Fridays From  7:15 AM to 8:15 AM",
+    "day": "Fridays",
+    "from": {
+     "hour": 7,
+     "min": 15
+    },
+    "to": {
+     "hour": 8,
+     "min": 15
+    },
+    "meetingType": "OD = Open Discussion meeting"
+   },
+   {
+    "full": "Sundays From  8:00 AM to 9:00 AM",
+    "day": "Sundays",
+    "from": {
+     "hour": 8,
+     "min": 0
+    },
+    "to": {
+     "hour": 9,
+     "min": 0
+    },
+    "meetingType": "OD = Open Discussion meeting"
+   },
+   {
+    "full": "Saturdays From  8:00 AM to 9:00 AM",
+    "day": "Saturdays",
+    "from": {
+     "hour": 8,
+     "min": 0
+    },
+    "to": {
+     "hour": 9,
+     "min": 0
+    },
+    "meetingType": "OD = Open Discussion meeting"
+   },
+   {
+    "full": "Fridays From  6:15 PM to 7:30 PM",
+    "day": "Fridays",
+    "from": {
+     "hour": 18,
+     "min": 15
+    },
+    "to": {
+     "hour": 19,
+     "min": 30
+    },
+    "meetingType": "S = Step meeting",
+    "specialInterest": "Women"
+   },
+   {
+    "full": "Sundays From  7:00 PM to 8:00 PM",
+    "day": "Sundays",
+    "from": {
+     "hour": 19,
+     "min": 0
+    },
+    "to": {
+     "hour": 20,
+     "min": 0
+    },
+    "meetingType": "C = Closed Discussion meeting"
+   },
+   {
+    "full": "Wednesdays From  7:30 PM to 9:00 PM",
+    "day": "Wednesdays",
+    "from": {
+     "hour": 19,
+     "min": 30
+    },
+    "to": {
+     "hour": 21,
+     "min": 0
+    },
+    "meetingType": "B = Beginners meeting"
+   },
+   {
+    "full": "Thursdays From  8:00 PM to 9:15 PM",
+    "day": "Thursdays",
+    "from": {
+     "hour": 20,
+     "min": 0
+    },
+    "to": {
+     "hour": 21,
+     "min": 15
+    },
+    "meetingType": "BB = Big Book meeting"
+   }
+  ]
+ },
+ {
+  "eventName": "ELEVENTH STEP AT JAN HUS - Eleventh Step At Jan Hus",
+  "locationName": "Jan Hus Church",
+  "details": "11th Step Meditation Meeting.",
+  "hasWheelchairAccess": false,
+  "address": {
+   "fullAddress": "351 East 74th Street, Mazaryk Room,",
+   "streetAddress": "351 East 74th Street, New York, NY",
+   "latLong": {
+    "lat": 40.7695575,
+    "lng": -73.9555091
+   }
+  },
+  "meetingTimes": [
+   {
+    "full": "Sundays From  9:00 AM to 10:00 AM",
+    "day": "Sundays",
+    "from": {
+     "hour": 9,
+     "min": 0
+    },
+    "to": {
+     "hour": 10,
+     "min": 0
+    },
+    "meetingType": "S = Step meeting"
+   }
+  ]
+ },
+ {
+  "eventName": "FEARLESS -",
+  "locationName": "All Souls Uniterian Church",
+  "details": "Topic Meeting",
+  "hasWheelchairAccess": false,
+  "address": {
+   "fullAddress": "1157 Lexington Avenue, 1st Floor,",
+   "streetAddress": "1157 Lexington Avenue, New York, NY",
+   "latLong": {
+    "lat": 40.7753286,
+    "lng": -73.95819519999999
+   }
+  },
+  "meetingTimes": [
+   {
+    "full": "Fridays From  7:30 PM to 8:30 PM",
+    "day": "Fridays",
+    "from": {
+     "hour": 19,
+     "min": 30
+    },
+    "to": {
+     "hour": 20,
+     "min": 30
+    },
+    "meetingType": "C = Closed Discussion meeting"
+   }
+  ]
+ },
+ {
+  "eventName": "FRIDAY CENTRAL -",
+  "locationName": "Jan Hus Church",
+  "hasWheelchairAccess": false,
+  "address": {
+   "fullAddress": "351 East 74th Street, Mazaryk Room,",
+   "streetAddress": "351 East 74th Street, New York, NY",
+   "latLong": {
+    "lat": 40.7695575,
+    "lng": -73.9555091
+   }
+  },
+  "meetingTimes": [
+   {
+    "full": "Fridays From  6:30 PM to 7:30 PM",
+    "day": "Fridays",
+    "from": {
+     "hour": 18,
+     "min": 30
+    },
+    "to": {
+     "hour": 19,
+     "min": 30
+    },
+    "meetingType": "C = Closed Discussion meeting"
+   }
+  ]
+ },
+ {
+  "eventName": "FRIDAY NIGHT GAY MEN & WOMEN - Friday Night Gay Men & Women",
+  "locationName": "Jan Hus Church",
+  "details": "1st Step Gay & lesbian focus.  All are welcome.",
+  "hasWheelchairAccess": false,
+  "address": {
+   "fullAddress": "351 East 74th Street, 2nd Floor,",
+   "streetAddress": "351 East 74th Street, New York, NY",
+   "latLong": {
+    "lat": 40.7695575,
+    "lng": -73.9555091
+   }
+  },
+  "meetingTimes": [
+   {
+    "full": "Fridays From  8:00 PM to 9:00 PM",
+    "day": "Fridays",
+    "from": {
+     "hour": 20,
+     "min": 0
+    },
+    "to": {
+     "hour": 21,
+     "min": 0
+    },
+    "meetingType": "S = Step meeting",
+    "specialInterest": "Gay, Lesbian and Bisexual"
+   }
+  ]
+ },
+ {
+  "eventName": "FRIDAY NIGHT MEN'S STEP - Friday Night Men's Step",
+  "locationName": "St. Thomas More Church Rectory",
+  "details": "Men's Meeting",
+  "hasWheelchairAccess": false,
+  "address": {
+   "fullAddress": "65 East 89th Street,",
+   "streetAddress": "65 East 89th Street, New York, NY",
+   "latLong": {
+    "lat": 40.7827268,
+    "lng": -73.9566929
+   }
+  },
+  "meetingTimes": [
+   {
+    "full": "Fridays From  6:15 PM to 7:15 PM",
+    "day": "Fridays",
+    "from": {
+     "hour": 18,
+     "min": 15
+    },
+    "to": {
+     "hour": 19,
+     "min": 15
+    },
+    "meetingType": "S = Step meeting",
+    "specialInterest": "Men"
+   }
+  ]
+ },
+ {
+  "eventName": "HUMANISTS TOO -",
+  "locationName": "Church of Saint Thomas Moore",
+  "details": "Agnostic",
+  "hasWheelchairAccess": false,
+  "address": {
+   "fullAddress": "65 East 89th Street - Rectory basement, \n\t\t\t\t\t\t10128",
+   "streetAddress": "65 East 89th Street, New York, NY",
+   "latLong": {
+    "lat": 40.7827268,
+    "lng": -73.9566929
+   }
+  },
+  "meetingTimes": [
+   {
+    "full": "Mondays From  6:15 PM to 7:15 PM",
+    "day": "Mondays",
+    "from": {
+     "hour": 18,
+     "min": 15
+    },
+    "to": {
+     "hour": 19,
+     "min": 15
+    },
+    "specialInterest": "Agnostic"
+   }
+  ]
+ },
+ {
+  "eventName": "I'M ALL IN -",
+  "locationName": "Jan Hus Church",
+  "hasWheelchairAccess": false,
+  "address": {
+   "fullAddress": "351 East 74th Street, 2nd Floor,",
+   "streetAddress": "351 East 74th Street, New York, NY",
+   "latLong": {
+    "lat": 40.7695575,
+    "lng": -73.9555091
+   }
+  },
+  "meetingTimes": [
+   {
+    "full": "Tuesdays From  12:30 PM to 1:30 PM",
+    "day": "Tuesdays",
+    "from": {
+     "hour": 12,
+     "min": 30
+    },
+    "to": {
+     "hour": 13,
+     "min": 30
+    },
+    "meetingType": "B = Beginners meeting"
+   },
+   {
+    "full": "Wednesdays From  12:30 PM to 1:30 PM",
+    "day": "Wednesdays",
+    "from": {
+     "hour": 12,
+     "min": 30
+    },
+    "to": {
+     "hour": 13,
+     "min": 30
+    },
+    "meetingType": "B = Beginners meeting"
+   },
+   {
+    "full": "Thursdays From  12:30 PM to 1:30 PM",
+    "day": "Thursdays",
+    "from": {
+     "hour": 12,
+     "min": 30
+    },
+    "to": {
+     "hour": 13,
+     "min": 30
+    },
+    "meetingType": "B = Beginners meeting"
+   },
+   {
+    "full": "Fridays From  12:30 PM to 1:30 PM",
+    "day": "Fridays",
+    "from": {
+     "hour": 12,
+     "min": 30
+    },
+    "to": {
+     "hour": 13,
+     "min": 30
+    },
+    "meetingType": "B = Beginners meeting"
+   },
+   {
+    "full": "Saturdays From  12:30 PM to 1:30 PM",
+    "day": "Saturdays",
+    "from": {
+     "hour": 12,
+     "min": 30
+    },
+    "to": {
+     "hour": 13,
+     "min": 30
+    },
+    "meetingType": "B = Beginners meeting"
+   },
+   {
+    "full": "Mondays From  12:30 PM to 1:30 PM",
+    "day": "Mondays",
+    "from": {
+     "hour": 12,
+     "min": 30
+    },
+    "to": {
+     "hour": 13,
+     "min": 30
+    },
+    "meetingType": "B = Beginners meeting"
+   }
+  ]
+ },
+ {
+  "eventName": "INTO ACTION MANHATTAN - Into Action Manhattan",
+  "locationName": "St. Francis de Sales Church",
+  "details": "lower level",
+  "hasWheelchairAccess": false,
+  "address": {
+   "fullAddress": "135 East 96th Street,",
+   "streetAddress": "135 East 96th Street, New York, NY",
+   "latLong": {
+    "lat": 40.7863738,
+    "lng": -73.95142310000001
+   }
+  },
+  "meetingTimes": [
+   {
+    "full": "Wednesdays From  6:30 PM to 7:30 PM",
+    "day": "Wednesdays",
+    "from": {
+     "hour": 18,
+     "min": 30
+    },
+    "to": {
+     "hour": 19,
+     "min": 30
+    },
+    "meetingType": "S = Step meeting",
+    "specialInterest": "Big Book Workshop"
+   }
+  ]
+ },
+ {
+  "eventName": "KITCHEN TABLE MEETING -",
+  "locationName": "Jan Hus Presbyterian Church",
+  "hasWheelchairAccess": false,
+  "address": {
+   "fullAddress": "351 East 74th Street, 2nd Floor Kitchen,",
+   "streetAddress": "351 East 74th Street, New York, NY",
+   "latLong": {
+    "lat": 40.7695575,
+    "lng": -73.9555091
+   }
+  },
+  "meetingTimes": [
+   {
+    "full": "Saturdays From  11:00 AM to 12:00 PM",
+    "day": "Saturdays",
+    "from": {
+     "hour": 11,
+     "min": 0
+    },
+    "to": {
+     "hour": 12,
+     "min": 0
+    },
+    "meetingType": "C = Closed Discussion meeting"
+   }
+  ]
+ },
+ {
+  "eventName": "LENOX HILL - Lenox Hill",
+  "locationName": "Church of the Heavenly Rest",
+  "hasWheelchairAccess": false,
+  "address": {
+   "fullAddress": "2 East 90th Street,",
+   "streetAddress": "2 East 90th Street, New York, NY",
+   "latLong": {
+    "lat": 40.7838507,
+    "lng": -73.95841779999999
+   }
+  },
+  "meetingTimes": [
+   {
+    "full": "Mondays From  7:00 PM to 8:00 PM",
+    "day": "Mondays",
+    "from": {
+     "hour": 19,
+     "min": 0
+    },
+    "to": {
+     "hour": 20,
+     "min": 0
+    },
+    "meetingType": "B = Beginners meeting"
+   },
+   {
+    "full": "Mondays From  7:00 PM to 8:00 PM",
+    "day": "Mondays",
+    "from": {
+     "hour": 19,
+     "min": 0
+    },
+    "to": {
+     "hour": 20,
+     "min": 0
+    },
+    "meetingType": "S = Step meeting"
+   },
+   {
+    "full": "Thursdays From  7:00 PM to 8:00 PM",
+    "day": "Thursdays",
+    "from": {
+     "hour": 19,
+     "min": 0
+    },
+    "to": {
+     "hour": 20,
+     "min": 0
+    },
+    "meetingType": "O = Open meeting"
+   },
+   {
+    "full": "Thursdays From  8:15 PM to 9:00 PM",
+    "day": "Thursdays",
+    "from": {
+     "hour": 20,
+     "min": 15
+    },
+    "to": {
+     "hour": 21,
+     "min": 0
+    },
+    "meetingType": "B = Beginners meeting"
+   },
+   {
+    "full": "Mondays From  8:15 PM to 9:00 PM",
+    "day": "Mondays",
+    "from": {
+     "hour": 20,
+     "min": 15
+    },
+    "to": {
+     "hour": 21,
+     "min": 0
+    },
+    "meetingType": "C = Closed Discussion meeting"
+   }
+  ]
+ },
+ {
+  "eventName": "LEX 80 STEP -",
+  "locationName": "All Souls Uniterian Church",
+  "details": "Southside Chapel",
+  "hasWheelchairAccess": true,
+  "address": {
+   "fullAddress": "1157 Lexington Avenue,",
+   "streetAddress": "1157 Lexington Avenue, New York, NY",
+   "latLong": {
+    "lat": 40.7753286,
+    "lng": -73.95819519999999
+   }
+  },
+  "meetingTimes": [
+   {
+    "full": "Wednesdays From  6:30 PM to 7:30 PM",
+    "day": "Wednesdays",
+    "from": {
+     "hour": 18,
+     "min": 30
+    },
+    "to": {
+     "hour": 19,
+     "min": 30
+    },
+    "meetingType": "S = Step meeting",
+    "specialInterest": "Twelve Steps"
+   }
+  ]
+ },
+ {
+  "eventName": "LIVE AND LET LIVE - Live And Let Live",
+  "locationName": "Gracie Square Hospital",
+  "details": "Thurs=Topic Meeting, Check in with security at front desk. Gay & lesbian focus.  All are welcome.",
+  "hasWheelchairAccess": true,
+  "address": {
+   "fullAddress": "420 East 76th Street,",
+   "streetAddress": "420 East 76th Street, New York, NY",
+   "latLong": {
+    "lat": 40.7697328,
+    "lng": -73.9530611
+   }
+  },
+  "meetingTimes": [
+   {
+    "full": "Tuesdays From  7:00 PM to 8:00 PM",
+    "day": "Tuesdays",
+    "from": {
+     "hour": 19,
+     "min": 0
+    },
+    "to": {
+     "hour": 20,
+     "min": 0
+    },
+    "meetingType": "B = Beginners meeting",
+    "specialInterest": "Gay, Lesbian and Bisexual"
+   },
+   {
+    "full": "Thursdays From  7:00 PM to 8:00 PM",
+    "day": "Thursdays",
+    "from": {
+     "hour": 19,
+     "min": 0
+    },
+    "to": {
+     "hour": 20,
+     "min": 0
+    },
+    "meetingType": "OD = Open Discussion meeting",
+    "specialInterest": "Gay, Lesbian and Bisexual"
+   },
+   {
+    "full": "Tuesdays From  8:30 PM to 9:30 PM",
+    "day": "Tuesdays",
+    "from": {
+     "hour": 20,
+     "min": 30
+    },
+    "to": {
+     "hour": 21,
+     "min": 30
+    },
+    "meetingType": "C = Closed Discussion meeting",
+    "specialInterest": "Gay, Lesbian and Bisexual"
+   }
+  ]
+ },
+ {
+  "eventName": "MADISON 73 - Madison 73",
+  "locationName": "Jan Hus Presbyterian Church",
+  "details": "All Meetings Are Non-Smoking.",
+  "hasWheelchairAccess": false,
+  "address": {
+   "fullAddress": "351 East 74th Street, 2nd Floor,",
+   "streetAddress": "351 East 74th Street, New York, NY",
+   "latLong": {
+    "lat": 40.7695575,
+    "lng": -73.9555091
+   }
+  },
+  "meetingTimes": [
+   {
+    "full": "Saturdays From  7:00 PM to 8:00 PM",
+    "day": "Saturdays",
+    "from": {
+     "hour": 19,
+     "min": 0
+    },
+    "to": {
+     "hour": 20,
+     "min": 0
+    },
+    "meetingType": "B = Beginners meeting"
+   },
+   {
+    "full": "Saturdays From  7:00 PM to 8:00 PM",
+    "day": "Saturdays",
+    "from": {
+     "hour": 19,
+     "min": 0
+    },
+    "to": {
+     "hour": 20,
+     "min": 0
+    },
+    "meetingType": "S = Step meeting"
+   }
+  ]
+ },
+ {
+  "eventName": "MEDITATION (EXPECT MIRACLES) - Meditation (Expect Miracles)",
+  "locationName": "Jan Hus Church",
+  "details": "All meetings are 11th Step Meditation format.",
+  "hasWheelchairAccess": false,
+  "address": {
+   "fullAddress": "351 East 74th Street, 2nd Floor Chapel Room,",
+   "streetAddress": "351 East 74th Street, New York, NY",
+   "latLong": {
+    "lat": 40.7695575,
+    "lng": -73.9555091
+   }
+  },
+  "meetingTimes": [
+   {
+    "full": "Thursdays From  11:00 AM to 12:00 PM",
+    "day": "Thursdays",
+    "from": {
+     "hour": 11,
+     "min": 0
+    },
+    "to": {
+     "hour": 12,
+     "min": 0
+    },
+    "meetingType": "OD = Open Discussion meeting"
+   },
+   {
+    "full": "Fridays From  11:00 AM to 12:00 PM",
+    "day": "Fridays",
+    "from": {
+     "hour": 11,
+     "min": 0
+    },
+    "to": {
+     "hour": 12,
+     "min": 0
+    },
+    "meetingType": "OD = Open Discussion meeting"
+   },
+   {
+    "full": "Mondays From  11:00 AM to 12:00 PM",
+    "day": "Mondays",
+    "from": {
+     "hour": 11,
+     "min": 0
+    },
+    "to": {
+     "hour": 12,
+     "min": 0
+    },
+    "meetingType": "OD = Open Discussion meeting"
+   },
+   {
+    "full": "Tuesdays From  11:00 AM to 12:00 PM",
+    "day": "Tuesdays",
+    "from": {
+     "hour": 11,
+     "min": 0
+    },
+    "to": {
+     "hour": 12,
+     "min": 0
+    },
+    "meetingType": "OD = Open Discussion meeting"
+   },
+   {
+    "full": "Wednesdays From  11:00 AM to 12:00 PM",
+    "day": "Wednesdays",
+    "from": {
+     "hour": 11,
+     "min": 0
+    },
+    "to": {
+     "hour": 12,
+     "min": 0
+    },
+    "meetingType": "OD = Open Discussion meeting"
+   },
+   {
+    "full": "Wednesdays From  8:00 PM to 9:00 PM",
+    "day": "Wednesdays",
+    "from": {
+     "hour": 20,
+     "min": 0
+    },
+    "to": {
+     "hour": 21,
+     "min": 0
+    },
+    "meetingType": "OD = Open Discussion meeting"
+   }
+  ]
+ },
+ {
+  "eventName": "MEN'S NYC BIG BOOK STEP STUDY -",
+  "locationName": "Philomathist Center",
+  "details": "Ring Bell for entry",
+  "hasWheelchairAccess": false,
+  "address": {
+   "fullAddress": "1285 Madison Avenue, \n\t\t\t\t\t\t10128",
+   "streetAddress": "1285 Madison Avenue, New York, NY",
+   "latLong": {
+    "lat": 40.7843024,
+    "lng": -73.9560321
+   }
+  },
+  "meetingTimes": [
+   {
+    "full": "Wednesdays From  7:00 PM to 8:30 PM",
+    "day": "Wednesdays",
+    "from": {
+     "hour": 19,
+     "min": 0
+    },
+    "to": {
+     "hour": 20,
+     "min": 30
+    },
+    "meetingType": "BB = Big Book meeting"
+   }
+  ]
+ },
+ {
+  "eventName": "METROPOLITAN - Metropolitan",
+  "locationName": "St. Ignatius Loyola School",
+  "details": "Tue.6:30=Literature Topic,Sat=Meets in the Rectory. Wheel Chair Access on Tuesday & Sunday Only",
+  "hasWheelchairAccess": true,
+  "address": {
+   "fullAddress": "48 East 84th Street,",
+   "streetAddress": "48 East 84th Street, New York, NY",
+   "latLong": {
+    "lat": 40.7790739,
+    "lng": -73.9592768
+   }
+  },
+  "meetingTimes": [
+   {
+    "full": "Saturdays From  3:15 PM to 4:15 PM",
+    "day": "Saturdays",
+    "from": {
+     "hour": 15,
+     "min": 15
+    },
+    "to": {
+     "hour": 16,
+     "min": 15
+    },
+    "meetingType": "S = Step meeting",
+    "specialInterest": "First Step Workshop"
+   },
+   {
+    "full": "Sundays From  6:15 PM to 7:15 PM",
+    "day": "Sundays",
+    "from": {
+     "hour": 18,
+     "min": 15
+    },
+    "to": {
+     "hour": 19,
+     "min": 15
+    },
+    "meetingType": "B = Beginners meeting"
+   },
+   {
+    "full": "Tuesdays From  6:30 PM to 7:30 PM",
+    "day": "Tuesdays",
+    "from": {
+     "hour": 18,
+     "min": 30
+    },
+    "to": {
+     "hour": 19,
+     "min": 30
+    }
+   },
+   {
+    "full": "Sundays From  7:30 PM to 8:30 PM",
+    "day": "Sundays",
+    "from": {
+     "hour": 19,
+     "min": 30
+    },
+    "to": {
+     "hour": 20,
+     "min": 30
+    },
+    "meetingType": "S = Step meeting"
+   },
+   {
+    "full": "Tuesdays From  7:45 PM to 8:45 PM",
+    "day": "Tuesdays",
+    "from": {
+     "hour": 19,
+     "min": 45
+    },
+    "to": {
+     "hour": 20,
+     "min": 45
+    },
+    "meetingType": "B = Beginners meeting"
+   }
+  ]
+ },
+ {
+  "eventName": "MONDAY EAST TOPIC - Monday East Topic",
+  "locationName": "St. Stephen of Hungary Church",
+  "details": "Round Robin format & No Meeting on Legal Holidays.",
+  "hasWheelchairAccess": false,
+  "address": {
+   "fullAddress": "408 East 82nd Street,  Rectory,",
+   "streetAddress": "408 East 82nd Street, New York, NY",
+   "latLong": {
+    "lat": 40.77391859999999,
+    "lng": -73.9505891
+   }
+  },
+  "meetingTimes": [
+   {
+    "full": "Mondays From  7:00 PM to 8:00 PM",
+    "day": "Mondays",
+    "from": {
+     "hour": 19,
+     "min": 0
+    },
+    "to": {
+     "hour": 20,
+     "min": 0
+    },
+    "meetingType": "C = Closed Discussion meeting"
+   }
+  ]
+ },
+ {
+  "eventName": "MONDAY WOMEN -",
+  "locationName": "Jan Hus Church",
+  "details": "AA Literature Topic Meeting & Open last Monday. Women's Meeting",
+  "hasWheelchairAccess": false,
+  "address": {
+   "fullAddress": "351 East 74th Street, 2nd Floor Front Room,",
+   "streetAddress": "351 East 74th Street, New York, NY",
+   "latLong": {
+    "lat": 40.7695575,
+    "lng": -73.9555091
+   }
+  },
+  "meetingTimes": [
+   {
+    "full": "Mondays From  7:15 PM to 8:15 PM",
+    "day": "Mondays",
+    "from": {
+     "hour": 19,
+     "min": 15
+    },
+    "to": {
+     "hour": 20,
+     "min": 15
+    },
+    "meetingType": "C = Closed Discussion meeting",
+    "specialInterest": "Women"
+   }
+  ]
+ },
+ {
+  "eventName": "MORNING REFLECTIONS -",
+  "locationName": "Jan Hus Church",
+  "details": "Daily Reflections readings & round robin format Discussion",
+  "hasWheelchairAccess": false,
+  "address": {
+   "fullAddress": "351 East 74th Street,  2nd Floor - Front Room,",
+   "streetAddress": "351 East 74th Street, New York, NY",
+   "latLong": {
+    "lat": 40.7695575,
+    "lng": -73.9555091
+   }
+  },
+  "meetingTimes": [
+   {
+    "full": "Wednesdays From  9:30 AM to 10:30 AM",
+    "day": "Wednesdays",
+    "from": {
+     "hour": 9,
+     "min": 30
+    },
+    "to": {
+     "hour": 10,
+     "min": 30
+    },
+    "meetingType": "OD = Open Discussion meeting",
+    "specialInterest": "Daily Reflections"
+   },
+   {
+    "full": "Thursdays From  9:30 AM to 10:30 AM",
+    "day": "Thursdays",
+    "from": {
+     "hour": 9,
+     "min": 30
+    },
+    "to": {
+     "hour": 10,
+     "min": 30
+    },
+    "meetingType": "OD = Open Discussion meeting",
+    "specialInterest": "Daily Reflections"
+   },
+   {
+    "full": "Fridays From  9:30 AM to 10:30 AM",
+    "day": "Fridays",
+    "from": {
+     "hour": 9,
+     "min": 30
+    },
+    "to": {
+     "hour": 10,
+     "min": 30
+    },
+    "meetingType": "OD = Open Discussion meeting",
+    "specialInterest": "Daily Reflections"
+   },
+   {
+    "full": "Mondays From  9:30 AM to 10:30 AM",
+    "day": "Mondays",
+    "from": {
+     "hour": 9,
+     "min": 30
+    },
+    "to": {
+     "hour": 10,
+     "min": 30
+    },
+    "meetingType": "OD = Open Discussion meeting",
+    "specialInterest": "Daily Reflections"
+   },
+   {
+    "full": "Tuesdays From  9:30 AM to 10:30 AM",
+    "day": "Tuesdays",
+    "from": {
+     "hour": 9,
+     "min": 30
+    },
+    "to": {
+     "hour": 10,
+     "min": 30
+    },
+    "meetingType": "OD = Open Discussion meeting",
+    "specialInterest": "Daily Reflections"
+   }
+  ]
+ },
+ {
+  "eventName": "NEW CHOICES - New Choices",
+  "locationName": "Congregational Kehilath Jeshurun",
+  "hasWheelchairAccess": true,
+  "address": {
+   "fullAddress": "125 East 85th Street, Ramaz School Entrance,",
+   "streetAddress": "125 East 85th Street, New York, NY",
+   "latLong": {
+    "lat": 40.77915580000001,
+    "lng": -73.9563082
+   }
+  },
+  "meetingTimes": [
+   {
+    "full": "Mondays From  6:30 PM to 7:30 PM",
+    "day": "Mondays",
+    "from": {
+     "hour": 18,
+     "min": 30
+    },
+    "to": {
+     "hour": 19,
+     "min": 30
+    },
+    "meetingType": "C = Closed Discussion meeting"
+   },
+   {
+    "full": "Wednesdays From  6:30 PM to 7:30 PM",
+    "day": "Wednesdays",
+    "from": {
+     "hour": 18,
+     "min": 30
+    },
+    "to": {
+     "hour": 19,
+     "min": 30
+    },
+    "meetingType": "S = Step meeting"
+   }
+  ]
+ },
+ {
+  "eventName": "OPEN BOOK -",
+  "locationName": "Jan Hus Church",
+  "details": "Big Book Study",
+  "hasWheelchairAccess": false,
+  "address": {
+   "fullAddress": "351 East 74th Street,  2nd Floor, Library Room,",
+   "streetAddress": "351 East 74th Street, New York, NY",
+   "latLong": {
+    "lat": 40.7695575,
+    "lng": -73.9555091
+   }
+  },
+  "meetingTimes": [
+   {
+    "full": "Mondays From  7:15 PM to 8:15 PM",
+    "day": "Mondays",
+    "from": {
+     "hour": 19,
+     "min": 15
+    },
+    "to": {
+     "hour": 20,
+     "min": 15
+    },
+    "meetingType": "BB = Big Book meeting"
+   }
+  ]
+ },
+ {
+  "eventName": "OUR PRIMARY PURPOSE -",
+  "locationName": "Jan Hus Church",
+  "details": "Women's Meeting.",
+  "hasWheelchairAccess": false,
+  "address": {
+   "fullAddress": "351 East 74th Street, 2nd Floor Kitchen,",
+   "streetAddress": "351 East 74th Street, New York, NY",
+   "latLong": {
+    "lat": 40.7695575,
+    "lng": -73.9555091
+   }
+  },
+  "meetingTimes": [
+   {
+    "full": "Saturdays From  9:30 AM to 10:30 AM",
+    "day": "Saturdays",
+    "from": {
+     "hour": 9,
+     "min": 30
+    },
+    "to": {
+     "hour": 10,
+     "min": 30
+    },
+    "meetingType": "S = Step meeting",
+    "specialInterest": "Women"
+   }
+  ]
+ },
+ {
+  "eventName": "PARK BENCH   (:II) -",
+  "locationName": "St. James Church",
+  "hasWheelchairAccess": true,
+  "address": {
+   "fullAddress": "865 Madison Avenue, 3rd Floor,",
+   "streetAddress": "865 Madison Avenue, New York, NY",
+   "latLong": {
+    "lat": 40.7710955,
+    "lng": -73.9653648
+   }
+  },
+  "meetingTimes": [
+   {
+    "full": "Wednesdays From  12:30 PM to 1:30 PM",
+    "day": "Wednesdays",
+    "from": {
+     "hour": 12,
+     "min": 30
+    },
+    "to": {
+     "hour": 13,
+     "min": 30
+    },
+    "meetingType": "C = Closed Discussion meeting"
+   },
+   {
+    "full": "Thursdays From  12:30 PM to 1:30 PM",
+    "day": "Thursdays",
+    "from": {
+     "hour": 12,
+     "min": 30
+    },
+    "to": {
+     "hour": 13,
+     "min": 30
+    },
+    "meetingType": "C = Closed Discussion meeting"
+   }
+  ]
+ },
+ {
+  "eventName": "PARK MADISON - Park Madison",
+  "locationName": "Brick Church Parish House",
+  "details": "Tue.8pm=Topic Round Robin, Anniv Last Fri.@ 6:45 Church Closed Friday; No Meetings In July & August All meetings are non-smoking.",
+  "hasWheelchairAccess": true,
+  "address": {
+   "fullAddress": "62 East 92nd Street, Basement,",
+   "streetAddress": "62 East 92nd Street, New York, NY",
+   "latLong": {
+    "lat": 40.7841065,
+    "lng": -73.9551568
+   }
+  },
+  "meetingTimes": [
+   {
+    "full": "Fridays From  6:45 PM to 7:45 PM",
+    "day": "Fridays",
+    "from": {
+     "hour": 18,
+     "min": 45
+    },
+    "to": {
+     "hour": 19,
+     "min": 45
+    },
+    "meetingType": "C = Closed Discussion meeting"
+   },
+   {
+    "full": "Tuesdays From  6:45 PM to 7:45 PM",
+    "day": "Tuesdays",
+    "from": {
+     "hour": 18,
+     "min": 45
+    },
+    "to": {
+     "hour": 19,
+     "min": 45
+    },
+    "meetingType": "B = Beginners meeting"
+   },
+   {
+    "full": "Tuesdays From  8:00 PM to 9:00 PM",
+    "day": "Tuesdays",
+    "from": {
+     "hour": 20,
+     "min": 0
+    },
+    "to": {
+     "hour": 21,
+     "min": 0
+    },
+    "meetingType": "C = Closed Discussion meeting"
+   },
+   {
+    "full": "Fridays From  8:00 PM to 9:00 PM",
+    "day": "Fridays",
+    "from": {
+     "hour": 20,
+     "min": 0
+    },
+    "to": {
+     "hour": 21,
+     "min": 0
+    },
+    "meetingType": "S = Step meeting"
+   }
+  ]
+ },
+ {
+  "eventName": "PERSEVERANCE - Perseverance",
+  "locationName": "Jan Hus Church",
+  "hasWheelchairAccess": false,
+  "address": {
+   "fullAddress": "351 East 74th Street, 2nd Floor Front Room,",
+   "streetAddress": "351 East 74th Street, New York, NY",
+   "latLong": {
+    "lat": 40.7695575,
+    "lng": -73.9555091
+   }
+  },
+  "meetingTimes": [
+   {
+    "full": "Saturdays From  11:00 AM to 12:00 PM",
+    "day": "Saturdays",
+    "from": {
+     "hour": 11,
+     "min": 0
+    },
+    "to": {
+     "hour": 12,
+     "min": 0
+    },
+    "meetingType": "OD = Open Discussion meeting"
+   }
+  ]
+ },
+ {
+  "eventName": "RECOVERY ROOM - Recovery Room",
+  "locationName": "St. Joseph's School",
+  "hasWheelchairAccess": false,
+  "address": {
+   "fullAddress": "420 East 87th Street, Basement,",
+   "streetAddress": "420 East 87th Street, New York, NY",
+   "latLong": {
+    "lat": 40.7769469,
+    "lng": -73.9480191
+   }
+  },
+  "meetingTimes": [
+   {
+    "full": "Wednesdays From  7:00 PM to 8:00 PM",
+    "day": "Wednesdays",
+    "from": {
+     "hour": 19,
+     "min": 0
+    },
+    "to": {
+     "hour": 20,
+     "min": 0
+    },
+    "meetingType": "B = Beginners meeting"
+   }
+  ]
+ },
+ {
+  "eventName": "RENEWAL EAST -",
+  "locationName": "Central Presbyterian Church",
+  "hasWheelchairAccess": true,
+  "address": {
+   "fullAddress": "593 Park Avenue,  5th Floor Library,",
+   "streetAddress": "593 Park Avenue, New York, NY",
+   "latLong": {
+    "lat": 40.7656978,
+    "lng": -73.9672859
+   }
+  },
+  "meetingTimes": [
+   {
+    "full": "Wednesdays From  6:30 PM to 7:30 PM",
+    "day": "Wednesdays",
+    "from": {
+     "hour": 18,
+     "min": 30
+    },
+    "to": {
+     "hour": 19,
+     "min": 30
+    },
+    "meetingType": "C = Closed Discussion meeting"
+   }
+  ]
+ },
+ {
+  "eventName": "RENEWAL NORTH -",
+  "locationName": "St. Thomas More Church",
+  "hasWheelchairAccess": true,
+  "address": {
+   "fullAddress": "65 East 89th Street, Ring Red Buzzer, Chelsea Room,",
+   "streetAddress": "65 East 89th Street, New York, NY",
+   "latLong": {
+    "lat": 40.7827268,
+    "lng": -73.9566929
+   }
+  },
+  "meetingTimes": [
+   {
+    "full": "Thursdays From  6:30 PM to 7:30 PM",
+    "day": "Thursdays",
+    "from": {
+     "hour": 18,
+     "min": 30
+    },
+    "to": {
+     "hour": 19,
+     "min": 30
+    },
+    "meetingType": "OD = Open Discussion meeting"
+   }
+  ]
+ },
+ {
+  "eventName": "RHINELANDER - Rhinelander",
+  "locationName": "St. James Episcopal Church",
+  "details": "Mon.6pm & Thu.6pm Meetings end @ 6:50pm.",
+  "hasWheelchairAccess": false,
+  "address": {
+   "fullAddress": "865 Madison Avenue,  Basement,",
+   "streetAddress": "865 Madison Avenue, New York, NY",
+   "latLong": {
+    "lat": 40.7710955,
+    "lng": -73.9653648
+   }
+  },
+  "meetingTimes": [
+   {
+    "full": "Mondays From  6:00 PM to 7:00 PM",
+    "day": "Mondays",
+    "from": {
+     "hour": 18,
+     "min": 0
+    },
+    "to": {
+     "hour": 19,
+     "min": 0
+    },
+    "meetingType": "OD = Open Discussion meeting"
+   },
+   {
+    "full": "Thursdays From  6:00 PM to 7:00 PM",
+    "day": "Thursdays",
+    "from": {
+     "hour": 18,
+     "min": 0
+    },
+    "to": {
+     "hour": 19,
+     "min": 0
+    },
+    "meetingType": "S = Step meeting"
+   },
+   {
+    "full": "Thursdays From  7:00 PM to 8:00 PM",
+    "day": "Thursdays",
+    "from": {
+     "hour": 19,
+     "min": 0
+    },
+    "to": {
+     "hour": 20,
+     "min": 0
+    },
+    "meetingType": "B = Beginners meeting"
+   },
+   {
+    "full": "Mondays From  7:00 PM to 8:00 PM",
+    "day": "Mondays",
+    "from": {
+     "hour": 19,
+     "min": 0
+    },
+    "to": {
+     "hour": 20,
+     "min": 0
+    },
+    "meetingType": "B = Beginners meeting"
+   }
+  ]
+ },
+ {
+  "eventName": "ROOSEVELT ISLAND SERENITY -",
+  "hasWheelchairAccess": true,
+  "address": {
+   "fullAddress": "Church of the Good Shepard, 543 Main St., Basement 10044,",
+   "streetAddress": "Church of the Good Shepard, New York, NY",
+   "latLong": {
+    "lat": 40.74308630000001,
+    "lng": -73.9781856
+   }
+  },
+  "meetingTimes": [
+   {
+    "full": "Saturdays From  6:30 PM to 7:30 PM",
+    "day": "Saturdays",
+    "from": {
+     "hour": 18,
+     "min": 30
+    },
+    "to": {
+     "hour": 19,
+     "min": 30
+    },
+    "meetingType": "C = Closed Discussion meeting"
+   }
+  ]
+ },
+ {
+  "eventName": "SEVENTY-NINTH STREET WORKSHOP - Seventy-Ninth Street Workshop    (:I)",
+  "locationName": "St. Monica's Church",
+  "details": "Sun.10am=11th S, Tue.6am=Came To Believe Thu.6am=Step & Trad.",
+  "hasWheelchairAccess": false,
+  "address": {
+   "fullAddress": "413 East 79th Street,  Basement,",
+   "streetAddress": "413 East 79th Street, New York, NY",
+   "latLong": {
+    "lat": 40.7722008,
+    "lng": -73.9517118
+   }
+  },
+  "meetingTimes": [
+   {
+    "full": "Tuesdays From  6:00 AM to 7:00 AM",
+    "day": "Tuesdays",
+    "from": {
+     "hour": 6,
+     "min": 0
+    },
+    "to": {
+     "hour": 7,
+     "min": 0
+    },
+    "meetingType": "C = Closed Discussion meeting"
+   },
+   {
+    "full": "Mondays From  6:00 AM to 7:00 AM",
+    "day": "Mondays",
+    "from": {
+     "hour": 6,
+     "min": 0
+    },
+    "to": {
+     "hour": 7,
+     "min": 0
+    },
+    "meetingType": "C = Closed Discussion meeting",
+    "specialInterest": "Daily Reflections"
+   },
+   {
+    "full": "Fridays From  6:00 AM to 7:00 AM",
+    "day": "Fridays",
+    "from": {
+     "hour": 6,
+     "min": 0
+    },
+    "to": {
+     "hour": 7,
+     "min": 0
+    },
+    "meetingType": "BB = Big Book meeting"
+   },
+   {
+    "full": "Thursdays From  6:00 AM to 7:00 AM",
+    "day": "Thursdays",
+    "from": {
+     "hour": 6,
+     "min": 0
+    },
+    "to": {
+     "hour": 7,
+     "min": 0
+    },
+    "meetingType": "S = Step meeting"
+   },
+   {
+    "full": "Wednesdays From  6:00 AM to 7:00 AM",
+    "day": "Wednesdays",
+    "from": {
+     "hour": 6,
+     "min": 0
+    },
+    "to": {
+     "hour": 7,
+     "min": 0
+    },
+    "meetingType": "C = Closed Discussion meeting",
+    "specialInterest": "As Bill Sees It"
+   },
+   {
+    "full": "Tuesdays From  7:15 AM to 8:15 AM",
+    "day": "Tuesdays",
+    "from": {
+     "hour": 7,
+     "min": 15
+    },
+    "to": {
+     "hour": 8,
+     "min": 15
+    },
+    "meetingType": "C = Closed Discussion meeting"
+   },
+   {
+    "full": "Mondays From  7:15 AM to 8:15 AM",
+    "day": "Mondays",
+    "from": {
+     "hour": 7,
+     "min": 15
+    },
+    "to": {
+     "hour": 8,
+     "min": 15
+    },
+    "meetingType": "C = Closed Discussion meeting"
+   },
+   {
+    "full": "Fridays From  7:15 AM to 8:15 AM",
+    "day": "Fridays",
+    "from": {
+     "hour": 7,
+     "min": 15
+    },
+    "to": {
+     "hour": 8,
+     "min": 15
+    },
+    "meetingType": "C = Closed Discussion meeting"
+   },
+   {
+    "full": "Thursdays From  7:15 AM to 8:15 AM",
+    "day": "Thursdays",
+    "from": {
+     "hour": 7,
+     "min": 15
+    },
+    "to": {
+     "hour": 8,
+     "min": 15
+    },
+    "meetingType": "C = Closed Discussion meeting"
+   },
+   {
+    "full": "Wednesdays From  7:15 AM to 8:15 AM",
+    "day": "Wednesdays",
+    "from": {
+     "hour": 7,
+     "min": 15
+    },
+    "to": {
+     "hour": 8,
+     "min": 15
+    },
+    "meetingType": "C = Closed Discussion meeting"
+   },
+   {
+    "full": "Saturdays From  8:00 AM to 9:00 AM",
+    "day": "Saturdays",
+    "from": {
+     "hour": 8,
+     "min": 0
+    },
+    "to": {
+     "hour": 9,
+     "min": 0
+    },
+    "meetingType": "C = Closed Discussion meeting"
+   },
+   {
+    "full": "Sundays From  8:00 AM to 9:00 AM",
+    "day": "Sundays",
+    "from": {
+     "hour": 8,
+     "min": 0
+    },
+    "to": {
+     "hour": 9,
+     "min": 0
+    },
+    "meetingType": "C = Closed Discussion meeting"
+   },
+   {
+    "full": "Wednesdays From  8:30 AM to 9:30 AM",
+    "day": "Wednesdays",
+    "from": {
+     "hour": 8,
+     "min": 30
+    },
+    "to": {
+     "hour": 9,
+     "min": 30
+    },
+    "meetingType": "T = Tradition meeting"
+   },
+   {
+    "full": "Tuesdays From  8:30 AM to 9:30 AM",
+    "day": "Tuesdays",
+    "from": {
+     "hour": 8,
+     "min": 30
+    },
+    "to": {
+     "hour": 9,
+     "min": 30
+    },
+    "meetingType": "C = Closed Discussion meeting",
+    "specialInterest": "Promises"
+   },
+   {
+    "full": "Mondays From  8:30 AM to 9:30 AM",
+    "day": "Mondays",
+    "from": {
+     "hour": 8,
+     "min": 30
+    },
+    "to": {
+     "hour": 9,
+     "min": 30
+    },
+    "meetingType": "C = Closed Discussion meeting"
+   },
+   {
+    "full": "Fridays From  8:30 AM to 9:30 AM",
+    "day": "Fridays",
+    "from": {
+     "hour": 8,
+     "min": 30
+    },
+    "to": {
+     "hour": 9,
+     "min": 30
+    },
+    "meetingType": "S = Step meeting"
+   },
+   {
+    "full": "Thursdays From  8:30 AM to 9:30 AM",
+    "day": "Thursdays",
+    "from": {
+     "hour": 8,
+     "min": 30
+    },
+    "to": {
+     "hour": 9,
+     "min": 30
+    },
+    "meetingType": "BB = Big Book meeting"
+   },
+   {
+    "full": "Thursdays From  10:00 AM to 11:00 AM",
+    "day": "Thursdays",
+    "from": {
+     "hour": 10,
+     "min": 0
+    },
+    "to": {
+     "hour": 11,
+     "min": 0
+    },
+    "meetingType": "T = Tradition meeting"
+   },
+   {
+    "full": "Wednesdays From  10:00 AM to 11:00 AM",
+    "day": "Wednesdays",
+    "from": {
+     "hour": 10,
+     "min": 0
+    },
+    "to": {
+     "hour": 11,
+     "min": 0
+    },
+    "meetingType": "C = Closed Discussion meeting"
+   },
+   {
+    "full": "Tuesdays From  10:00 AM to 11:00 AM",
+    "day": "Tuesdays",
+    "from": {
+     "hour": 10,
+     "min": 0
+    },
+    "to": {
+     "hour": 11,
+     "min": 0
+    },
+    "meetingType": "S = Step meeting"
+   },
+   {
+    "full": "Mondays From  10:00 AM to 11:00 AM",
+    "day": "Mondays",
+    "from": {
+     "hour": 10,
+     "min": 0
+    },
+    "to": {
+     "hour": 11,
+     "min": 0
+    },
+    "meetingType": "B = Beginners meeting"
+   },
+   {
+    "full": "Saturdays From  10:00 AM to 11:00 AM",
+    "day": "Saturdays",
+    "from": {
+     "hour": 10,
+     "min": 0
+    },
+    "to": {
+     "hour": 11,
+     "min": 0
+    },
+    "meetingType": "C = Closed Discussion meeting",
+    "specialInterest": "Children Welcome"
+   },
+   {
+    "full": "Sundays From  10:00 AM to 11:00 AM",
+    "day": "Sundays",
+    "from": {
+     "hour": 10,
+     "min": 0
+    },
+    "to": {
+     "hour": 11,
+     "min": 0
+    },
+    "meetingType": "S = Step meeting"
+   },
+   {
+    "full": "Fridays From  10:00 AM to 11:00 AM",
+    "day": "Fridays",
+    "from": {
+     "hour": 10,
+     "min": 0
+    },
+    "to": {
+     "hour": 11,
+     "min": 0
+    },
+    "meetingType": "BB = Big Book meeting"
+   },
+   {
+    "full": "Thursdays From  12:30 PM to 1:30 PM",
+    "day": "Thursdays",
+    "from": {
+     "hour": 12,
+     "min": 30
+    },
+    "to": {
+     "hour": 13,
+     "min": 30
+    },
+    "meetingType": "C = Closed Discussion meeting"
+   },
+   {
+    "full": "Wednesdays From  12:30 PM to 1:30 PM",
+    "day": "Wednesdays",
+    "from": {
+     "hour": 12,
+     "min": 30
+    },
+    "to": {
+     "hour": 13,
+     "min": 30
+    },
+    "meetingType": "S = Step meeting"
+   },
+   {
+    "full": "Tuesdays From  12:30 PM to 1:30 PM",
+    "day": "Tuesdays",
+    "from": {
+     "hour": 12,
+     "min": 30
+    },
+    "to": {
+     "hour": 13,
+     "min": 30
+    },
+    "meetingType": "C = Closed Discussion meeting"
+   },
+   {
+    "full": "Mondays From  12:30 PM to 1:30 PM",
+    "day": "Mondays",
+    "from": {
+     "hour": 12,
+     "min": 30
+    },
+    "to": {
+     "hour": 13,
+     "min": 30
+    },
+    "meetingType": "B = Beginners meeting"
+   },
+   {
+    "full": "Saturdays From  12:30 PM to 1:30 PM",
+    "day": "Saturdays",
+    "from": {
+     "hour": 12,
+     "min": 30
+    },
+    "to": {
+     "hour": 13,
+     "min": 30
+    },
+    "meetingType": "C = Closed Discussion meeting"
+   },
+   {
+    "full": "Sundays From  12:30 PM to 1:30 PM",
+    "day": "Sundays",
+    "from": {
+     "hour": 12,
+     "min": 30
+    },
+    "to": {
+     "hour": 13,
+     "min": 30
+    },
+    "meetingType": "C = Closed Discussion meeting"
+   },
+   {
+    "full": "Fridays From  12:30 PM to 1:30 PM",
+    "day": "Fridays",
+    "from": {
+     "hour": 12,
+     "min": 30
+    },
+    "to": {
+     "hour": 13,
+     "min": 30
+    },
+    "meetingType": "C = Closed Discussion meeting"
+   },
+   {
+    "full": "Saturdays From  2:00 PM to 3:00 PM",
+    "day": "Saturdays",
+    "from": {
+     "hour": 14,
+     "min": 0
+    },
+    "to": {
+     "hour": 15,
+     "min": 0
+    },
+    "meetingType": "C = Closed Discussion meeting",
+    "specialInterest": "Women"
+   },
+   {
+    "full": "Sundays From  2:00 PM to 3:00 PM",
+    "day": "Sundays",
+    "from": {
+     "hour": 14,
+     "min": 0
+    },
+    "to": {
+     "hour": 15,
+     "min": 0
+    },
+    "meetingType": "C = Closed Discussion meeting",
+    "specialInterest": "Men"
+   },
+   {
+    "full": "Fridays From  4:00 PM to 5:00 PM",
+    "day": "Fridays",
+    "from": {
+     "hour": 16,
+     "min": 0
+    },
+    "to": {
+     "hour": 17,
+     "min": 0
+    },
+    "meetingType": "S = Step meeting",
+    "specialInterest": "First Step Workshop"
+   },
+   {
+    "full": "Thursdays From  4:00 PM to 5:00 PM",
+    "day": "Thursdays",
+    "from": {
+     "hour": 16,
+     "min": 0
+    },
+    "to": {
+     "hour": 17,
+     "min": 0
+    },
+    "meetingType": "C = Closed Discussion meeting"
+   },
+   {
+    "full": "Wednesdays From  4:00 PM to 5:00 PM",
+    "day": "Wednesdays",
+    "from": {
+     "hour": 16,
+     "min": 0
+    },
+    "to": {
+     "hour": 17,
+     "min": 0
+    },
+    "meetingType": "B = Beginners meeting"
+   },
+   {
+    "full": "Tuesdays From  4:00 PM to 5:00 PM",
+    "day": "Tuesdays",
+    "from": {
+     "hour": 16,
+     "min": 0
+    },
+    "to": {
+     "hour": 17,
+     "min": 0
+    },
+    "meetingType": "BB = Big Book meeting"
+   },
+   {
+    "full": "Mondays From  4:00 PM to 5:00 PM",
+    "day": "Mondays",
+    "from": {
+     "hour": 16,
+     "min": 0
+    },
+    "to": {
+     "hour": 17,
+     "min": 0
+    },
+    "meetingType": "B = Beginners meeting"
+   },
+   {
+    "full": "Saturdays From  4:00 PM to 5:00 PM",
+    "day": "Saturdays",
+    "from": {
+     "hour": 16,
+     "min": 0
+    },
+    "to": {
+     "hour": 17,
+     "min": 0
+    },
+    "meetingType": "S = Step meeting",
+    "specialInterest": "Steps 1-2-3"
+   },
+   {
+    "full": "Sundays From  4:00 PM to 5:00 PM",
+    "day": "Sundays",
+    "from": {
+     "hour": 16,
+     "min": 0
+    },
+    "to": {
+     "hour": 17,
+     "min": 0
+    },
+    "meetingType": "C = Closed Discussion meeting",
+    "specialInterest": "As Bill Sees It"
+   },
+   {
+    "full": "Fridays From  6:15 PM to 7:15 PM",
+    "day": "Fridays",
+    "from": {
+     "hour": 18,
+     "min": 15
+    },
+    "to": {
+     "hour": 19,
+     "min": 15
+    },
+    "meetingType": "C = Closed Discussion meeting",
+    "specialInterest": "Children Welcome"
+   },
+   {
+    "full": "Thursdays From  6:15 PM to 7:15 PM",
+    "day": "Thursdays",
+    "from": {
+     "hour": 18,
+     "min": 15
+    },
+    "to": {
+     "hour": 19,
+     "min": 15
+    },
+    "meetingType": "O = Open meeting"
+   },
+   {
+    "full": "Wednesdays From  6:15 PM to 7:15 PM",
+    "day": "Wednesdays",
+    "from": {
+     "hour": 18,
+     "min": 15
+    },
+    "to": {
+     "hour": 19,
+     "min": 15
+    },
+    "meetingType": "B = Beginners meeting"
+   },
+   {
+    "full": "Tuesdays From  6:15 PM to 7:15 PM",
+    "day": "Tuesdays",
+    "from": {
+     "hour": 18,
+     "min": 15
+    },
+    "to": {
+     "hour": 19,
+     "min": 15
+    },
+    "meetingType": "S = Step meeting"
+   },
+   {
+    "full": "Mondays From  6:15 PM to 7:15 PM",
+    "day": "Mondays",
+    "from": {
+     "hour": 18,
+     "min": 15
+    },
+    "to": {
+     "hour": 19,
+     "min": 15
+    },
+    "meetingType": "T = Tradition meeting"
+   },
+   {
+    "full": "Saturdays From  6:15 PM to 7:15 PM",
+    "day": "Saturdays",
+    "from": {
+     "hour": 18,
+     "min": 15
+    },
+    "to": {
+     "hour": 19,
+     "min": 15
+    },
+    "meetingType": "B = Beginners meeting"
+   },
+   {
+    "full": "Sundays From  6:15 PM to 7:15 PM",
+    "day": "Sundays",
+    "from": {
+     "hour": 18,
+     "min": 15
+    },
+    "to": {
+     "hour": 19,
+     "min": 15
+    },
+    "meetingType": "OD = Open Discussion meeting"
+   },
+   {
+    "full": "Sundays From  8:00 PM to 9:00 PM",
+    "day": "Sundays",
+    "from": {
+     "hour": 20,
+     "min": 0
+    },
+    "to": {
+     "hour": 21,
+     "min": 0
+    },
+    "meetingType": "C = Closed Discussion meeting",
+    "specialInterest": "Promises"
+   },
+   {
+    "full": "Fridays From  8:00 PM to 9:00 PM",
+    "day": "Fridays",
+    "from": {
+     "hour": 20,
+     "min": 0
+    },
+    "to": {
+     "hour": 21,
+     "min": 0
+    },
+    "meetingType": "B = Beginners meeting"
+   },
+   {
+    "full": "Wednesdays From  8:00 PM to 9:00 PM",
+    "day": "Wednesdays",
+    "from": {
+     "hour": 20,
+     "min": 0
+    },
+    "to": {
+     "hour": 21,
+     "min": 0
+    },
+    "meetingType": "BB = Big Book meeting"
+   },
+   {
+    "full": "Tuesdays From  8:00 PM to 9:00 PM",
+    "day": "Tuesdays",
+    "from": {
+     "hour": 20,
+     "min": 0
+    },
+    "to": {
+     "hour": 21,
+     "min": 0
+    },
+    "meetingType": "C = Closed Discussion meeting",
+    "specialInterest": "Sponsorship Workshop"
+   },
+   {
+    "full": "Saturdays From  8:00 PM to 9:00 PM",
+    "day": "Saturdays",
+    "from": {
+     "hour": 20,
+     "min": 0
+    },
+    "to": {
+     "hour": 21,
+     "min": 0
+    },
+    "meetingType": "O = Open meeting"
+   },
+   {
+    "full": "Saturdays From  10:00 PM to 11:00 PM",
+    "day": "Saturdays",
+    "from": {
+     "hour": 22,
+     "min": 0
+    },
+    "to": {
+     "hour": 23,
+     "min": 0
+    },
+    "meetingType": "C = Closed Discussion meeting"
+   },
+   {
+    "full": "Sundays From  10:00 PM to 11:00 PM",
+    "day": "Sundays",
+    "from": {
+     "hour": 22,
+     "min": 0
+    },
+    "to": {
+     "hour": 23,
+     "min": 0
+    },
+    "meetingType": "C = Closed Discussion meeting"
+   },
+   {
+    "full": "Fridays From  10:00 PM to 11:00 PM",
+    "day": "Fridays",
+    "from": {
+     "hour": 22,
+     "min": 0
+    },
+    "to": {
+     "hour": 23,
+     "min": 0
+    },
+    "meetingType": "C = Closed Discussion meeting"
+   },
+   {
+    "full": "Thursdays From  10:00 PM to 11:00 PM",
+    "day": "Thursdays",
+    "from": {
+     "hour": 22,
+     "min": 0
+    },
+    "to": {
+     "hour": 23,
+     "min": 0
+    },
+    "meetingType": "S = Step meeting"
+   },
+   {
+    "full": "Tuesdays From  10:00 PM to 11:00 PM",
+    "day": "Tuesdays",
+    "from": {
+     "hour": 22,
+     "min": 0
+    },
+    "to": {
+     "hour": 23,
+     "min": 0
+    },
+    "meetingType": "C = Closed Discussion meeting"
+   },
+   {
+    "full": "Mondays From  10:00 PM to 11:00 PM",
+    "day": "Mondays",
+    "from": {
+     "hour": 22,
+     "min": 0
+    },
+    "to": {
+     "hour": 23,
+     "min": 0
+    },
+    "meetingType": "B = Beginners meeting"
+   },
+   {
+    "full": "Wednesdays From  10:00 PM to 11:00 PM",
+    "day": "Wednesdays",
+    "from": {
+     "hour": 22,
+     "min": 0
+    },
+    "to": {
+     "hour": 23,
+     "min": 0
+    },
+    "meetingType": "C = Closed Discussion meeting"
+   }
+  ]
+ },
+ {
+  "eventName": "SOBER WOMEN - Sober Women",
+  "locationName": "Jan Hus Church",
+  "details": "Women's Meeting",
+  "hasWheelchairAccess": false,
+  "address": {
+   "fullAddress": "351 East 74th Street, Sanctuary,",
+   "streetAddress": "351 East 74th Street, New York, NY",
+   "latLong": {
+    "lat": 40.7695575,
+    "lng": -73.9555091
+   }
+  },
+  "meetingTimes": [
+   {
+    "full": "Saturdays From  9:15 AM to 10:15 AM",
+    "day": "Saturdays",
+    "from": {
+     "hour": 9,
+     "min": 15
+    },
+    "to": {
+     "hour": 10,
+     "min": 15
+    },
+    "meetingType": "C = Closed Discussion meeting",
+    "specialInterest": "Women"
+   }
+  ]
+ },
+ {
+  "eventName": "STEP BY STEP - Step By Step",
+  "locationName": "New York Blood Center",
+  "details": "Non-Smoking Meeting.",
+  "hasWheelchairAccess": true,
+  "address": {
+   "fullAddress": "310 East 67th Street, Auditorium,",
+   "streetAddress": "310 East 67th Street, New York, NY",
+   "latLong": {
+    "lat": 40.7650502,
+    "lng": -73.960054
+   }
+  },
+  "meetingTimes": [
+   {
+    "full": "Saturdays From  10:00 AM to 11:00 AM",
+    "day": "Saturdays",
+    "from": {
+     "hour": 10,
+     "min": 0
+    },
+    "to": {
+     "hour": 11,
+     "min": 0
+    },
+    "meetingType": "S = Step meeting"
+   }
+  ]
+ },
+ {
+  "eventName": "SUNDAY ON 70TH - Sunday On 70th",
+  "locationName": "Lenox Hill Neighborhood House",
+  "hasWheelchairAccess": false,
+  "address": {
+   "fullAddress": "331 E 70th St,",
+   "streetAddress": "331 E 70th St, New York, NY",
+   "latLong": {
+    "lat": 40.7670845,
+    "lng": -73.9577554
+   }
+  },
+  "meetingTimes": [
+   {
+    "full": "Sundays From  10:00 AM to 11:00 AM",
+    "day": "Sundays",
+    "from": {
+     "hour": 10,
+     "min": 0
+    },
+    "to": {
+     "hour": 11,
+     "min": 0
+    },
+    "meetingType": "B = Beginners meeting"
+   }
+  ]
+ },
+ {
+  "eventName": "SUTTON - Sutton",
+  "locationName": "Church of St. Catherine of Siena",
+  "details": "Enter through Parish House",
+  "hasWheelchairAccess": true,
+  "address": {
+   "fullAddress": "411 East 68th Street,",
+   "streetAddress": "411 East 68th Street, New York, NY",
+   "latLong": {
+    "lat": 40.7652647,
+    "lng": -73.9570602
+   }
+  },
+  "meetingTimes": [
+   {
+    "full": "Saturdays From  6:30 PM to 7:30 PM",
+    "day": "Saturdays",
+    "from": {
+     "hour": 18,
+     "min": 30
+    },
+    "to": {
+     "hour": 19,
+     "min": 30
+    },
+    "meetingType": "OD = Open Discussion meeting"
+   }
+  ]
+ },
+ {
+  "eventName": "THREE TWELVES - Three Twelves",
+  "locationName": "Church of the Heavenly Rest",
+  "hasWheelchairAccess": false,
+  "address": {
+   "fullAddress": "2 East 90th Street, Basement,",
+   "streetAddress": "2 East 90th Street, New York, NY",
+   "latLong": {
+    "lat": 40.7838507,
+    "lng": -73.95841779999999
+   }
+  },
+  "meetingTimes": [
+   {
+    "full": "Tuesdays From  12:00 PM to 1:00 PM",
+    "day": "Tuesdays",
+    "from": {
+     "hour": 12,
+     "min": 0
+    },
+    "to": {
+     "hour": 13,
+     "min": 0
+    },
+    "meetingType": "C = Closed Discussion meeting"
+   },
+   {
+    "full": "Thursdays From  12:00 PM to 1:00 PM",
+    "day": "Thursdays",
+    "from": {
+     "hour": 12,
+     "min": 0
+    },
+    "to": {
+     "hour": 13,
+     "min": 0
+    },
+    "meetingType": "C = Closed Discussion meeting"
+   }
+  ]
+ },
+ {
+  "eventName": "TRINITY - Trinity",
+  "locationName": "Holy Trinity Church",
+  "details": "Anniv Last Tuesday @ 7:15pm All meetings are non-smoking. Last Fri. @ 7PM = T",
+  "hasWheelchairAccess": false,
+  "address": {
+   "fullAddress": "341 East 87th Street,  Choir Room (Ring Bell),",
+   "streetAddress": "341 East 87th Street, New York, NY",
+   "latLong": {
+    "lat": 40.7780831,
+    "lng": -73.9496753
+   }
+  },
+  "meetingTimes": [
+   {
+    "full": "Fridays From  7:00 PM to 8:00 PM",
+    "day": "Fridays",
+    "from": {
+     "hour": 19,
+     "min": 0
+    },
+    "to": {
+     "hour": 20,
+     "min": 0
+    },
+    "meetingType": "S = Step meeting"
+   },
+   {
+    "full": "Tuesdays From  7:15 PM to 8:15 PM",
+    "day": "Tuesdays",
+    "from": {
+     "hour": 19,
+     "min": 15
+    },
+    "to": {
+     "hour": 20,
+     "min": 15
+    },
+    "meetingType": "B = Beginners meeting"
+   },
+   {
+    "full": "Fridays From  8:30 PM to 9:30 PM",
+    "day": "Fridays",
+    "from": {
+     "hour": 20,
+     "min": 30
+    },
+    "to": {
+     "hour": 21,
+     "min": 30
+    },
+    "meetingType": "B = Beginners meeting"
+   },
+   {
+    "full": "Tuesdays From  8:30 PM to 9:30 PM",
+    "day": "Tuesdays",
+    "from": {
+     "hour": 20,
+     "min": 30
+    },
+    "to": {
+     "hour": 21,
+     "min": 30
+    },
+    "meetingType": "C = Closed Discussion meeting"
+   }
+  ]
+ },
+ {
+  "eventName": "WE HUMANISTS - We Humanists",
+  "locationName": "Jan Hus Church",
+  "details": "No prayers & a Non-Smoking Meeting.",
+  "hasWheelchairAccess": false,
+  "address": {
+   "fullAddress": "351 East 74th Street,  2nd Floor Museum Room,",
+   "streetAddress": "351 East 74th Street, New York, NY",
+   "latLong": {
+    "lat": 40.7695575,
+    "lng": -73.9555091
+   }
+  },
+  "meetingTimes": [
+   {
+    "full": "Wednesdays From  6:15 PM to 7:15 PM",
+    "day": "Wednesdays",
+    "from": {
+     "hour": 18,
+     "min": 15
+    },
+    "to": {
+     "hour": 19,
+     "min": 15
+    },
+    "meetingType": "C = Closed Discussion meeting",
+    "specialInterest": "Agnostic"
+   }
+  ]
+ },
+ {
+  "eventName": "WEDNESDAY EAST ON THURSDAY - Wednesday East",
+  "locationName": "Jan Hus Church",
+  "details": "Round Robin format",
+  "hasWheelchairAccess": false,
+  "address": {
+   "fullAddress": "351 East 74th Street, 2nd Floor Kitchen,",
+   "streetAddress": "351 East 74th Street, New York, NY",
+   "latLong": {
+    "lat": 40.7695575,
+    "lng": -73.9555091
+   }
+  },
+  "meetingTimes": [
+   {
+    "full": "Thursdays From  8:00 PM to 9:00 PM",
+    "day": "Thursdays",
+    "from": {
+     "hour": 20,
+     "min": 0
+    },
+    "to": {
+     "hour": 21,
+     "min": 0
+    },
+    "meetingType": "C = Closed Discussion meeting"
+   }
+  ]
+ },
+ {
+  "eventName": "YORKVILLE-BUTTERFIELD - Yorkville",
+  "locationName": "Jan Hus Church",
+  "details": "Non-Smoking Meeting.",
+  "hasWheelchairAccess": false,
+  "address": {
+   "fullAddress": "351 East 74th Street,  2nd Floor,  Masaryk Room,",
+   "streetAddress": "351 East 74th Street, New York, NY",
+   "latLong": {
+    "lat": 40.7695575,
+    "lng": -73.9555091
+   }
+  },
+  "meetingTimes": [
+   {
+    "full": "Thursdays From  8:00 PM to 9:00 PM",
+    "day": "Thursdays",
+    "from": {
+     "hour": 20,
+     "min": 0
+    },
+    "to": {
+     "hour": 21,
+     "min": 0
+    },
+    "meetingType": "C = Closed Discussion meeting"
+   }
+  ]
+ }
+]

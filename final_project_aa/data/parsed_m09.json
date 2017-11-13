@@ -1,0 +1,205 @@
+[
+ {
+  "eventName": "125 - TWO FOR ONE -",
+  "locationName": "Harlem Children's Zone Admin. Offices",
+  "details": "O 2nd, S 3rd, Anniv. 4th & BB 5th Sat.",
+  "hasWheelchairAccess": true,
+  "address": {
+   "fullAddress": "35 East 125 Street, 1st Floor Conference Room,",
+   "streetAddress": "35 East 125 Street, New York, NY",
+   "latLong": {
+    "lat": 40.8062039,
+    "lng": -73.9410197
+   }
+  },
+  "meetingTimes": [
+   {
+    "full": "Saturdays From  4:15 PM to 5:30 PM",
+    "day": "Saturdays",
+    "from": {
+     "hour": 16,
+     "min": 15
+    },
+    "to": {
+     "hour": 17,
+     "min": 30
+    },
+    "meetingType": "B = Beginners meeting"
+   }
+  ]
+ },
+ {
+  "eventName": "EAST HARLEM - East Harlem",
+  "locationName": "Peter Jay Sharpe Building",
+  "details": "Living Sober 1st Tuesday.",
+  "hasWheelchairAccess": true,
+  "address": {
+   "fullAddress": "223 East 117th Street, 1st Floor Dining Room,",
+   "streetAddress": "223 East 117th Street, New York, NY",
+   "latLong": {
+    "lat": 40.7982895,
+    "lng": -73.93824889999999
+   }
+  },
+  "meetingTimes": [
+   {
+    "full": "Tuesdays From  6:30 PM to 7:30 PM",
+    "day": "Tuesdays",
+    "from": {
+     "hour": 18,
+     "min": 30
+    },
+    "to": {
+     "hour": 19,
+     "min": 30
+    },
+    "meetingType": "B = Beginners meeting",
+    "specialInterest": "Living Sober"
+   }
+  ]
+ },
+ {
+  "eventName": "GRUPO NUEVA VIDA - Grupo Nueva Vida",
+  "details": "Spanish speaking meetings.",
+  "hasWheelchairAccess": true,
+  "address": {
+   "fullAddress": "2126 2nd Avenue, 1st Floor,",
+   "streetAddress": "2126 2nd Avenue, New York, NY",
+   "latLong": {
+    "lat": 40.7926781,
+    "lng": -73.9406285
+   }
+  },
+  "meetingTimes": [
+   {
+    "full": "Sundays From  5:00 PM to 6:00 PM",
+    "day": "Sundays",
+    "from": {
+     "hour": 17,
+     "min": 0
+    },
+    "to": {
+     "hour": 18,
+     "min": 0
+    },
+    "meetingType": "OD = Open Discussion meeting"
+   },
+   {
+    "full": "Mondays From  8:00 PM to 9:00 PM",
+    "day": "Mondays",
+    "from": {
+     "hour": 20,
+     "min": 0
+    },
+    "to": {
+     "hour": 21,
+     "min": 0
+    },
+    "meetingType": "B = Beginners meeting"
+   },
+   {
+    "full": "Tuesdays From  8:00 PM to 9:00 PM",
+    "day": "Tuesdays",
+    "from": {
+     "hour": 20,
+     "min": 0
+    },
+    "to": {
+     "hour": 21,
+     "min": 0
+    },
+    "meetingType": "OD = Open Discussion meeting"
+   },
+   {
+    "full": "Wednesdays From  8:00 PM to 9:00 PM",
+    "day": "Wednesdays",
+    "from": {
+     "hour": 20,
+     "min": 0
+    },
+    "to": {
+     "hour": 21,
+     "min": 0
+    },
+    "meetingType": "C = Closed Discussion meeting"
+   },
+   {
+    "full": "Thursdays From  8:00 PM to 9:00 PM",
+    "day": "Thursdays",
+    "from": {
+     "hour": 20,
+     "min": 0
+    },
+    "to": {
+     "hour": 21,
+     "min": 0
+    },
+    "meetingType": "OD = Open Discussion meeting"
+   },
+   {
+    "full": "Fridays From  8:00 PM to 9:00 PM",
+    "day": "Fridays",
+    "from": {
+     "hour": 20,
+     "min": 0
+    },
+    "to": {
+     "hour": 21,
+     "min": 0
+    },
+    "meetingType": "OD = Open Discussion meeting"
+   },
+   {
+    "full": "Saturdays From  8:00 PM to 9:00 PM",
+    "day": "Saturdays",
+    "from": {
+     "hour": 20,
+     "min": 0
+    },
+    "to": {
+     "hour": 21,
+     "min": 0
+    },
+    "meetingType": "OD = Open Discussion meeting"
+   }
+  ]
+ },
+ {
+  "eventName": "HARLEM 1 PM RECOVERY - Harlem 1 PM Recovery",
+  "locationName": "Veterans Residence",
+  "details": "ID REQUIRED TO ENTER BUILDING",
+  "hasWheelchairAccess": true,
+  "address": {
+   "fullAddress": "22 East 119th Street,  1st Floor Cafeteria,",
+   "streetAddress": "22 East 119th Street, New York, NY"
+  },
+  "meetingTimes": [
+   {
+    "full": "Sundays From  1:00 PM to 2:00 PM",
+    "day": "Sundays",
+    "from": {
+     "hour": 13,
+     "min": 0
+    },
+    "to": {
+     "hour": 14,
+     "min": 0
+    },
+    "meetingType": "T = Tradition meeting"
+   },
+   {
+    "full": "Mondays From  1:00 PM to 2:00 PM",
+    "day": "Mondays",
+    "from": {
+     "hour": 13,
+     "min": 0
+    },
+    "to": {
+     "hour": 14,
+     "min": 0
+    },
+    "meetingType": "B = Beginners meeting"
+   }
+  ]
+ }
+]
