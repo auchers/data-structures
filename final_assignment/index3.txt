@@ -34,10 +34,6 @@
                 var meeting = locations[i];
                 var myLatLng = new google.maps.LatLng(meeting._id.latLong);
 
-                    console.log('meeting:', meeting);
-                    console.log('meeting.latlng:', meeting._id.latLong);
-                    console.log('myLatLng:', myLatLng);
-
                 var contentWindow = makeContent(meetings[i]);
 
 
