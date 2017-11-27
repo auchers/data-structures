@@ -81,7 +81,7 @@ app.get('/aa', function(req, res) {
         var tomorrow = daysOfWeek[tomorrowNum];
         var hour = dateTimeNow.getHours();
 
-        console.log(today);
+        console.log(today, hour);
 
         var collection = db.collection(collName);
 
@@ -144,6 +144,6 @@ app.get('/aa', function(req, res) {
 });
 
 // app.listen(process.env.PORT, function() {
-app.listen(3000, function() {
+app.listen(4000, function() {
     console.log('Server listening...');
 });
