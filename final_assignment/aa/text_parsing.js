@@ -6,6 +6,12 @@ var cheerio = require('cheerio');
 // File Names
 var files = ['m01','m02','m03', 'm04', 'm05', 'm06', 'm07', 'm08', 'm09', 'm10'];
 
+// Addresses that needed to be fixed manually for the google API
+var addressFixMapping = {
+    "189th+Street+&+Bennett+Avenue,+New+York,+NY": "Bennett+Avenue+&+189th+Street,+New+York,+NY",
+    "Central+Park+West+&+76th+Street,+New+York,+NY": "West+76th+Street+&+Central+Park,+New+York,+NY"
+};
+
 // Get API key from environment variable
 var apiKey = process.env.GMAKEY;
 
@@ -77,6 +83,7 @@ function parseFile(path){
 
     console.log('finished parsing file: '+ path);
 
+    // geocode each meeting
     async.eachOfSeries(meetingsArray, getGeos, function(){
         console.log(`saving file: ${path}`);
         fs.writeFileSync('data/parsed_' +  path + '.json',JSON.stringify(meetingsArray, null, 1));
@@ -85,18 +92,22 @@ function parseFile(path){
 
 function getMeetingTimes(cell2){
     let meetingTimes = [];
+
+    // split all the meeting times
     let split = cell2.html().split('\n                    \t\n\t\t\t\t  \t');
 
     // Iterate through all meeting times
     for (m in split){
         // splits the date off from the misc information like 'Meeting Type' and 'Special Interest'
         [date, misc, misc2] = split[m].trim().split('<br>');
-        date = date.replace(/(<([^>]+)>)/ig, '').trim();
+        date = date.replace(/(<([^>]+)>)/ig, '').trim(); // clean up date
 
         // splits day and times
         [day, times] = date.split(' From ');
+
         // splits beginning time from end time
         [from, to] = times.split('to').map(function(x){
+
                 // separate hour from part of day (pod)
                 [t, pod] = x.trim().split(' ');
 
@@ -119,7 +130,7 @@ function getMeetingTimes(cell2){
 
         // add in extras: Meeting Type and Special Interest
         let meetingType, specialInterest;
-        let extras = [misc, misc2];
+        let extras = [misc, misc2]; // sometimes they come in different orders so generalize over them
         for (e in extras){
             if (extras[e].includes('Meeting Type'))
                 meetingType = extras[e].split('/b> ')[1].trim();
@@ -136,18 +147,33 @@ function getMeetingTimes(cell2){
 }
 
 function getGeos(meeting, i, callback){
-    var address = meeting.address.streetAddress;
-    console.log('address ' + i + ' is: ' + address);
-    var apiRequest = 'https://maps.googleapis.com/maps/api/geocode/json?address=' + address.split(' ').join('+') + '&key=' + apiKey;
-    console.log(apiRequest);
+    let address = meeting.address.streetAddress.split(' ').join('+');
+
+    // check to see if one of addresses is problematic and replace it with fixed version
+    address = (address in addressFixMapping)? addressFixMapping[address] : address;
+
+    var apiRequest = 'https://maps.googleapis.com/maps/api/geocode/json?address=' + address + '&key=' + apiKey;
+
     request(apiRequest, function(err, resp, body) {
         if (err) {throw err;}
-        console.log(JSON.parse(body).status);
+
         // keep going if one comes back with status = 'UNKNOWN ERROR'
         if (JSON.parse(body).status === 'OK'){
+
+            // check to see if returned google formatted address is in NY to catch mistakes
+            if (!JSON.parse(body).results[0].formatted_address.includes('New York, NY')){
+                console.log('NOT IN NY!: ', JSON.parse(body).results[0].formatted_address);
+                console.log('request: ', apiRequest);
+            }
+
+            // add latLong to meeting object
             meeting.address.latLong = JSON.parse(body).results[0].geometry.location;
         }
     });
 
     setTimeout(callback,500);
 }
+
+// problem addresses
+//https://maps.googleapis.com/maps/api/geocode/json?address=189th+Street+&+Bennett+Avenue,+New+York,+NY&key=AIzaSyDbDWfv3LS1JBIDoVAmQSQ8oQtAVVs1jBk
+//https://maps.googleapis.com/maps/api/geocode/json?address=Central+Park+West+&+76th+Street,+New+York,+NY&key=AIzaSyDbDWfv3LS1JBIDoVAmQSQ8oQtAVVs1jBk

@@ -243,8 +243,8 @@
    "fullAddress": "550 West 155th Street, 2nd Floor Guild Room,",
    "streetAddress": "550 West 155th Street, New York, NY",
    "latLong": {
-    "lat": 40.83222900000001,
-    "lng": -73.94521859999999
+    "lat": 40.8321259,
+    "lng": -73.9452508
    }
   },
   "meetingTimes": [

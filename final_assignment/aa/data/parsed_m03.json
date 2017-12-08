@@ -190,8 +190,8 @@
    "fullAddress": "123 East 15th Street,  2nd Floor Conference Room,",
    "streetAddress": "123 East 15th Street, New York, NY",
    "latLong": {
-    "lat": 40.7346311,
-    "lng": -73.9879732
+    "lat": 40.7346749,
+    "lng": -73.9880046
    }
   },
   "meetingTimes": [
@@ -528,8 +528,8 @@
    "fullAddress": "119 Ninth Avenue,",
    "streetAddress": "119 Ninth Avenue, New York, NY",
    "latLong": {
-    "lat": 40.7432766,
-    "lng": -74.00402729999999
+    "lat": 40.7433245,
+    "lng": -74.0041176
    }
   },
   "meetingTimes": [
@@ -1153,7 +1153,11 @@
   "hasWheelchairAccess": true,
   "address": {
    "fullAddress": "307 W. 26th St.,",
-   "streetAddress": "307 W. 26th St., New York, NY"
+   "streetAddress": "307 W. 26th St., New York, NY",
+   "latLong": {
+    "lat": 40.7476699,
+    "lng": -73.9975237
+   }
   },
   "meetingTimes": [
    {
@@ -1820,8 +1824,8 @@
    "fullAddress": "25 East 15th- Conference Room H, \n\t\t\t\t\t\t10003",
    "streetAddress": "25 East 15th- Conference Room H, New York, NY",
    "latLong": {
-    "lat": 40.6900152,
-    "lng": -73.9894875
+    "lat": 40.749682,
+    "lng": -73.9867818
    }
   },
   "meetingTimes": [
@@ -2717,8 +2721,8 @@
    "fullAddress": "123 East 15th Street, 2nd Floor,",
    "streetAddress": "123 East 15th Street, New York, NY",
    "latLong": {
-    "lat": 40.7346311,
-    "lng": -73.9879732
+    "lat": 40.7346749,
+    "lng": -73.9880046
    }
   },
   "meetingTimes": [

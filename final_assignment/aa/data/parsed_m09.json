@@ -37,8 +37,8 @@
    "fullAddress": "223 East 117th Street, 1st Floor Dining Room,",
    "streetAddress": "223 East 117th Street, New York, NY",
    "latLong": {
-    "lat": 40.7982895,
-    "lng": -73.93824889999999
+    "lat": 40.7982694,
+    "lng": -73.9382394
    }
   },
   "meetingTimes": [
@@ -171,7 +171,11 @@
   "hasWheelchairAccess": true,
   "address": {
    "fullAddress": "22 East 119th Street,  1st Floor Cafeteria,",
-   "streetAddress": "22 East 119th Street, New York, NY"
+   "streetAddress": "22 East 119th Street, New York, NY",
+   "latLong": {
+    "lat": 40.8020301,
+    "lng": -73.9442569
+   }
   },
   "meetingTimes": [
    {

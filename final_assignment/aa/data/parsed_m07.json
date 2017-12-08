@@ -376,8 +376,8 @@
    "fullAddress": "865 Madison Avenue, Basement,",
    "streetAddress": "865 Madison Avenue, New York, NY",
    "latLong": {
-    "lat": 40.7710955,
-    "lng": -73.9653648
+    "lat": 40.7711264,
+    "lng": -73.9653563
    }
   },
   "meetingTimes": [
@@ -1589,8 +1589,8 @@
    "fullAddress": "865 Madison Avenue, 3rd Floor,",
    "streetAddress": "865 Madison Avenue, New York, NY",
    "latLong": {
-    "lat": 40.7710955,
-    "lng": -73.9653648
+    "lat": 40.7711264,
+    "lng": -73.9653563
    }
   },
   "meetingTimes": [
@@ -1811,8 +1811,8 @@
    "fullAddress": "865 Madison Avenue,  Basement,",
    "streetAddress": "865 Madison Avenue, New York, NY",
    "latLong": {
-    "lat": 40.7710955,
-    "lng": -73.9653648
+    "lat": 40.7711264,
+    "lng": -73.9653563
    }
   },
   "meetingTimes": [
@@ -1877,8 +1877,8 @@
    "fullAddress": "Church of the Good Shepard, 543 Main St., Basement 10044,",
    "streetAddress": "Church of the Good Shepard, New York, NY",
    "latLong": {
-    "lat": 40.74308630000001,
-    "lng": -73.9781856
+    "lat": 40.8685164,
+    "lng": -73.92041309999999
    }
   },
   "meetingTimes": [

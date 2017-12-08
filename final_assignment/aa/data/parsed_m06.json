@@ -332,8 +332,8 @@
    "fullAddress": "221 West 107th Street, Basement,",
    "streetAddress": "221 West 107th Street, New York, NY",
    "latLong": {
-    "lat": 40.8018597,
-    "lng": -73.9663042
+    "lat": 40.8018547,
+    "lng": -73.9663156
    }
   },
   "meetingTimes": [
@@ -2621,8 +2621,8 @@
    "fullAddress": "263 West 86th Street,  1st Floor,",
    "streetAddress": "263 West 86th Street, New York, NY",
    "latLong": {
-    "lat": 40.7888908,
-    "lng": -73.9772512
+    "lat": 40.7889383,
+    "lng": -73.97729029999999
    }
   },
   "meetingTimes": [
