@@ -894,7 +894,11 @@
   "hasWheelchairAccess": true,
   "address": {
    "fullAddress": "58-66 West 135th Street,",
-   "streetAddress": "58-66 West 135th Street, New York, NY"
+   "streetAddress": "58-66 West 135th Street, New York, NY",
+   "latLong": {
+    "lat": 40.8138166,
+    "lng": -73.9401283
+   }
   },
   "meetingTimes": [
    {

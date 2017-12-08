@@ -171,11 +171,7 @@
   "hasWheelchairAccess": true,
   "address": {
    "fullAddress": "22 East 119th Street,  1st Floor Cafeteria,",
-   "streetAddress": "22 East 119th Street, New York, NY",
-   "latLong": {
-    "lat": 40.8020301,
-    "lng": -73.9442569
-   }
+   "streetAddress": "22 East 119th Street, New York, NY"
   },
   "meetingTimes": [
    {

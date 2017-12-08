@@ -4039,11 +4039,7 @@
   "hasWheelchairAccess": false,
   "address": {
    "fullAddress": "50 East 7th Street,",
-   "streetAddress": "50 East 7th Street, New York, NY",
-   "latLong": {
-    "lat": 40.7275578,
-    "lng": -73.98765759999999
-   }
+   "streetAddress": "50 East 7th Street, New York, NY"
   },
   "meetingTimes": [
    {

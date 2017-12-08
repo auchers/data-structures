@@ -1073,11 +1073,7 @@
   "hasWheelchairAccess": true,
   "address": {
    "fullAddress": "283 W. Broadway,",
-   "streetAddress": "283 W. Broadway, New York, NY",
-   "latLong": {
-    "lat": 40.7208017,
-    "lng": -74.0048389
-   }
+   "streetAddress": "283 W. Broadway, New York, NY"
   },
   "meetingTimes": [
    {
