@@ -47,7 +47,7 @@ app.get('/', function(req, res) {
                 (((not is_magnetized) and prev_value) or (is_magnetized and (not prev_value)))
             ),
             day_aggregate as (
-                SELECT DATE_TRUNC('day', ny_time) as day, 
+                SELECT DATE_TRUNC('hour', ny_time) as hour, 
                     count(case when closing_door = 1 and duration < 60 then 1 end) as fridge_door_opening_cnt,
                     count(case when closing_door = 1 and duration >= 60 then 1 end) as cat_shenanigan_cnt
                 FROM door_events
@@ -76,20 +76,16 @@ app.get('/aa', function(req, res) {
         var todayNum = dateTimeNow.getDay();
         var today = daysOfWeek[todayNum];
         var tomorrowNum;
-        if (today == 6) {tomorrowNum = 0;}
+        if (today === 6) {tomorrowNum = 0;} // loop back to Sunday at the end of the week
         else {tomorrowNum = today + 1}
         var tomorrow = daysOfWeek[tomorrowNum];
         var hour = dateTimeNow.getHours();
 
-        console.log(today, hour);
+        console.log('today:', today, hour);
 
         var collection = db.collection(collName);
 
         collection.aggregate([ // start of aggregation pipeline
-            // { $match : {"meetingTimes.day" : today} },
-            // { $unwind :  "$meetingTimes"}, // get each meeting time as a separate object
-            // { $match : {"meetingTimes.day" : "Tuesdays"} },
-            // { $match : {"meetingTimes.from.hour": { $gte : hour } } }
 
         //     // match by day and time
             { $unwind :  "$meetingTimes"},
@@ -103,19 +99,15 @@ app.get('/aa', function(req, res) {
                     ]}
                 ]}
             },
-        //
         //     // group by meeting group
             { $group : { _id : {
                 latLong : "$address.latLong",
                 meetingName : "$eventName",
                 meetingAddress : "$address.fullAddress",
-                // meetingAddress2 : "$meetingAddress2",
-                // borough : "$borough",
                 meetingDetails : "$details",
                 meetingWheelchair : "$hasWheelchairAccess",
             },
                 meetingTime : { $push : "$meetingTimes.full" },
-                // meetingStartTime : { $push : "$startTime" },
                 meetingType : { $push : "$meetingTimes.meetingType" }
             }
             },
