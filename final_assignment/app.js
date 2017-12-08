@@ -23,7 +23,6 @@ var index3 = fs.readFileSync("index3.txt");
 app.get('/', function(req, res) {
     // Connect to the AWS RDS Postgres database
     const client = new Pool(db_credentials);
-
     // SQL query
     var q = `WITH lag_hall AS (
             SELECT x, y, z, 
@@ -55,7 +54,7 @@ app.get('/', function(req, res) {
             )
             SELECT  *
             FROM day_aggregate
-            ORDER by day desc;`;
+            ORDER by hour desc;`;
 
     client.connect();
     client.query(q, (qerr, qres) => {
