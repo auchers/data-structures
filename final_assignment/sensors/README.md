@@ -6,7 +6,7 @@ The final API endpoint for the month's worth of data can be found [here](https:/
 
 Specifications about how the data is intended to be displayed can be found [here]((https://github.com/auchers/data-structures/tree/master/final_assignment/sensors/dataVisualizationModel.pdf) ). 
 
-##Project Specifications:
+## Project Specifications:
 
 * programming a [Particle Photon sensor](https://www.particle.io/) utilizing accelerometer and hall (magnetic) sensors.
 * setting up sensor to collect 1 months worth of data (recording refrigerator activity).
